@@ -7,10 +7,19 @@
         "id": "f58df63f9c42e716",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "Excalidraw/Template.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "3efe6265f1238173",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Untitled_2021_11_07.excalidraw.md"
           }
         }
       }
@@ -68,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled_2021_11_07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,20 +100,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f58df63f9c42e716",
+  "active": "3efe6265f1238173",
   "lastOpenFiles": [
+    "Untitled_2021_11_07.excalidraw.md",
+    "Excalidraw/Template.excalidraw.md",
     "Untitled.md",
     "Drawing_2021_11_07.excalidraw.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Untitled_2021_11_07.excalidraw.md",
     "Untitled_ .excalidraw.md",
     "Untitled_ .excalidraw_1.md",
     "Untitled_ .excalidraw_0.md",
     "Untitled_2021-11-07 02.47.37.excalidraw.md",
-    "Excalidraw/Drawing 2021-11-07 02.42.30.excalidraw.md",
-    "Untitled 1.md"
+    "Excalidraw/Drawing 2021-11-07 02.42.30.excalidraw.md"
   ]
 }

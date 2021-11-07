@@ -5,5 +5,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "table-editor-obsidian",
-  "calendar"
+  "calendar",
+  "obsidian-kanban",
+  "sliding-panes-obsidian",
+  "obsidian-admonition"
 ]
