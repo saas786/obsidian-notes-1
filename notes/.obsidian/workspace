@@ -7,9 +7,10 @@
         "id": "cb5b9b4fc2ebdd4f",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Fall 2021.md"
+            "file": "Fall 2021.md",
+            "mode": "source"
           }
         }
       }
