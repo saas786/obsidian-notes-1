@@ -78,6 +78,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "0094aafdb6a332dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
