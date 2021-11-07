@@ -1,2 +1,3 @@
-Sinusoid $\sin(x)$ / $\cos(x)$
-- CSFT of a sinusoid --> impulse @ that frequency
+## Sinusoid $\sin(x)$ / $\cos(x)$
+- CSFT of a sinusoid $\rightarrow$ impulse @ that frequency
+-
