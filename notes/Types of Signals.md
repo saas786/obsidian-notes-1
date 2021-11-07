@@ -17,3 +17,8 @@ X(f) &= 2T\text{sinc}(f)
 $\text{CSFT}\{\Pi(t)\} = \text{sinc}(f)$
 
 ![[Types of Signals_2021_11_07.excalidraw.md]]
+
+## Sinc $\text{sinc}(t)$
+$$\begin{aligned}
+x(t) = \text{sinc}(\frac{t}{T}) = \sin(\\\\\\\\\\\\\\\pi)
+\end{aligned}$$
