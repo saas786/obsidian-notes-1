@@ -3,5 +3,6 @@
   "promptDelete": false,
   "useTab": false,
   "defaultViewMode": "preview",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true
 }

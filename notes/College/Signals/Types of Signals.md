@@ -16,7 +16,7 @@ X(f) &= 2T\text{sinc}(f)
 
 $\text{CSFT}\{\Pi(t)\} = \text{sinc}(f)$
 
-![[Types of Signals_2021_11_07.excalidraw.md]]
+![[Types of Signals_2021_11_07.excalidraw]]
 
 ## Sinc $\text{sinc}(t)$
 $$\begin{aligned}
@@ -24,9 +24,12 @@ x(t) = \text{sinc}(\frac{t}{T}) = \frac{\sin(\frac{\pi t}{T})}{\pi t / T}
 \end{aligned}$$
 - CSFT -> a pulse
 
+![[Pasted image 20211107042157.png]]
+
 ## Impulse $\delta(t)$
 
-## - Impulse Train
+## Impulse Train
 $$
 x(t) = \sum\limits^{\infty}_{k=-\infty}\delta(t - kT)
 $$
+- CSFT of an impulse train is an impulse train
