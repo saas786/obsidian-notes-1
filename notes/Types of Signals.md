@@ -1,0 +1,1 @@
+Sinusoid $\sin(x)$ / $\cos(x)$
