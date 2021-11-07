@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f58df63f9c42e716",
+        "id": "cb5b9b4fc2ebdd4f",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "kanban",
           "state": {
-            "file": "Excalidraw/Template.excalidraw.md"
-          }
-        }
-      },
-      {
-        "id": "3efe6265f1238173",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Untitled_2021_11_07.excalidraw.md"
+            "file": "Fall 2021.md"
           }
         }
       }
@@ -77,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Template.excalidraw.md",
+                "file": "Fall 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +93,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f58df63f9c42e716",
+  "active": "cb5b9b4fc2ebdd4f",
   "lastOpenFiles": [
-    "Excalidraw/Template.excalidraw.md",
+    "Fall 2021.md",
+    "FALL 2021.md",
     "Untitled_2021_11_07.excalidraw.md",
-    "Untitled.md",
+    "Excalidraw/Template.excalidraw.md",
     "Drawing_2021_11_07.excalidraw.md",
     "Untitled_ .excalidraw.md",
     "Untitled_ .excalidraw_1.md",
