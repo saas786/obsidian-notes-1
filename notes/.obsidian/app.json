@@ -2,5 +2,6 @@
   "vimMode": true,
   "promptDelete": false,
   "useTab": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "autoPairMarkdown": false
 }

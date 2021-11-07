@@ -20,5 +20,13 @@ $\text{CSFT}\{\Pi(t)\} = \text{sinc}(f)$
 
 ## Sinc $\text{sinc}(t)$
 $$\begin{aligned}
-x(t) = \text{sinc}(\frac{t}{T}) = \sin(\\\\\\\\\\\\\\\pi)
+x(t) = \text{sinc}(\frac{t}{T}) = \frac{\sin(\frac{\pi t}{T})}{\pi t / T}
 \end{aligned}$$
+- CSFT -> a pulse
+
+## Impulse $\delta(t)$
+
+## - Impulse Train
+$$
+x(t) = \sum\limits^{\infty}_{k=-\infty}\delta(t - kT)
+$$
