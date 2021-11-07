@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cb5b9b4fc2ebdd4f",
+        "id": "7029470022e5fc81",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Fall 2021.md",
-            "mode": "preview"
+            "file": "Fall 2021.md"
           }
         }
       }
@@ -94,7 +93,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb5b9b4fc2ebdd4f",
+  "active": "7029470022e5fc81",
   "lastOpenFiles": [
     "Fall 2021.md",
     "Excalidraw/Template.excalidraw.md",
