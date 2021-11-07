@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "5b80ee7cfd2a169a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f58df63f9c42e716",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e78f6239523d37d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a7e4e819788dc27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0ec74ff1990f0e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8dc6d31a8e13b5e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5521a900a66e62b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8822d9a08eaead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea0585161d79aa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f58df63f9c42e716",
+  "lastOpenFiles": [
+    "Excalidraw/Template.excalidraw.md",
+    "Untitled.md",
+    "Untitled_2021_11_07.excalidraw.md",
+    "Untitled_ .excalidraw.md",
+    "Untitled_ .excalidraw_1.md",
+    "Untitled_ .excalidraw_0.md",
+    "Untitled_2021-11-07 02.47.37.excalidraw.md",
+    "Excalidraw/Drawing 2021-11-07 02.42.30.excalidraw.md",
+    "Untitled 1.md"
+  ]
+}
