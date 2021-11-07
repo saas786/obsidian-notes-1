@@ -10,7 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Types of Signals.md",
-            "mode": "preview"
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d4c8c5a7ca02f562",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Types of Signals_2021_11_07.excalidraw.md"
           }
         }
       }
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Signals.md",
+                "file": "Types of Signals_2021_11_07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +96,25 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "f982d31fb82b9018",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "745983e7552e08cf",
+  "active": "d4c8c5a7ca02f562",
   "lastOpenFiles": [
+    "Types of Signals_2021_11_07.excalidraw.md",
     "Types of Signals.md",
     "Fall 2021.md",
     ".draw/Template.excalidraw.md",
@@ -104,7 +123,6 @@
     "Drawing_2021_11_07.excalidraw.md",
     "Untitled_ .excalidraw.md",
     "Untitled_ .excalidraw_1.md",
-    "Untitled_ .excalidraw_0.md",
-    "Untitled_2021-11-07 02.47.37.excalidraw.md"
+    "Untitled_ .excalidraw_0.md"
   ]
 }
