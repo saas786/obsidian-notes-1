@@ -7,3 +7,4 @@ e^{-jx} &= \cos(x) - j\sin(x) \\
 e^{jx} - e^{-jx} &= j2\sin(x)\\
 e^{jx} + e^{-jx} &= 2\cos(x) \\
 \end{align*}$$
+
