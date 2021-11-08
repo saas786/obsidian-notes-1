@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "0121e3c1b37eeb30",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0bafd6b13b46d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "dd503ce5739f977c",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "notes/College/FALL 2021.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a96ee06ab512e955",
+    "type": "split",
+    "children": [
+      {
+        "id": "9432bd2749f8c342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7623c305a47f322d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "372f97535eab4931",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b32debf458755494",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e7ee7b03d2322fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b219d45b45a04eed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/College/FALL 2021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd503ce5739f977c",
+  "lastOpenFiles": [
+    "notes/College/FALL 2021.md",
+    "Untitled.md"
+  ]
+}
