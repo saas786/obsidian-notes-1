@@ -5,7 +5,11 @@ Boiling point $\rightarrow 212\degree F$ at normal ATM, sea level
 Raise pressure -> lower boiling point
 
 Why steam:
-- source
+- source of heat and pressure
+- convenient & economical (water is everywhere)
+- easy to make
+- easy to control
+- versatile
 
 Dry (saturated) steam:
 - colorless vapor
