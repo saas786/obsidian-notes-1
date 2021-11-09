@@ -3,4 +3,6 @@
 Trapped in a box:
 - pressure increases
 - volume increases
-- 
+
+Boiling water with minerals produces "scaling" (looks white):
+- can mitigate by (1) distilling or (2) dimineralizing the water

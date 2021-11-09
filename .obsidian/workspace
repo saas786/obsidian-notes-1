@@ -18,9 +18,10 @@
         "id": "d16d393d435a6e71",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Teapot Theory_2021-11-09 07.20.47.excalidraw.md"
+            "file": "HECO/Steam Powered Plant.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
+                "file": "HECO/Steam Powered Plant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +99,9 @@
   },
   "active": "d16d393d435a6e71",
   "lastOpenFiles": [
-    "Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
-    "Teapot Theory.md",
     "HECO/Steam Powered Plant.md",
+    "Teapot Theory.md",
+    "Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
     "Untitled.md",
     "Game Design/Untitled.md",
     "notes/College/FALL 2021.md"
