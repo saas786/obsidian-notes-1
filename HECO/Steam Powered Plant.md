@@ -55,6 +55,8 @@ Condensate
 - condensate is sent to condensate pump
 
 Heat Exchanger
+- Tank containing many pipes with material "to be heated" (usually water or oil)
+- Takes heated steam (from turbine) in order to heat the pipes and material
 
 Combustion Turbine Generator
 - Burns fuel to power a turbine which powers a generator
