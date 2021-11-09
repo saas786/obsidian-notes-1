@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/Steam Powered Plant.md",
+                "file": "Teapot Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d16d393d435a6e71",
+  "active": "dd503ce5739f977c",
   "lastOpenFiles": [
-    "HECO/Steam Powered Plant.md",
     "Teapot Theory.md",
+    "HECO/Steam Powered Plant.md",
     "Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
     "Untitled.md",
     "Game Design/Untitled.md",
