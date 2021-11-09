@@ -44,3 +44,11 @@ Extracting steam from turbine:
 - sends preheated steam back into the boiler but takes it away from the turbine to power the generator
 - if preheated steam is sent into the boiler, not as much fuel will be needed to produce more steam
 
+- pumping condensated water is better than extrating wet steam
+
+## Condensate and Feedwater
+Condensate
+- Steam enters condenser
+- passes through a series a tubes with cooler water passing through it
+- condensate is sent to condensate pump
+
