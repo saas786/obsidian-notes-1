@@ -24,4 +24,7 @@ Wet steam:
 Waiau:
 - 2 combustion turbines
 
+Superheated steam -> Steam boiled at a high enough temperature to become dry.
 
+Measuring pressure -> Steam Tables
+- Can find pressure from volume of water/steam, H, U
