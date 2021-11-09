@@ -65,8 +65,11 @@ Combined Cycle
 - Uses a combustion turbine generator to heat water in a steam plant, as well as generate electricity
 
 Heat Rate
+$$
 Heat Rate = Fuel Energy Consumed / Electrical Energy Produced 
+$$
 - lower -> more efficient
+
 
 Btu: British Thermal Units
 KWH: Kilowatt-Hour,
