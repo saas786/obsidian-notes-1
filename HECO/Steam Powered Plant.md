@@ -67,4 +67,10 @@ Heat Rate = Fuel Energy Consumed / Electrical Energy Produced
 - lower -> more efficient
 
 Btu: British Thermal Units
-KWH: KiloWatt
+KWH: Kilowatt-Hour,
+3412 Btu/KWH -> 100% efficiency
+1000 Btu/KWH -> ~30% efficiency
+
+50% energy lost through the cooling water, other 50% split between generating energy and exhausted through the stack
+
+Aroun
