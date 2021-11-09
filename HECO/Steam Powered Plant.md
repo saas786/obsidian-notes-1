@@ -28,3 +28,11 @@ Superheated steam -> Steam boiled at a high enough temperature to become dry.
 
 Measuring pressure -> Steam Tables
 - Can find pressure from volume of water/steam, H, U
+
+Simple Plant Circle
+1. water, fuel, air sent into boiler
+2. boiler converts water into steam
+3. steam powers turbine
+4. turbine is connected to a generator
+5. generated
+
