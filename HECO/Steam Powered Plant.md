@@ -1,3 +1,5 @@
+# Introduction to the Steam Power Plant
+
 Boiling point $\rightarrow 212\degree F$ at normal ATM, sea level
 
 Raise pressure -> lower boiling point
@@ -9,4 +11,6 @@ Dry (saturated) steam:
 Wet steam:
 - white in color
 - less heat per pound than dry steam
+
+
 
