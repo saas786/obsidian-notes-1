@@ -1,4 +1,4 @@
-![[Teapot Theory_2021-11-09 07.20.47.excalidraw.md]]
+![[Teapot Theory_2021-11-09 07.20.47.excalidraw]]
 
 Improvements:
 - Feed spout back into teapot

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/Steam Powered Plant.md",
+            "file": "HECO/2. Power Plant Physics.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/Steam Powered Plant.md",
+            "file": "HECO/2. Power Plant Physics.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/Steam Powered Plant.md",
+                "file": "HECO/2. Power Plant Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +101,11 @@
   },
   "active": "d16d393d435a6e71",
   "lastOpenFiles": [
-    "HECO/Steam Powered Plant.md",
-    "Teapot Theory.md",
-    "Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
-    "Untitled.md",
+    "HECO/2. Power Plant Physics.md",
+    "HECO/1. Steam Powered Plants.md",
+    "HECO/Checks.md",
+    "HECO/Teapot Theory.md",
+    "HECO/Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
     "Game Design/Untitled.md",
     "notes/College/FALL 2021.md"
   ]
