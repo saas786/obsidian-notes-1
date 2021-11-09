@@ -29,6 +29,8 @@ Superheated steam -> Steam boiled at a high enough temperature to become dry.
 Measuring pressure -> Steam Tables
 - Can find pressure from volume of water/steam, H, U
 
+chemical energy -> thermal energy -> mechanical energy
+
 Simple Plant Circle
 1. water, fuel, air sent into boiler
 2. boiler converts water into steam
@@ -52,3 +54,6 @@ Condensate
 - passes through a series a tubes with cooler water passing through it
 - condensate is sent to condensate pump
 
+Heat Exchanger
+
+Combustion 
