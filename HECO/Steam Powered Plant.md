@@ -4,5 +4,8 @@ Raise pressure -> lower boiling point
 
 Dry saturated steam:
 - colorless vapor
-- turns white a short distance from the source
-- 
+- turns white (wet steam) a short distance from the source
+
+Wet steam:
+- white in color
+- less heat than dry steam
