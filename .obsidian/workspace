@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0c0bafd6b13b46d4",
+        "id": "dd503ce5739f977c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "HECO/Steam Powered Plant.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "dd503ce5739f977c",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "notes/College/FALL 2021.md"
           }
         }
       }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/College/FALL 2021.md",
+                "file": "HECO/Steam Powered Plant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +88,9 @@
   },
   "active": "dd503ce5739f977c",
   "lastOpenFiles": [
-    "notes/College/FALL 2021.md",
-    "Untitled.md"
+    "HECO/Steam Powered Plant.md",
+    "Untitled.md",
+    "Game Design/Untitled.md",
+    "notes/College/FALL 2021.md"
   ]
 }
