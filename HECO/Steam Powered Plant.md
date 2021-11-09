@@ -11,25 +11,34 @@ Why steam:
 - easy to control
 - versatile
 
-Dry (saturated) steam:
+Dry (saturated) or superheated steam:
+- produced when water is boiled at a high enough temperature
 - colorless vapor
 - turns white (wet steam) a short distance from the source
 
 Wet steam:
+- produced when dry steam cools down
 - white in color
 - less heat per pound than dry steam
+
+Boiling water with minerals produces "scaling" (looks white):
+- can mitigate by (1) distilling or (2) dimineralizing the water
 
 [[Teapot Theory]]
 
 Waiau:
 - 2 combustion turbines
 
-Superheated steam -> Steam boiled at a high enough temperature to become dry.
-
 Measuring pressure -> Steam Tables
 - Can find pressure from volume of water/steam, H, U
 
-chemical energy -> thermal energy -> mechanical energy
+Plant cycles: chemical energy -> thermal energy -> mechanical energy
+
+```nomnoml
+[chemical energy] burn fuel -> [thermal energy]
+[thermal energy] steam powering turbine-> [mechanical energy]
+[mechanical energy] -> [e]
+```
 
 
 Extracting steam from turbine:

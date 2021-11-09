@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "dd503ce5739f977c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Teapot Theory.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "d16d393d435a6e71",
         "type": "leaf",
         "state": {
@@ -23,7 +12,20 @@
             "file": "HECO/Steam Powered Plant.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "fa465d4b810d3e77"
+      },
+      {
+        "id": "73681ad9cde06771",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HECO/Steam Powered Plant.md",
+            "mode": "preview"
+          }
+        },
+        "group": "fa465d4b810d3e77"
       }
     ],
     "direction": "vertical"

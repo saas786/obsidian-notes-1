@@ -5,8 +5,7 @@ Improvements:
 - Close system in a box
 	- pressure increases
 	- volume increases
-
-Trapped in a box:
+- Condense extra steam and feed it back into teapot
 
 Boiling water with minerals produces "scaling" (looks white):
 - can mitigate by (1) distilling or (2) dimineralizing the water
