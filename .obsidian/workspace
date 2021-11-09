@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/Steam Powered Plant.md",
+            "file": "Teapot Theory.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/Steam Powered Plant.md",
+                "file": "Teapot Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "dd503ce5739f977c",
   "lastOpenFiles": [
+    "Teapot Theory.md",
     "HECO/Steam Powered Plant.md",
     "Untitled.md",
     "Game Design/Untitled.md",
