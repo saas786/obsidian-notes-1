@@ -1,6 +1,14 @@
 [
+<<<<<<< Updated upstream
   "obsidian-git",
   "obsidian-nomnoml-diagram",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin"
+=======
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "sliding-panes-obsidian"
+>>>>>>> Stashed changes
 ]
