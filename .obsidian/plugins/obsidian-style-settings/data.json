@@ -13,5 +13,7 @@
   "minimal-style@@h5-weight": 200,
   "minimal-style@@h6-weight": 200,
   "minimal-style@@h3-weight": 200,
-  "minimal-style@@text-editor": "\"Fantasque Sans Mono\", -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
+  "minimal-style@@text-editor": "\"Fantasque Sans Mono\", -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+  "minimal-style@@cursor": "default",
+  "minimal-style@@fancy-cursor": false
 }
