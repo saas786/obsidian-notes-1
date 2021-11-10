@@ -1,5 +1,8 @@
 {
   "baseFontSize": 15,
-  "cssTheme": "",
-  "translucency": false
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "style"
+  ]
 }
