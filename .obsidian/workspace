@@ -24,17 +24,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "5eff4d0becda5d64",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HECO/Enthalpy.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/Enthalpy.md",
+                "file": "HECO/2. Introduction to the Steam Power Plant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,10 +113,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5eff4d0becda5d64",
+  "active": "09cf62c5071e8533",
   "lastOpenFiles": [
-    "HECO/Enthalpy.md",
     "HECO/2. Introduction to the Steam Power Plant.md",
+    "HECO/Enthalpy.md",
     "HECO/Section 2 Quiz Answers.md",
     "HECO/3. Power Plant Physics.md",
     "College/Signals/Pasted image 20211107042157.png",
