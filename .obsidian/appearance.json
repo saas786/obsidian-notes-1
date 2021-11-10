@@ -1,6 +1,6 @@
 {
   "baseFontSize": 18,
-  "cssTheme": "Minimal",
+  "cssTheme": "Obsidian gruvbox",
   "translucency": true,
   "enabledCssSnippets": [
     "hide_files",

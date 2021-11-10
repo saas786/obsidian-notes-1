@@ -1,6 +1,6 @@
 {
-  "folder": "Excalidraw",
-  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "folder": "_attachments",
+  "templateFilePath": "_attachments/Template.excalidraw",
   "drawingFilenamePrefix": "Drawing ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "width": "400",
