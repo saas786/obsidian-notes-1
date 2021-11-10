@@ -2,8 +2,6 @@
   "baseFontSize": 18,
   "cssTheme": "Minimal",
   "translucency": true,
-  "enabledCssSnippets": [
-    "latex"
-  ],
+  "enabledCssSnippets": [],
   "theme": "obsidian"
 }

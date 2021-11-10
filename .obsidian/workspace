@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "eda10b35aabe62de",
+        "id": "e646ffce34991af1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "College/Signals/Types of Signals.md",
-            "mode": "preview"
+            "file": "HECO/2. Power Plant Physics.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Signals/Types of Signals.md",
+                "file": "HECO/2. Power Plant Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eda10b35aabe62de",
+  "active": "e646ffce34991af1",
   "lastOpenFiles": [
+    "HECO/2. Power Plant Physics.md",
+    "HECO/1. Steam Powered Plants.md",
+    "College/Signals/Pasted image 20211107042157.png",
+    "College/Signals/_attachments/Types of Signals_2021-11-09 19.47.38.excalidraw.md",
     "College/Signals/Types of Signals.md",
     "College/Signals/_attachments/Types of Signals_2021-11-09 19.47.38.excalidraw",
     "College/Signals/Types of Signals_2021_11_07.excalidraw.md",
     "HECO/Teapot Theory.md",
     "Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
-    "HECO/_attachments/Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
-    "HECO/_attachments/Teapot Theory_2021-11-09 19.41.06.excalidraw",
-    "HECO/1. Steam Powered Plants.md",
-    "Game Design/Untitled.md",
-    "Excalidraw/Drawing 2021-11-09 19.21.19.excalidraw.md"
+    "HECO/_attachments/Teapot Theory_2021-11-09 07.20.47.excalidraw.md"
   ]
 }
