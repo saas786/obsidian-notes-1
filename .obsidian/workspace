@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3be4a3cbb3776803",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "HECO/_attachments/Teapot Theory_2021-11-09 19.41.06.excalidraw"
-          }
-        }
-      },
-      {
-        "id": "ef91b5e5a7b472d1",
+        "id": "eda10b35aabe62de",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/Teapot Theory.md",
+            "file": "College/Signals/Types of Signals.md",
             "mode": "preview"
           }
         }
@@ -94,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/_attachments/Teapot Theory_2021-11-09 19.41.06.excalidraw",
+                "file": "College/Signals/Types of Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3be4a3cbb3776803",
+  "active": "eda10b35aabe62de",
   "lastOpenFiles": [
-    "HECO/_attachments/Teapot Theory_2021-11-09 19.41.06.excalidraw",
+    "College/Signals/Types of Signals.md",
+    "College/Signals/_attachments/Types of Signals_2021-11-09 19.47.38.excalidraw",
+    "College/Signals/Types of Signals_2021_11_07.excalidraw.md",
     "HECO/Teapot Theory.md",
+    "Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
+    "HECO/_attachments/Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
+    "HECO/_attachments/Teapot Theory_2021-11-09 19.41.06.excalidraw",
     "HECO/1. Steam Powered Plants.md",
     "Game Design/Untitled.md",
-    "Excalidraw/Drawing 2021-11-09 19.21.19.excalidraw.md",
-    "HECO/2. Power Plant Physics.md",
-    "HECO/_attachments/Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
-    "HECO/Checks.md",
-    "2021-11-01.md",
-    "Untitled.md"
+    "Excalidraw/Drawing 2021-11-09 19.21.19.excalidraw.md"
   ]
 }

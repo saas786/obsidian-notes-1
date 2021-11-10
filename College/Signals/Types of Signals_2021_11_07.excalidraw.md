@@ -344,6 +344,7 @@ excalidraw-plugin: parsed
 			}
 		</style>
 	</defs>
+	<rect x="0" y="0" width="380" height="264.9988699443593" fill="#ffffff"></rect>
 	<g stroke-linecap="round">
 		<g transform="translate(10 210.91608533411764) rotate(0 180 0)">
 			<path d="M-1.11 -0.92 C59.1 -0.88, 299.93 -0.59, 360.3 -0.4 M0.5 1.22 C60.68 1.47, 299.45 0.86, 359.5 0.93" stroke="#000000" stroke-width="1" fill="none"></path>

@@ -1,4 +1,3 @@
-![[Teapot Theory_2021-11-09 07.20.47.excalidraw]]
 ![[HECO/_attachments/Teapot Theory_2021-11-09 19.41.06.excalidraw]]
 
 Improvements:
