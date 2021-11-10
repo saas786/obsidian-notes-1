@@ -4,6 +4,7 @@
   "translucency": false,
   "enabledCssSnippets": [
     "latex",
-    "style"
+    "style",
+    "hide_files"
   ]
 }

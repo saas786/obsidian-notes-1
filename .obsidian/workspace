@@ -1,31 +1,15 @@
 {
   "main": {
-    "id": "0121e3c1b37eeb30",
+    "id": "1ba451dcac20763e",
     "type": "split",
     "children": [
       {
-        "id": "d16d393d435a6e71",
+        "id": "3df9a0efe25e03d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HECO/Checks.md",
-            "mode": "source"
-          }
-        },
-        "group": "fa465d4b810d3e77"
-      },
-      {
-        "id": "73681ad9cde06771",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HECO/Checks.md",
-            "mode": "preview"
-          }
-        },
-        "group": "fa465d4b810d3e77"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -37,6 +21,7 @@
       {
         "id": "9432bd2749f8c342",
         "type": "tabs",
+        "dimension": 68.00391389432485,
         "children": [
           {
             "id": "7623c305a47f322d",
@@ -62,6 +47,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "996be04c4be0b0f8",
+        "type": "tabs",
+        "dimension": 31.99608610567515,
+        "children": [
+          {
+            "id": "d0047609b5512d93",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/Checks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,31 +90,23 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "d0047609b5512d93",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "73681ad9cde06771",
+  "active": "3df9a0efe25e03d7",
   "lastOpenFiles": [
+    "2021-11-01.md",
+    "HECO/Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
+    "HECO/Teapot Theory.md",
     "HECO/Checks.md",
     "HECO/1. Steam Powered Plants.md",
     "HECO/2. Power Plant Physics.md",
     "Untitled.md",
     "Untitled_2021-11-08 00.19.48.excalidraw.md",
-    "HECO/Teapot Theory.md",
-    "HECO/Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
     "Game Design/Untitled.md",
     "College/FALL 2021.md"
   ]

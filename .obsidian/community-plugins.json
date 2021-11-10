@@ -3,5 +3,7 @@
   "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "obsidian-nomnoml-diagram"
+  "obsidian-nomnoml-diagram",
+  "obsidian-git",
+  "sliding-panes-obsidian"
 ]
