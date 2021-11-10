@@ -3,6 +3,7 @@
   "cssTheme": "Minimal",
   "translucency": false,
   "enabledCssSnippets": [
+    "latex",
     "style"
   ]
 }

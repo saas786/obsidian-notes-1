@@ -91,6 +91,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d0047609b5512d93",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
