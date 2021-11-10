@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "HECO/1. Steam Powered Plants.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "3df9a0efe25e03d7",
   "lastOpenFiles": [

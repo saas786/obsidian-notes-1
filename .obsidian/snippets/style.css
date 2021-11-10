@@ -1,3 +1,7 @@
 .markdown-preview-view {
-		font-family: "CMU Serif";
+	font-family: "CMU Serif", sans;
+}
+
+.markdown-source-view {
+	font-family: "Fantasque Sans Mono", monospace;
 }

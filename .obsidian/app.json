@@ -4,5 +4,7 @@
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
   "newFileLocation": "current",
-  "attachmentFolderPath": "./_attachments"
+  "attachmentFolderPath": "./_attachments",
+  "readableLineLength": true,
+  "strictLineBreaks": true
 }
