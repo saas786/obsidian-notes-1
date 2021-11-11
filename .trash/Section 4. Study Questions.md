@@ -120,4 +120,4 @@ controls algae and slime
 18. low pH; dissolved gasses
 19. carry-over
 20. damage by a chemical reaction (ex. rust)
-21. destruction by flow of a substrance
+21. damage by flow of a substance

@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "1ba451dcac20763e",
+    "id": "bc4f241636e03e75",
     "type": "split",
     "children": [
       {
-        "id": "8f2cbd0d60ba1bd1",
+        "id": "618725ae04bdd0c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/Section 4. Study Questions.md",
+            "file": "HECO/2. Introduction to the Steam Power Plant.md",
             "mode": "source"
           }
         }
@@ -18,16 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a96ee06ab512e955",
+    "id": "d2b7dbd89ba06f07",
     "type": "split",
     "children": [
       {
-        "id": "9432bd2749f8c342",
+        "id": "d06d1599e22705e2",
         "type": "tabs",
-        "dimension": 68.00391389432485,
         "children": [
           {
-            "id": "7623c305a47f322d",
+            "id": "d98bcf2249b39958",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +34,7 @@
             }
           },
           {
-            "id": "372f97535eab4931",
+            "id": "845c7b24ab2c1222",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,41 +49,34 @@
             }
           }
         ]
-      },
-      {
-        "id": "996be04c4be0b0f8",
-        "type": "tabs",
-        "dimension": 31.99608610567515,
-        "children": [
-          {
-            "id": "d0047609b5512d93",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "b32debf458755494",
+    "id": "a1972dec99a620bd",
     "type": "split",
     "children": [
       {
-        "id": "2e7ee7b03d2322fd",
+        "id": "75cf17bb38d9f5cb",
         "type": "tabs",
         "children": [
           {
-            "id": "b219d45b45a04eed",
+            "id": "079da25cf29eb8c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7f2afbcc9611b80",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/Section 4. Study Questions.md",
+                "file": "HECO/2. Introduction to the Steam Power Plant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +94,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f2cbd0d60ba1bd1",
+  "active": "618725ae04bdd0c5",
   "lastOpenFiles": [
-    "HECO/Section 4. Study Questions.md",
-    "HECO/Section 2 Quiz Answers.md",
-    "HECO/Untitled.md",
     "HECO/2. Introduction to the Steam Power Plant.md",
-    "HECO/Enthalpy.md",
+    "HECO/Section 2 Quiz Answers.md",
+    "HECO/4. Power Plant Chemistry.md",
+    "HECO/Section 4. Study Questions.md",
+    "HECO/5. Basic Electricity.md",
     "HECO/3. Power Plant Physics.md",
-    "College/Signals/Pasted image 20211107042157.png",
-    "College/Signals/_attachments/Types of Signals_2021-11-09 19.47.38.excalidraw.md",
-    "College/Signals/Types of Signals.md",
-    "College/Signals/_attachments/Types of Signals_2021-11-09 19.47.38.excalidraw"
+    "HECO/1.  Operator Trainee Training Program.md"
   ]
 }
