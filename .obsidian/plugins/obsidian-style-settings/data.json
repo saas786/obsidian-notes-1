@@ -14,5 +14,6 @@
   "sanctum@@no-blur": true,
   "sanctum@@no-sanctum-icons": false,
   "shimmering-focus@@show-titlebar": true,
-  "shimmering-focus@@show-ribbons": false
+  "shimmering-focus@@show-ribbons": false,
+  "shimmering-focus@@not-ia-writer-font": true
 }
