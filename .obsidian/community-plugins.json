@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
   "calendar",
-  "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-nomnoml-diagram",
   "obsidian-git",
@@ -9,5 +8,6 @@
   "obsidian-style-settings",
   "obsidian-dynamic-toc",
   "obsidian-admonition",
-  "format-hotkeys-obsidian"
+  "format-hotkeys-obsidian",
+  "obsidian-excalidraw-plugin"
 ]
