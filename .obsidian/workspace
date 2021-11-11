@@ -9,8 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/3. Power Plant Physics.md",
-            "mode": "source"
+            "file": "HECO/5. Basic Electricity.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "70f01715e953febb",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "HECO/attachments/5. Basic Electricity_2021-11-11 13.50.52.excalidraw"
           }
         }
       }
@@ -76,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/3. Power Plant Physics.md",
+                "file": "HECO/attachments/5. Basic Electricity_2021-11-11 13.50.52.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14fcf5dec6356635",
+  "active": "70f01715e953febb",
   "lastOpenFiles": [
-    "HECO/3. Power Plant Physics.md",
-    "HECO/2. Introduction to the Steam Power Plant.md",
+    "HECO/attachments/5. Basic Electricity_2021-11-11 13.50.52.excalidraw",
     "HECO/5. Basic Electricity.md",
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.49.17.excalidraw",
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.47.28.excalidraw",
+    "HECO/3. Power Plant Physics.md",
     "HECO/4. Power Plant Chemistry.md",
+    "HECO/2. Introduction to the Steam Power Plant.md",
     "Game Design/Untitled.md",
     "College/FALL 2021.md",
-    "HECO/Checks.md",
-    "HECO/Condensate & Feedwater.md",
-    "HECO/Enthalpy.md",
-    "HECO/Teapot Theory.md"
+    "HECO/Checks.md"
   ]
 }
