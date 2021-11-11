@@ -6,5 +6,9 @@
   "newFileLocation": "current",
   "spellcheck": true,
   "showLineNumber": true,
-  "lineWrap": false
+  "lineWrap": false,
+  "spellcheckDictionary": [
+    "Demineralizer",
+    "demineralization"
+  ]
 }
