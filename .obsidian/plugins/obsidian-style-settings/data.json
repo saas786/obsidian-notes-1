@@ -5,15 +5,12 @@
   "Yin and Yang@@preview-font": "\"CMU Serif\", Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Microsoft YaHei Light\", sans-serif",
   "Yin and Yang@@header-font-pre": "\"CMU Serif\", Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Microsoft YaHei Light\", sans-serif",
   "Yin and Yang@@macOS-translucent": true,
-  "minimal-style@@text": "\"CMU Serif\", -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
-  "minimal-style@@h1": "2em",
-  "minimal-style@@h1-weight": 100,
-  "minimal-style@@h2-weight": 300,
-  "minimal-style@@h4-weight": 200,
-  "minimal-style@@h5-weight": 200,
-  "minimal-style@@h6-weight": 200,
-  "minimal-style@@h3-weight": 200,
-  "minimal-style@@text-editor": "\"Fantasque Sans Mono\", -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
-  "minimal-style@@cursor": "default",
-  "minimal-style@@fancy-cursor": false
+  "sanctum@@no-file-icons": true,
+  "sanctum@@no-folder-icons": true,
+  "sanctum@@show-full-titles": true,
+  "sanctum@@show-vault-name": false,
+  "sanctum@@left-nav-arrows": false,
+  "sanctum@@fx-rl": true,
+  "sanctum@@no-blur": true,
+  "sanctum@@no-sanctum-icons": false
 }
