@@ -1,9 +1,11 @@
 [
   "table-editor-obsidian",
   "calendar",
-  "obsidian-kanban",
   "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
   "obsidian-nomnoml-diagram",
   "obsidian-git",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-style-settings",
+  "obsidian-dynamic-toc"
 ]
