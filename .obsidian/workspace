@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/4. Power Plant Chemistry.md",
+            "file": "HECO/2. Introduction to the Steam Power Plant.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/4. Power Plant Chemistry.md",
+                "file": "HECO/2. Introduction to the Steam Power Plant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "14fcf5dec6356635",
   "lastOpenFiles": [
+    "HECO/2. Introduction to the Steam Power Plant.md",
+    "HECO/5. Basic Electricity.md",
     "HECO/4. Power Plant Chemistry.md",
+    "HECO/3. Power Plant Physics.md",
     "Game Design/Untitled.md",
     "College/FALL 2021.md",
-    "HECO/3. Power Plant Physics.md",
-    "HECO/5. Basic Electricity.md",
     "HECO/Checks.md",
     "HECO/Condensate & Feedwater.md",
     "HECO/Enthalpy.md",
-    "HECO/Teapot Theory.md",
-    "HECO/2. Introduction to the Steam Power Plant.md"
+    "HECO/Teapot Theory.md"
   ]
 }

@@ -4,12 +4,13 @@
   "promptDelete": false,
   "attachmentFolderPath": "./_attachments",
   "newFileLocation": "current",
-  "spellcheck": true,
+  "spellcheck": false,
   "showLineNumber": false,
   "lineWrap": false,
   "spellcheckDictionary": [
     "Demineralizer",
-    "demineralization"
+    "demineralization",
+    "centimeter"
   ],
   "useTab": false
 }
