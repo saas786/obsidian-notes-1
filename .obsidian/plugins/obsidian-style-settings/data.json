@@ -15,5 +15,7 @@
   "sanctum@@no-sanctum-icons": false,
   "shimmering-focus@@show-titlebar": true,
   "shimmering-focus@@show-ribbons": false,
-  "shimmering-focus@@not-ia-writer-font": true
+  "shimmering-focus@@not-ia-writer-font": false,
+  "shimmering-focus@@sidebar-font-family": "\"iA Writer Quattro V\"",
+  "shimmering-focus@@less-heading-letter-spacing": false
 }
