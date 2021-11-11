@@ -1,0 +1,14 @@
+[
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-kanban",
+<<<<<<< HEAD
+  "obsidian-excalidraw-plugin",
+  "obsidian-nomnoml-diagram"
+=======
+  "obsidian-nomnoml-diagram",
+  "obsidian-git",
+  "sliding-panes-obsidian",
+  "obsidian-style-settings"
+>>>>>>> 053133769b433a047c5caee9c7d23bfdc4e8f697
+]

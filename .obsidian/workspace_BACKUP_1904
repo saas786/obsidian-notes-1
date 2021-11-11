@@ -1,17 +1,40 @@
 {
   "main": {
-    "id": "ef0245e34ad6529c",
+<<<<<<< HEAD
+    "id": "8efe84e11e60ad99",
     "type": "split",
     "children": [
       {
-        "id": "2f09be3cb4e3cccd",
+        "id": "76b8b3725326e9c1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+=======
+    "id": "1ba451dcac20763e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f2cbd0d60ba1bd1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/3. Power Plant Physics.md",
+            "file": "HECO/Section 2 Quiz Answers.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "09cf62c5071e8533",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HECO/2. Introduction to the Steam Power Plant.md",
+            "mode": "source"
+          }
+>>>>>>> 053133769b433a047c5caee9c7d23bfdc4e8f697
         }
       }
     ],
@@ -24,6 +47,7 @@
       {
         "id": "9432bd2749f8c342",
         "type": "tabs",
+        "dimension": 68.00391389432485,
         "children": [
           {
             "id": "7623c305a47f322d",
@@ -49,6 +73,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "996be04c4be0b0f8",
+        "type": "tabs",
+        "dimension": 31.99608610567515,
+        "children": [
+          {
+            "id": "d0047609b5512d93",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -68,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/3. Power Plant Physics.md",
+                "file": "HECO/2. Introduction to the Steam Power Plant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +133,21 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f09be3cb4e3cccd",
+<<<<<<< HEAD
+  "active": "76b8b3725326e9c1",
+=======
+  "active": "09cf62c5071e8533",
+>>>>>>> 053133769b433a047c5caee9c7d23bfdc4e8f697
   "lastOpenFiles": [
-    "HECO/3. Power Plant Physics.md",
     "HECO/2. Introduction to the Steam Power Plant.md",
-    "HECO/5. Basic Electricity.md",
+    "HECO/Enthalpy.md",
     "HECO/Section 2 Quiz Answers.md",
-    "HECO/4. Power Plant Chemistry.md",
-    "HECO/Condensate & Feedwater.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-10 11.23.15.excalidraw",
-    "HECO/_attachments/5. Basic Electricity_2021-11-10 11.23.15.svg.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-10 11.16.52.excalidraw",
-    "HECO/_attachments/5. Basic Electricity_2021-11-10 11.13.16.excalidraw"
+    "HECO/3. Power Plant Physics.md",
+    "College/Signals/Pasted image 20211107042157.png",
+    "College/Signals/_attachments/Types of Signals_2021-11-09 19.47.38.excalidraw.md",
+    "College/Signals/Types of Signals.md",
+    "College/Signals/_attachments/Types of Signals_2021-11-09 19.47.38.excalidraw",
+    "College/Signals/Types of Signals_2021_11_07.excalidraw.md",
+    "HECO/Teapot Theory.md"
   ]
 }

@@ -1,18 +1,25 @@
 {
   "main": {
-    "id": "ef0245e34ad6529c",
+    "id": "0121e3c1b37eeb30",
     "type": "split",
     "children": [
       {
-        "id": "2f09be3cb4e3cccd",
+        "id": "d16d393d435a6e71",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HECO/3. Power Plant Physics.md",
-            "mode": "source"
-          }
-        }
+          "type": "empty",
+          "state": {}
+        },
+        "group": "fa465d4b810d3e77"
+      },
+      {
+        "id": "73681ad9cde06771",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "fa465d4b810d3e77"
       }
     ],
     "direction": "vertical"
@@ -68,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/3. Power Plant Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,14 +84,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "f3bf8f19de8cb5ec",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
@@ -94,17 +92,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f09be3cb4e3cccd",
+  "active": "73681ad9cde06771",
   "lastOpenFiles": [
-    "HECO/3. Power Plant Physics.md",
-    "HECO/2. Introduction to the Steam Power Plant.md",
-    "HECO/5. Basic Electricity.md",
-    "HECO/Section 2 Quiz Answers.md",
-    "HECO/4. Power Plant Chemistry.md",
-    "HECO/Condensate & Feedwater.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-10 11.23.15.excalidraw",
-    "HECO/_attachments/5. Basic Electricity_2021-11-10 11.23.15.svg.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-10 11.16.52.excalidraw",
-    "HECO/_attachments/5. Basic Electricity_2021-11-10 11.13.16.excalidraw"
+    "Untitled.md",
+    "Untitled_2021-11-08 00.19.48.excalidraw.md",
+    "HECO/2. Power Plant Physics.md",
+    "HECO/1. Steam Powered Plants.md",
+    "HECO/Checks.md",
+    "HECO/Teapot Theory.md",
+    "HECO/Teapot Theory_2021-11-09 07.20.47.excalidraw.md",
+    "Game Design/Untitled.md",
+    "College/FALL 2021.md"
   ]
 }
