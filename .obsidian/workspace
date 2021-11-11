@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "618725ae04bdd0c5",
+        "id": "14fcf5dec6356635",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "College/Math Properties.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Math Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +90,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "618725ae04bdd0c5",
+  "active": "14fcf5dec6356635",
   "lastOpenFiles": [
+    "College/k.md",
     "College/Math Properties.md",
     "College/FALL 2021.md",
     "HECO/4. Power Plant Chemistry.md",
@@ -104,7 +101,6 @@
     "HECO/Condensate & Feedwater.md",
     "HECO/Checks.md",
     "HECO/2. Introduction to the Steam Power Plant.md",
-    "HECO/Section 2 Quiz Answers.md",
-    "HECO/Section 4. Study Questions.md"
+    "HECO/Section 2 Quiz Answers.md"
   ]
 }
