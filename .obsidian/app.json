@@ -5,10 +5,11 @@
   "attachmentFolderPath": "./_attachments",
   "newFileLocation": "current",
   "spellcheck": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "lineWrap": false,
   "spellcheckDictionary": [
     "Demineralizer",
     "demineralization"
-  ]
+  ],
+  "useTab": false
 }
