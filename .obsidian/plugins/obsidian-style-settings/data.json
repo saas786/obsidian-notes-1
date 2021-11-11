@@ -12,5 +12,7 @@
   "sanctum@@left-nav-arrows": false,
   "sanctum@@fx-rl": true,
   "sanctum@@no-blur": true,
-  "sanctum@@no-sanctum-icons": false
+  "sanctum@@no-sanctum-icons": false,
+  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-ribbons": false
 }
