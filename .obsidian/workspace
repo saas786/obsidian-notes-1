@@ -7,10 +7,9 @@
         "id": "618725ae04bdd0c5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "HECO/4. Power Plant Chemistry.md",
-            "mode": "source"
+            "file": "College/FALL 2021.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/4. Power Plant Chemistry.md",
+                "file": "College/FALL 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +95,7 @@
   },
   "active": "618725ae04bdd0c5",
   "lastOpenFiles": [
+    "College/FALL 2021.md",
     "HECO/4. Power Plant Chemistry.md",
     "HECO/5. Basic Electricity.md",
     "HECO/3. Power Plant Physics.md",
