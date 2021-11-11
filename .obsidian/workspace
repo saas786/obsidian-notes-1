@@ -7,10 +7,9 @@
         "id": "14fcf5dec6356635",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "HECO/3. Power Plant Physics.md",
-            "mode": "source"
+            "file": "College/FALL 2021.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/3. Power Plant Physics.md",
+                "file": "College/FALL 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +95,7 @@
   },
   "active": "14fcf5dec6356635",
   "lastOpenFiles": [
+    "College/FALL 2021.md",
     "HECO/3. Power Plant Physics.md",
     "HECO/5. Basic Electricity.md",
     "HECO/Checks.md",
@@ -104,7 +104,6 @@
     "HECO/Teapot Theory.md",
     "HECO/4. Power Plant Chemistry.md",
     "HECO/2. Introduction to the Steam Power Plant.md",
-    "College/k.md",
-    "College/Math Properties.md"
+    "College/k.md"
   ]
 }
