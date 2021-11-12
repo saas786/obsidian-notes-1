@@ -7,7 +7,7 @@ $$
 $$
 Find the PSD and the power $P_y$ of the output random process y(t).
 
-
+![[College/EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md]]
 
 - __11.1-4__ An alternative to the optimum filter is a suboptimum filter, where we assume a particular filter form and adjust its parameters to maximize $\rho$. Such filters are inferior to the optimum filter but may be simpler to design.
 \
