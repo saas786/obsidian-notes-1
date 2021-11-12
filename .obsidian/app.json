@@ -2,7 +2,7 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "./_attachments",
+  "attachmentFolderPath": "./.attachments",
   "newFileLocation": "current",
   "spellcheck": false,
   "showLineNumber": false,
