@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "College/EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md"
+            "file": "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md"
           }
         }
       },
@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "College/EE 343/PS6.md",
+            "file": "College/Probability/Untitled.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/EE 343/PS6.md",
+                "file": "College/Probability/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "e1e9f0e94b2f928c",
   "lastOpenFiles": [
-    "College/EE 343/PS6.md",
+    "College/Probability/Untitled.md",
+    "College/Communications/Random Processes.md",
+    "College/+EE 343/PS6.md",
     "College/Signals/Probability Density Function.md",
     "College/Signals/Probability Spetrum Density.md",
     "College/Signals/_attachments/Probability Density Function_2021-11-11 19.31.31.excalidraw.md",
-    "College/EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
+    "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
     "College/FALL 2021.md",
     "College/EE 343/Untitled.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.59.44.excalidraw",
-    "College/Math Properties.md",
-    "College/Signals/_attachments/Pasted image 20211107042157.png"
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.59.44.excalidraw"
   ]
 }
