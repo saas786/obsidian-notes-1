@@ -11,4 +11,4 @@ The probability density function or PDF is
 
 $P(A) = \sum\limits_{i}P(A \cap B_i)$
 $P(A) = \sum\limits_{i}P(A|B_i)P(B_i)$
-$p(x) = \sum\limits$
+$p(x) = \sum\limits_{i}P(x|B_i)P(B_i)$
