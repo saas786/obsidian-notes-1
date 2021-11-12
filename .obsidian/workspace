@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "a23639208cb0ac89",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "HECO/_attachments/5. Basic Electricity_2021-11-12 06.29.06.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/5. Basic Electricity.md",
+                "file": "HECO/_attachments/5. Basic Electricity_2021-11-12 06.29.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +104,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ccc3ad37ccfabc45",
+  "active": "a23639208cb0ac89",
   "lastOpenFiles": [
+    "HECO/_attachments/5. Basic Electricity_2021-11-12 06.29.06.excalidraw.md",
     "HECO/5. Basic Electricity.md",
     "HECO/2. Introduction to the Steam Power Plant.md",
     "HECO/3. Power Plant Physics.md",
@@ -104,7 +115,6 @@
     "PS6.pdf",
     "College/Signals/Probability Spetrum Density.md",
     "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
-    "College/+EE 343/PS6.md",
-    "College/Signals/Probability Density Function.md"
+    "College/+EE 343/PS6.md"
   ]
 }
