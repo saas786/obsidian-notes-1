@@ -2,14 +2,13 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
   "obsidian-nomnoml-diagram",
   "obsidian-git",
   "sliding-panes-obsidian",
-  "obsidian-style-settings",
   "obsidian-dynamic-toc",
   "obsidian-admonition",
   "format-hotkeys-obsidian",
-  "obsidian-excalidraw-plugin",
-  "quick-latex",
-  "obsidian-pandoc"
+  "obsidian-style-settings",
+  "quick-latex"
 ]
