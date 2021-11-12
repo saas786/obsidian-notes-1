@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/2. Introduction to the Steam Power Plant.md",
-            "mode": "preview"
+            "file": "HECO/5. Basic Electricity.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/2. Introduction to the Steam Power Plant.md",
+                "file": "HECO/5. Basic Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +96,10 @@
   },
   "active": "ccc3ad37ccfabc45",
   "lastOpenFiles": [
+    "HECO/5. Basic Electricity.md",
     "HECO/2. Introduction to the Steam Power Plant.md",
     "HECO/3. Power Plant Physics.md",
     "HECO/4. Power Plant Chemistry.md",
-    "HECO/5. Basic Electricity.md",
     "conflict-files-obsidian-git.md",
     "PS6.pdf",
     "College/Signals/Probability Spetrum Density.md",
