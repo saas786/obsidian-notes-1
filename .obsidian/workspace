@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "College/Probability/Untitled.md",
+            "file": "College/Signals/Probability Spetrum Density.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Probability/Untitled.md",
+                "file": "College/Signals/Probability Spetrum Density.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,11 +106,11 @@
   },
   "active": "e1e9f0e94b2f928c",
   "lastOpenFiles": [
-    "College/Probability/Untitled.md",
+    "College/Signals/Probability Spetrum Density.md",
     "College/Communications/Random Processes.md",
+    "College/Probability/Mean.md",
     "College/+EE 343/PS6.md",
     "College/Signals/Probability Density Function.md",
-    "College/Signals/Probability Spetrum Density.md",
     "College/Signals/_attachments/Probability Density Function_2021-11-11 19.31.31.excalidraw.md",
     "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
     "College/FALL 2021.md",
