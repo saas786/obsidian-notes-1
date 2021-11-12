@@ -7,20 +7,10 @@
         "id": "46c8d7ba41b2f612",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "College/EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md"
-          }
-        }
-      },
-      {
-        "id": "3b3fac6240c49562",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "College/EE 343/PS6.md",
-            "mode": "preview"
+            "file": "College/Signals/Probability Spetrum Density.md",
+            "mode": "source"
           }
         }
       }
@@ -86,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/EE 343/PS6.md",
+                "file": "College/Signals/Probability Spetrum Density.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b3fac6240c49562",
+  "active": "46c8d7ba41b2f612",
   "lastOpenFiles": [
-    "College/EE 343/PS6.md",
-    "College/EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.59.44.excalidraw",
+    "College/Signals/Probability Spetrum Density.md",
     "College/FALL 2021.md",
+    "College/EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
+    "College/EE 343/Untitled.md",
+    "College/EE 343/PS6.md",
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.59.44.excalidraw",
     "College/Math Properties.md",
     "College/Signals/_attachments/Pasted image 20211107042157.png",
     "HECO/5. Basic Electricity.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-11 14.01.12.excalidraw.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.56.01.excalidraw.md",
-    "HECO/5. Basic Electricity_2021-11-11 13.53.01.excalidraw.md"
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 14.01.12.excalidraw.md"
   ]
 }
