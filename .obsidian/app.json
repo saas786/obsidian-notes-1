@@ -4,20 +4,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "./_attachments",
   "newFileLocation": "current",
-  "spellcheck": false,
-  "showLineNumber": false,
-  "lineWrap": true,
-  "spellcheckDictionary": [
-    "Demineralizer",
-    "demineralization",
-    "centimeter"
-  ],
-  "useTab": false,
-  "showUnsupportedFiles": true,
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "2",
-    "downscalePercent": 100
-  }
+  "spellcheck": true,
+  "showLineNumber": true,
+  "lineWrap": false
 }

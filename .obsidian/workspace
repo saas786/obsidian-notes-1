@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "bc4f241636e03e75",
+    "id": "ef0245e34ad6529c",
     "type": "split",
     "children": [
       {
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d2b7dbd89ba06f07",
+    "id": "a96ee06ab512e955",
     "type": "split",
     "children": [
       {
-        "id": "d06d1599e22705e2",
+        "id": "9432bd2749f8c342",
         "type": "tabs",
         "children": [
           {
-            "id": "d98bcf2249b39958",
+            "id": "7623c305a47f322d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "845c7b24ab2c1222",
+            "id": "372f97535eab4931",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "a1972dec99a620bd",
+    "id": "b32debf458755494",
     "type": "split",
     "children": [
       {
-        "id": "75cf17bb38d9f5cb",
+        "id": "2e7ee7b03d2322fd",
         "type": "tabs",
         "children": [
           {
-            "id": "079da25cf29eb8c7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7f2afbcc9611b80",
+            "id": "b219d45b45a04eed",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -81,6 +73,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "f3bf8f19de8cb5ec",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
