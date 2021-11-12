@@ -10,7 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "HECO/6. Valves and Piping Systems.md",
-            "mode": "preview"
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1a851c4f00d1ddc2",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "HECO/_attachments/6. Valves and Piping Systems_2021-11-12 08.14.18.excalidraw.md"
           }
         }
       }
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/6. Valves and Piping Systems.md",
+                "file": "HECO/_attachments/6. Valves and Piping Systems_2021-11-12 08.14.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +104,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ccc3ad37ccfabc45",
+  "active": "1a851c4f00d1ddc2",
   "lastOpenFiles": [
+    "HECO/_attachments/6. Valves and Piping Systems_2021-11-12 08.14.18.excalidraw.md",
     "HECO/6. Valves and Piping Systems.md",
     "HECO/5. Basic Electricity.md",
     "College/FALL 2021.md",
@@ -104,7 +115,6 @@
     "HECO/2. Introduction to the Steam Power Plant.md",
     "HECO/_attachments/5. Basic Electricity_2021-11-12 06.29.06.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "PS6.pdf",
-    "College/Signals/Probability Spetrum Density.md"
+    "PS6.pdf"
   ]
 }
