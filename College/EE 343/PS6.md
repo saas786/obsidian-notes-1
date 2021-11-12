@@ -1,4 +1,5 @@
 # EE 343 Problem Set 6
+---
 
 1. 
 __9.4-1__ Two independent random voltage processes $x_1(t)$ and $x_2(t)$ are applied to an RC network, as shown in figure 9.14. The two random noise processes have the following PSD:
