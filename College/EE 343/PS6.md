@@ -31,16 +31,14 @@ __(c)__ Implement X1(t) and X2(t) on MATLAB and confirm analytical results.
 
 4) Consider the following signal:  
 $$
-s(t) = Π(t/3) cos(πt) = \big\{ \begin{matrix}
+s(t) = Π(t/3) cos(πt) = \Bigg\{ \begin{matrix}
     cos(πt) & ,\text{if }|t|≤1.5 \\
     0 & ,\text{otherwise}
 \end{matrix}
 $$
-The signal is contaminated by additive white Gaussian noise with Sn(ω) = 0.05. Both signal and  
-noise are input into a linear time invariant filter h(t). The output of the filter due to signal is so(t)  
-and the output of the filter due to noise is no(t).  
-a) Find the impulse response h∗(t) of the optimal filter that maximizes  
+The signal is contaminated by additive white Gaussian noise with $S_n(ω) = 0.05$. Both signal and noise are input into a linear time invariant filter h(t). The output of the filter due to signal is $s_o(t)$ and the output of the filter due to noise is $n_o(t)$.
+__(a)__ Find the impulse response h∗(t) of the optimal filter that maximizes  
 (SNR)o = so2(0.5)/Pno  
 at time T = 0.5.  
-b) Compute the (SNR)o, Pno, and so(0.5).  
-c) Now assume the filter must be causal. If h(t) = h∗(t)u(t) compute the (SNR)o, Pno, and so(0.5)
+__(b)__ Compute the (SNR)o, Pno, and so(0.5).  
+__(c)__ Now assume the filter must be causal. If h(t) = h∗(t)u(t) compute the (SNR)o, Pno, and so(0.5)
