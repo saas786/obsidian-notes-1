@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "991c896840f9f7f0",
+        "id": "6571489580727e33",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "HECO/_attachments/5. Basic Electricity_2021-11-11 13.56.01.excalidraw.md"
+            "file": "HECO/_attachments/5. Basic Electricity_2021-11-11 14.01.12.excalidraw.md"
           }
         }
       }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/_attachments/5. Basic Electricity_2021-11-11 13.56.01.excalidraw.md",
+                "file": "HECO/5. Basic Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "991c896840f9f7f0",
+  "active": "3b3fac6240c49562",
   "lastOpenFiles": [
-    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.56.01.excalidraw.md",
     "HECO/5. Basic Electricity.md",
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 14.01.12.excalidraw.md",
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.59.44.excalidraw",
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.56.01.excalidraw.md",
     "HECO/5. Basic Electricity_2021-11-11 13.53.01.excalidraw.md",
     "HECO/4. Power Plant Chemistry.md",
     "HECO/5. Basic Electricity_2021-11-11 13.53.01.excalidraw",
     "_attachments/5. Basic Electricity_2021-11-11 13.52.19.excalidraw",
     "HECO/attachments/5. Basic Electricity_2021-11-11 13.50.52.excalidraw",
-    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.49.17.excalidraw",
-    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.47.28.excalidraw",
-    "HECO/3. Power Plant Physics.md"
+    "HECO/_attachments/5. Basic Electricity_2021-11-11 13.49.17.excalidraw"
   ]
 }
