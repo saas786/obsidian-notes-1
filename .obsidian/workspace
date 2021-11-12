@@ -14,15 +14,33 @@
         }
       },
       {
-        "id": "e1e9f0e94b2f928c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "College/Signals/Probability Spetrum Density.md",
-            "mode": "source"
+        "id": "f51b85ecdc8f610c",
+        "type": "split",
+        "children": [
+          {
+            "id": "e1e9f0e94b2f928c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Signals/Probability Spetrum Density.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "a23e50b49ff3d754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/+EE 343/PS6.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Signals/Probability Spetrum Density.md",
+                "file": "College/+EE 343/PS6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,14 +122,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1e9f0e94b2f928c",
+  "active": "a23e50b49ff3d754",
   "lastOpenFiles": [
+    "College/+EE 343/PS6.md",
     "College/Signals/Probability Spetrum Density.md",
     "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
     "College/Signals/Probability Density Function.md",
     "College/Communications/Random Processes.md",
     "College/Probability/Mean.md",
-    "College/+EE 343/PS6.md",
     "College/Signals/_attachments/Probability Density Function_2021-11-11 19.31.31.excalidraw.md",
     "College/FALL 2021.md",
     "College/EE 343/Untitled.md",
