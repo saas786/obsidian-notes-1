@@ -22,3 +22,5 @@ __(b)__ Find the joint pdf of $Y_1$ and $Y_2$. What type of random vector is thi
 __(c)__ Find a linear transformation of $Y_1$ and $Y_2$ to produce $Z_1$ and $Z_2$ that are iid Gaussian random variables with mean 0 and variance 1.
 __(d)__ Implement the random variables in a) -c) on MATLAB. Find the sample means, variances, and  
 covariances. Is the transformation unique?
+
+3)
