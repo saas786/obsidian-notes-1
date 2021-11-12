@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe5977615155c269",
+        "id": "f9fd6bd7d74d8974",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HECO/4. Power Plant Chemistry.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/4. Power Plant Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +90,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe5977615155c269",
+  "active": "f9fd6bd7d74d8974",
   "lastOpenFiles": [
+    "PS6.pdf",
     "HECO/4. Power Plant Chemistry.md",
     "HECO/3. Power Plant Physics.md",
     "HECO/5. Basic Electricity.md",
@@ -104,7 +101,6 @@
     "College/+EE 343/PS6.md",
     "College/Signals/Probability Density Function.md",
     "College/Communications/Random Processes.md",
-    "College/Probability/Mean.md",
-    "College/Signals/_attachments/Probability Density Function_2021-11-11 19.31.31.excalidraw.md"
+    "College/Probability/Mean.md"
   ]
 }
