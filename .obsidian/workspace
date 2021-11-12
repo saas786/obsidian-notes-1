@@ -7,10 +7,9 @@
         "id": "ccc3ad37ccfabc45",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "HECO/5. Basic Electricity.md",
-            "mode": "source"
+            "file": "College/FALL 2021.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/5. Basic Electricity.md",
+                "file": "College/FALL 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +95,7 @@
   },
   "active": "ccc3ad37ccfabc45",
   "lastOpenFiles": [
+    "College/FALL 2021.md",
     "HECO/5. Basic Electricity.md",
     "HECO/4. Power Plant Chemistry.md",
     "HECO/3. Power Plant Physics.md",
@@ -104,7 +104,6 @@
     "conflict-files-obsidian-git.md",
     "PS6.pdf",
     "College/Signals/Probability Spetrum Density.md",
-    "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
-    "College/+EE 343/PS6.md"
+    "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md"
   ]
 }
