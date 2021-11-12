@@ -24,4 +24,23 @@ __(c)__ Find a linear transformation of $Y_1$ and $Y_2$ to produce $Z_1$ and $Z_
 __(d)__ Implement the random variables in a) -c) on MATLAB. Find the sample means, variances, and  
 covariances. Is the transformation unique?
 
-3)
+3) Let N(t) be a Gaussian white noise process with mean zero and power spectral density $S_N (f) = N_0/2$.
+__(a)__ Let N(t) be input to an LTI system with impulse response $h_1(t) = u(t) − u(t − T)$ to produce output X1(t). Find the power spectral density of X1(t), the power of X1(t), and the autocorrelation function, $R_{X_1(τ)} = E(X1(t + τ)X1(t))$.
+__(b)__ Let N(t) be input to an LTI system with impulse response h2(t) = exp(−t)u(t) to produce output X2(t). Find the power spectral density of X2(t), the power of X2(t), and the autocorrelation function, RX2(τ) = E(X2(t + τ)X2(t)).  
+__(c)__ Implement X1(t) and X2(t) on MATLAB and confirm analytical results.
+
+4) Consider the following signal:  
+$$
+s(t) = Π(t/3) cos(πt) = \big\{ \begin{matrix}
+    cos(πt) & ,\text{if }|t|≤1.5 \\
+    0 & ,\text{otherwise}
+\end{matrix}
+$$
+The signal is contaminated by additive white Gaussian noise with Sn(ω) = 0.05. Both signal and  
+noise are input into a linear time invariant filter h(t). The output of the filter due to signal is so(t)  
+and the output of the filter due to noise is no(t).  
+a) Find the impulse response h∗(t) of the optimal filter that maximizes  
+(SNR)o = so2(0.5)/Pno  
+at time T = 0.5.  
+b) Compute the (SNR)o, Pno, and so(0.5).  
+c) Now assume the filter must be causal. If h(t) = h∗(t)u(t) compute the (SNR)o, Pno, and so(0.5)
