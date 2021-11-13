@@ -30,6 +30,13 @@ EPRI
 -	evaluate defenses
 -	review operating experience
 
+### Three-way Communication
+
+==reason to use==:
+-	to provide clear, concise and complete transfer of information
+-	to ensure that the intended message is received and understood
+-	to minimize the potential for making errors because of poor communication
+
 ### STAR
 -	stop
 -	think
