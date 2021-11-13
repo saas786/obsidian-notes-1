@@ -29,3 +29,9 @@ EPRI
 -	foresee consequences
 -	evaluate defenses
 -	review operating experience
+
+### STAR
+-	stop
+-	think
+-	act
+-	review
