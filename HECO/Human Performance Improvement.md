@@ -22,3 +22,10 @@ EPRI
 ## Human Performance Toolbox
 
 ==The first step to safe and error-free operations is recognizing the Error Precursors that exist in the work environment.==
+
+### ==SAFER==
+-	summarize critical steps
+-	anticipate error-likely situations
+-	foresee consequences
+-	evaluate defenses
+-	review operating experience
