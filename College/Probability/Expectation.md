@@ -8,8 +8,14 @@ E[X] = \sum\limits_{x}xp_{X}(x)
 $$
 
 ## Properties
-$$ \begin
-$$
+If $X, Y$ are random variables and $a, b$ are constants, then
+$$ \begin{aligned}
+E[X + Y] &= E[X] + E[Y] \\
+E[XY] &= E[X]E[Y] \\
+E[a + f(X)] &= a + E[f(X)] \\
+E[aX + b] &= aE[X] + b \\
+E[a] &= a
+\end{aligned} $$
 
 ## Variance
 
