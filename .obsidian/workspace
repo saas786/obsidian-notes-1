@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "4a5a25458c6c45d9",
+    "id": "b6f4d175257a076f",
     "type": "split",
     "children": [
       {
-        "id": "ccc3ad37ccfabc45",
+        "id": "ae3078e73dacad8a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HECO/Human Performance Improvement.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/Human Performance Improvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ccc3ad37ccfabc45",
+  "active": "ae3078e73dacad8a",
   "lastOpenFiles": [
-    "HECO/Human Performance Improvement.md",
-    "HECO/1.  Operator Trainee Training Program.md",
-    "HECO/6. Valves and Piping Systems.md",
-    "HECO/_attachments/6. Valves and Piping Systems_2021-11-12 08.14.18.excalidraw.md",
-    "HECO/5. Basic Electricity.md",
-    "College/FALL 2021.md",
+    "conflict-files-obsidian-git.md",
+    "PS6.pdf",
     "HECO/4. Power Plant Chemistry.md",
     "HECO/3. Power Plant Physics.md",
-    "HECO/2. Introduction to the Steam Power Plant.md",
-    "HECO/_attachments/5. Basic Electricity_2021-11-12 06.29.06.excalidraw.md"
+    "HECO/5. Basic Electricity.md",
+    "College/Signal Processing/Probability Spetrum Density.md",
+    "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
+    "College/+EE 343/PS6.md",
+    "College/Signal Processing/Probability Density Function.md",
+    "College/Communications/Random Processes.md"
   ]
 }
