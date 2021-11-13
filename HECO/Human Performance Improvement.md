@@ -5,7 +5,8 @@ EPRI
 
 ## Common Error Precursors
 
-- **==on "trap ahead" card==**
+- ==on "trap ahead" card==
+
 
 - task demands
 - individual capabilities
