@@ -4,7 +4,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "./_attachments",
   "newFileLocation": "current",
-  "spellcheck": true,
-  "showLineNumber": true,
-  "lineWrap": false
+  "spellcheck": false,
+  "showLineNumber": false,
+  "lineWrap": true
 }
