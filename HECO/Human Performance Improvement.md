@@ -5,7 +5,7 @@ EPRI
 
 ## Common Error Precursors
 
-- on "trap ahead" card
+- **==on "trap ahead" card==**
 
 - task demands
 - individual capabilities
@@ -20,4 +20,4 @@ EPRI
 
 ## Human Performance Toolbox
 
-The first 
+==The first step to safe and error-free operations is recognizing the Error Precursors that exist in the work environment.==
