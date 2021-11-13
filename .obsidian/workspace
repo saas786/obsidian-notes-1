@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "College/Communications/Random Processes.md",
+            "file": "College/Probability/Expectation.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Communications/Random Processes.md",
+                "file": "College/Probability/Expectation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "ae3078e73dacad8a",
   "lastOpenFiles": [
-    "College/Communications/Random Processes.md",
     "College/Probability/Expectation.md",
+    "College/Probability/Mean.md",
+    "College/Communications/Random Processes.md",
     "conflict-files-obsidian-git.md",
     "PS6.pdf",
     "HECO/4. Power Plant Chemistry.md",
     "HECO/3. Power Plant Physics.md",
     "HECO/5. Basic Electricity.md",
     "College/Signal Processing/Probability Spetrum Density.md",
-    "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md",
-    "College/+EE 343/PS6.md"
+    "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md"
   ]
 }
