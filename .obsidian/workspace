@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "College/+EE 415/Lec 17_ Frequency response and gain of system.pdf"
+            "file": "College/+EE 415/Lec 24_ sampling rate conversion.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/+EE 415/Lec 17_ Frequency response and gain of system.pdf",
+                "file": "College/+EE 415/Lec 24_ sampling rate conversion.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "ae3078e73dacad8a",
   "lastOpenFiles": [
+    "College/+EE 415/Lec 24_ sampling rate conversion.pdf",
     "College/+EE 415/Lec 17_ Frequency response and gain of system.pdf",
     "College/+EE 415/Lec 19_ introduction to filters.pdf",
     "College/+EE 415/Lec 20_FIR filterbasic.pdf",
@@ -103,7 +104,6 @@
     "College/+EE 415/Lec 9_ inverse z-transform.pdf",
     "College/+EE 415/Lec 1_ complex number review.pdf",
     "College/Probability/Expectation.md",
-    "College/Probability/Mean.md",
-    "College/Communications/Random Processes.md"
+    "College/Probability/Mean.md"
   ]
 }
