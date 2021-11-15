@@ -45,4 +45,14 @@ TTD = (saturation temperature of the steam in the heater's condensing section) -
 ## Operating Problems
 
 ### Air Binding
-Occurs when air collects in the water boxes on the tube side of the heat, causing the flow of water 
+Occurs when air collects in the water boxes on the tube side of the heat, causing the flow of water through the tubes to be restricted (increases velocity of water).
+
+-	Differential pressure across the feedwater heater could be a sign of air binding.
+
+### Pump Problems
+Common causes:
+-	Pump trip caused by motor overload, low oil pressure, or breaker trip
+-	Manual trip of pump
+-	Loss of pump suction, insufficient net positive suction head, or loss of prime
+-	Malfunctioning variable-speed coupling (for boiler feed pump)
+-	Improper valve lineup
