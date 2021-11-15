@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HECO/7. Basic Instrumentation.md",
+            "file": "HECO/3. Power Plant Physics.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HECO/7. Basic Instrumentation.md",
+                "file": "HECO/3. Power Plant Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "ccc3ad37ccfabc45",
   "lastOpenFiles": [
+    "HECO/3. Power Plant Physics.md",
     "HECO/7. Basic Instrumentation.md",
     "HECO/6. Valves and Piping Systems.md",
     "HECO/5. Basic Electricity.md",
@@ -104,7 +105,6 @@
     "HECO/1.  Operator Trainee Training Program.md",
     "HECO/_attachments/6. Valves and Piping Systems_2021-11-12 08.14.18.excalidraw.md",
     "College/FALL 2021.md",
-    "HECO/4. Power Plant Chemistry.md",
-    "HECO/3. Power Plant Physics.md"
+    "HECO/4. Power Plant Chemistry.md"
   ]
 }
