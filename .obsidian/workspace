@@ -7,10 +7,9 @@
         "id": "ae3078e73dacad8a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "College/Probability/Expectation.md",
-            "mode": "preview"
+            "file": "College/+EE 415/Lec 17_ Frequency response and gain of system.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Probability/Expectation.md",
+                "file": "College/+EE 415/Lec 17_ Frequency response and gain of system.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +95,15 @@
   },
   "active": "ae3078e73dacad8a",
   "lastOpenFiles": [
+    "College/+EE 415/Lec 17_ Frequency response and gain of system.pdf",
+    "College/+EE 415/Lec 19_ introduction to filters.pdf",
+    "College/+EE 415/Lec 20_FIR filterbasic.pdf",
+    "College/+EE 415/Lec21_IIR filter basic.pdf",
+    "College/+EE 415/Let 18_ Distortions.pdf",
+    "College/+EE 415/Lec 9_ inverse z-transform.pdf",
+    "College/+EE 415/Lec 1_ complex number review.pdf",
     "College/Probability/Expectation.md",
     "College/Probability/Mean.md",
-    "College/Communications/Random Processes.md",
-    "conflict-files-obsidian-git.md",
-    "PS6.pdf",
-    "HECO/4. Power Plant Chemistry.md",
-    "HECO/3. Power Plant Physics.md",
-    "HECO/5. Basic Electricity.md",
-    "College/Signal Processing/Probability Spetrum Density.md",
-    "College/+EE 343/_attachments/PS6_2021-11-11 17.41.01.excalidraw.md"
+    "College/Communications/Random Processes.md"
   ]
 }
