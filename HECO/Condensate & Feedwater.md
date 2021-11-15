@@ -16,6 +16,15 @@
 - high-pressure heater
 - feedwater regulating valve
 
+### Booster Pumps
+Used to increase the pressure to the suction of the boiler feed pumps.
+
+### Gland Steam Condensers
+Used to recover heat from the steam used in the plant's gland steam system.
+
+### Air Ejector Condensers
+Used to recover heat from the steam in the main condenser's air removal system.
+
 ## Normal Operation
 
 ### Thermal Temperature Difference (TTD)
