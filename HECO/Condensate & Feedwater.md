@@ -55,23 +55,27 @@ Can be located on the condensor side of the system ("condensate booster pumps") 
 
 Not all systems use booster pumps.
 
-
 ## Feedwater System Components
 
 ### High-pressure Feedwater Heaters
 
-A [[Shell and Tube Heater]] where feedwater enters the tube side through the feedwater inlet and the inlet water box and flows to through the tubes to the outlet water box. Extraction steam, taken from the high pressure section of the turbine, enters through the extraction steam inlet
+A [[Shell and Tube Heater]] where feedwater enters the tube side through the feedwater inlet and the inlet water box and flows to through the tubes to the outlet water box. Extraction steam, taken from the high pressure section of the turbine, enters through the extraction steam inlet at superheated temperatures.
 
-Extra
+Some heaters may contain a desuperheating section (occurs before the condenser section) where the steam is cooled to a saturation temperature.
 
 ### Feedwater Regulating Valve
-Regulates the flow of feedwater entering the economizer
+Regulates the flow of feedwater entering the economizer. Flow can also be regulated by controlling the speed of the boiler feed pumps.
 
 ### Economizer
 Used to preheat the feedwater using the combustion gases leaving the boiler.
 
 ### Boiler Feed Pumps
-Used to increase the pressure of the feedwater. They are variable-speed, multistage centrifugal pumps. Some pumps are driven by steam turbines. The speed of the turbine depends on the amoutn of steam flowing to the turbine. 
+Used to increase the pressure of the feedwater. They are variable-speed, multistage centrifugal pumps. Some pumps are driven by steam turbines. The speed of the turbine depends on the amount of steam flowing to the turbine. 
+
+## Additional Systems
+
+### Chemical Addition System
+May be connected to the condenser system, the feedwater system, or 
 
 ## Normal Operation
 
