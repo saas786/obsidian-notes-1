@@ -44,3 +44,12 @@ Hazard Communication (HAZCOM)
 		- Chemical Name
 		- Code Number
 		- Batch Number
+		
+NFPA Labels
+-	Health: Blue
+-	Flammability: Red
+-	Instability: Yellow
+-	Special Hazards: White
+	-	\*OX Oxidizers
+	-	-W- Water Reactives
+	-	SA Simple Asphyxiants
