@@ -25,3 +25,16 @@ Hazard Communication (HAZCOM)
 		
 - Safety Data Sheets (SDS)
 	-	Should be readily avaliable for all chemicals present in your work area
+	
+- Globally Harmonized System (GHS)
+	-	MSDS now known as SDS
+	-	Pictograms
+	-	Signal Words
+		-	WARNING
+		-	DANGER
+		-	Hazard Statement
+		-	Precautionary Statement
+			- Product Identifiers
+				- Chemical Name
+				- Code Number
+				- Batch Number
