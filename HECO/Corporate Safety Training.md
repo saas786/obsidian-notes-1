@@ -51,5 +51,5 @@ NFPA Labels
 -	Instability: Yellow
 -	Special Hazards: White
 	-	\*OX Oxidizers
-	-	-W- Water Reactives
+	-	~~W~~ Water Reactives
 	-	SA Simple Asphyxiants
