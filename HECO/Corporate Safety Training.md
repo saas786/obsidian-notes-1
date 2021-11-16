@@ -25,6 +25,10 @@ Hazard Communication (HAZCOM)
 		
 - Safety Data Sheets (SDS)
 	-	Should be readily avaliable for all chemicals present in your work area
+	-	16 sections
+	-	Hazard Category (1 to 4)
+		- 1: most severe
+		- 4: least severe
 	
 - Globally Harmonized System (GHS)
 	-	MSDS now known as SDS
