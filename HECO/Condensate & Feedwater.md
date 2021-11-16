@@ -16,8 +16,15 @@
 - high-pressure heater
 - feedwater regulating valve
 
+As condensate passes through the condensor & feedwater system, its temperature and pressure gradually increase.
+
 ### Hotwell
-Collects condensate from the main condensor. 
+Collects condensate from the main condensor. It provides a supply of water for the condensate pump to pull from.
+
+Level is measured using sight glasses. It is critical to maintain the correct level in the hotwell.
+
+### Condensate Pumps
+Increase the pressure of the condensate from the hotwell. They are usually constant-speed, multistage, centrifugal pumps. Usually two or more condensate pumps are used in a condensate & feedwater system, and one or more pumps may be operating at any given time.
 
 ### Gland Steam Condensers
 Used to recover heat from the steam used in the plant's gland steam system. Uses condensate in order to cool the steam and heat the condensate.
