@@ -24,9 +24,10 @@ Collects condensate from the main condensor. It provides a supply of water for t
 Level is measured using sight glasses. It is critical to maintain the correct level in the hotwell.
 
 ### Condensate Pumps
-Increase the pressure of the condensate from the hotwell. They are usually constant-speed, multistage, centrifugal pumps. Usually two or more condensate pumps are used in a condensate & feedwater system, and one or more pumps may be operating at any given time.
+Used to increase the pressure of the condensate from the hotwell. They are usually constant-speed, multistage, centrifugal pumps.
+Usually two or more condensate pumps are used in a condensate & feedwater system, and one or more pumps may be operating at any given time. E.g. if the pumps are 100% capacity pumps, only one needs to be running while the others serve as backups.
 
-### Gland Steam Condensers
+### Gland Steam & Air EjectCondensers
 Used to recover heat from the steam used in the plant's gland steam system. Uses condensate in order to cool the steam and heat the condensate.
 
 ### Air Ejector Condensers
@@ -41,7 +42,11 @@ Where condensate is collected after leaving the de-aerator. At this point, the c
 This tank provides a net positive suction head for the pumps that are connected to it.
 
 ### Booster Pumps
-Used to increase the pressure to the suction of the boiler feed pumps. Not all systems use booster pumps.
+Used to increase the pressure to the suction of the boiler feed pumps. They are usually constant-speed, multistage centrifugal pumps, driven be constant speed motors. Not generally used for flow control.
+
+Can be located on the condensor side of the system ("condensate booster pumps") or on the feedwater side ("boiler feed booster pumps").
+
+Not all systems use booster pumps.
 
 ## Feedwater System Components
 
