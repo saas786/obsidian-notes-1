@@ -27,14 +27,25 @@ Level is measured using sight glasses. It is critical to maintain the correct le
 Used to increase the pressure of the condensate from the hotwell. They are usually constant-speed, multistage, centrifugal pumps.
 Usually two or more condensate pumps are used in a condensate & feedwater system, and one or more pumps may be operating at any given time. E.g. if the pumps are 100% capacity pumps, only one needs to be running while the others serve as backups.
 
-### Gland Steam & Air EjectCondensers
-Used to recover heat from the steam used in the plant's gland steam system. Uses condensate in order to cool the steam and heat the condensate.
+### Gland Steam & Air Ejector Condensers
+Gland steam condensers are used to recover heat from the steam used in the plant's gland steam system. Uses condensate in order to cool the steam and heat the condensate.
+
+Air ejector condensers are used to recover heat from the steam in the main condenser's air removal system.
+
+These condensors are usually "shell and tube" heat exchangers. These types of condensors consist of a shell, or casing, with a bundle of tubes inside.
+__shell side__ -- the area inside the casing but outside the tubes
+__tube side__ -- the area inside the tubes
+
+The tube side contains condensate that cools the steam, and the shell side contains steam from the gland steam system or the air ejector system.
 
 ### Air Ejector Condensers
-Used to recover heat from the steam in the main condenser's air removal system.
 
 ### De-aerator
-An open heater where oxygen and other non-condensable gases are removed from the condensate in order to minimize corrosion in downstream equipment.
+An open or direct contact heater where oxygen and other non-condensable gases are removed from the condensate in order to minimize corrosion in downstream equipment.
+
+This is a direct contact heater because 
+
+
 
 ### Hot Surge Tank
 Where condensate is collected after leaving the de-aerator. At this point, the condensate can be considered "feedwater".
