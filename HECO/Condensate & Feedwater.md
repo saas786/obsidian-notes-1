@@ -56,3 +56,11 @@ Common causes:
 -	Loss of pump suction, insufficient net positive suction head, or loss of prime
 -	Malfunctioning variable-speed coupling (for boiler feed pump)
 -	Improper valve lineup
+
+## Topic I: System Layout
+Purpose of feedwater & condensate system:
+-	to maintain normal operation of a power plant's boiler
+-	to ensure the water entering the boiler is equal to the amount of steam leaving the boiler and enters the main steam system
+-	to keep the boiler supplied with the proper amount of water
+
+condensate side -- hotwell to the suction side of the boiler feed pump
