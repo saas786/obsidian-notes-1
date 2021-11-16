@@ -3,7 +3,7 @@
 - passes through a series a tubes with cooler water passing through it
 - condensed water (condensate) is sent to condensate pump
 
-## Components
+## Condenser System Components
 - hotwell
 - condensate pumps
 - gland steam condensers
@@ -16,8 +16,8 @@
 - high-pressure heater
 - feedwater regulating valve
 
-### Booster Pumps
-Used to increase the pressure to the suction of the boiler feed pumps.
+### Hotwell
+Collects condensate from the main condensor. 
 
 ### Gland Steam Condensers
 Used to recover heat from the steam used in the plant's gland steam system. Uses condensate in order to cool the steam and heat the condensate.
@@ -32,6 +32,19 @@ An open heater where oxygen and other non-condensable gases are removed from the
 Where condensate is collected after leaving the de-aerator. At this point, the condensate can be considered "feedwater".
 
 This tank provides a net positive suction head for the pumps that are connected to it.
+
+### Booster Pumps
+Used to increase the pressure to the suction of the boiler feed pumps. Not all systems use booster pumps.
+
+## Feedwater System Components
+
+### High-pressure Feedwater Heaters
+
+### Feedwater Regulating Valve
+Regulates the flow of feedwater entering the economizer
+
+### Economizer
+Used to preheat the feedwater using the combustion gases leaving the boiler.
 
 ## Normal Operation
 
