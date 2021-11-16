@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "College/+EE 415/Lec 24_ sampling rate conversion.pdf"
+            "file": "College/+EE 415/Lec 23 reconstruction of bandlimited signal.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/+EE 415/Lec 24_ sampling rate conversion.pdf",
+                "file": "College/+EE 415/Lec 23 reconstruction of bandlimited signal.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "ae3078e73dacad8a",
   "lastOpenFiles": [
+    "College/+EE 415/Lec 23 reconstruction of bandlimited signal.pdf",
+    "College/+EE 415/Lec 22_sampling continuous-time signal.pdf",
+    "College/+EE 415/Lec 20_FIR filterbasic.pdf",
+    "College/+EE 415/Lec 25_ upsampling.pdf",
     "College/+EE 415/Lec 24_ sampling rate conversion.pdf",
     "College/+EE 415/Lec 17_ Frequency response and gain of system.pdf",
     "College/+EE 415/Lec 19_ introduction to filters.pdf",
-    "College/+EE 415/Lec 20_FIR filterbasic.pdf",
     "College/+EE 415/Lec21_IIR filter basic.pdf",
     "College/+EE 415/Let 18_ Distortions.pdf",
-    "College/+EE 415/Lec 9_ inverse z-transform.pdf",
-    "College/+EE 415/Lec 1_ complex number review.pdf",
-    "College/Probability/Expectation.md",
-    "College/Probability/Mean.md"
+    "College/+EE 415/Lec 9_ inverse z-transform.pdf"
   ]
 }
