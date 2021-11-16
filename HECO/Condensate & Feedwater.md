@@ -57,6 +57,7 @@ Can be located on the condensor side of the system ("condensate booster pumps") 
 
 Not all systems use booster pumps.
 
+
 ## Feedwater System Components
 
 ### High-pressure Feedwater Heaters
@@ -66,6 +67,9 @@ Regulates the flow of feedwater entering the economizer
 
 ### Economizer
 Used to preheat the feedwater using the combustion gases leaving the boiler.
+
+### Boiler Feed Pumps
+Used to increase the pressure of the feedwater. They are variable-speed, multistage centrifugal pumps. Some pumps are driven by steam turbines. The speed of the turbine depends on the amoutn of steam flowing to the turbine. 
 
 ## Normal Operation
 
