@@ -60,7 +60,9 @@ Not all systems use booster pumps.
 
 ### High-pressure Feedwater Heaters
 
-A [[Shell and Tube Heater]] where feedwater enters the tube 
+A [[Shell and Tube Heater]] where feedwater enters the tube side through the feedwater inlet and the inlet water box and flows to through the tubes to the outlet water box. Extraction steam, taken from the high pressure section of the turbine, enters through the extraction steam inlet
+
+Extra
 
 ### Feedwater Regulating Valve
 Regulates the flow of feedwater entering the economizer
@@ -91,7 +93,9 @@ TTD = (saturation temperature of the steam in the heater's condensing section) -
 ## Operating Problems
 
 ### Air Binding
-Occurs when air collects in the water boxes on the tube side of the heat, causing the flow of water through the tubes to be restricted (increases velocity of water).
+Occurs when air or other gasses are trapped in the water boxes on the tube side of the heat, causing the flow of water through the tubes to be restricted (increases velocity of water).
+
+This can happen in any closed heater, but is more common in low-pressure heaters.
 
 -	Differential pressure across the feedwater heater could be a sign of air binding.
 
