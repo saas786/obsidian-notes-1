@@ -17,3 +17,5 @@ A copy to be sent to Corporate Safety and kept by the department for future refe
 
 On-Site First Aid Hawaii - 808-664-6674
 
+Hazard Communication (HAZCOM)
+---
