@@ -20,10 +20,18 @@
 Used to increase the pressure to the suction of the boiler feed pumps.
 
 ### Gland Steam Condensers
-Used to recover heat from the steam used in the plant's gland steam system.
+Used to recover heat from the steam used in the plant's gland steam system. Uses condensate in order to cool the steam and heat the condensate.
 
 ### Air Ejector Condensers
 Used to recover heat from the steam in the main condenser's air removal system.
+
+### De-aerator
+An open heater where oxygen and other non-condensable gases are removed from the condensate in order to minimize corrosion in downstream equipment.
+
+### Hot Surge Tank
+Where condensate is collected after leaving the de-aerator. At this point, the condensate can be considered "feedwater".
+
+This tank provides a net positive suction head for the pumps that are connected to it.
 
 ## Normal Operation
 
