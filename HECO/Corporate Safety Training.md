@@ -19,3 +19,9 @@ On-Site First Aid Hawaii - 808-664-6674
 
 Hazard Communication (HAZCOM)
 ---
+- Chemical Inventory (HECO uses MSDS Online)
+	-	HECO SDS Location -- HECO Intranet
+		-	-> SDS Search
+		
+- Safety Data Sheets (SDS)
+	-	Should be readily avaliable for all chemicals present in your work area
