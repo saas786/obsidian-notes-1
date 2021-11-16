@@ -43,12 +43,10 @@ The tube side contains condensate that cools the steam, and the shell side conta
 ### De-aerator
 An open or direct contact heater where oxygen and other non-condensable gases are removed from the condensate in order to minimize corrosion in downstream equipment.
 
-This is a direct contact heater because 
+This is a direct contact heater because the de-aerator mixes the condensate and extraction steam together, heating the condensate.
 
-
-
-### Hot Surge Tank
-Where condensate is collected after leaving the de-aerator. At this point, the condensate can be considered "feedwater".
+### Hot Surge Tank (or Feedwater Storage Tank or De-aerator Storage Tank)
+Where condensate is collected after leaving the bottom of the de-aerator. At this point, the condensate can be considered "feedwater".
 
 This tank provides a net positive suction head for the pumps that are connected to it.
 
