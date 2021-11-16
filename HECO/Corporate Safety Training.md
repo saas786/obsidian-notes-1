@@ -29,12 +29,14 @@ Hazard Communication (HAZCOM)
 - Globally Harmonized System (GHS)
 	-	MSDS now known as SDS
 	-	Pictograms
+		-	Icon on a white background outlined by a red diamond
 	-	Signal Words
-		-	WARNING
 		-	DANGER
-		-	Hazard Statement
-		-	Precautionary Statement
-			- Product Identifiers
-				- Chemical Name
-				- Code Number
-				- Batch Number
+		-	WARNING
+	-	Hazard Statement
+	-	Precautionary Statement
+		-	Recommended measures that should be taken
+	-	Product Identifiers
+		- Chemical Name
+		- Code Number
+		- Batch Number
