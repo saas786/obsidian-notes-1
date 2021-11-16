@@ -32,9 +32,7 @@ Gland steam condensers are used to recover heat from the steam used in the plant
 
 Air ejector condensers are used to recover heat from the steam in the main condenser's air removal system.
 
-These condensors are usually "shell and tube" heat exchangers. These types of condensors consist of a shell, or casing, with a bundle of tubes inside.
-__shell side__ -- the area inside the casing but outside the tubes
-__tube side__ -- the area inside the tubes
+These condensors are usually "shell and tube" heat exchangers. [[Shell and Tube Heater]]
 
 The tube side contains condensate that cools the steam, and the shell side contains steam from the gland steam system or the air ejector system.
 
@@ -61,6 +59,8 @@ Not all systems use booster pumps.
 ## Feedwater System Components
 
 ### High-pressure Feedwater Heaters
+
+A [[Shell and Tube Heater]] where feedwater enters the tube 
 
 ### Feedwater Regulating Valve
 Regulates the flow of feedwater entering the economizer
