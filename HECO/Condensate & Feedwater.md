@@ -75,7 +75,10 @@ Used to increase the pressure of the feedwater. They are variable-speed, multist
 ## Additional Systems
 
 ### Chemical Addition System
-May be connected to the condenser system, the feedwater system, or 
+May be connected to the condenser system, the feedwater system, or both. Used to add chemicals to the water such as hydrazine to prevent corrosion and ammonia to control pH.
+
+### Makeup Water System
+Connected to the hotwell. Adds pure water to the condensate system to compensate for water losses that may occur due to condensate sampling or to steam or water leaks in the system. Makeup water is stored in a condensate storage tank. Most contain purifying equipment such as evaporator and demineralizers.
 
 ## Normal Operation
 
