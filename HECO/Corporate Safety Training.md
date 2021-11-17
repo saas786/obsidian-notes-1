@@ -56,5 +56,3 @@ NFPA Labels
 	
 ## Personal Protective Equipment (PPE)
 Equipment that protects you against hazards in the workplace.
-
-- 
