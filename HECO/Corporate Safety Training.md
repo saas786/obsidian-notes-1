@@ -54,3 +54,5 @@ NFPA Labels
 	-	~~W~~ Water Reactives
 	-	SA Simple Asphyxiants
 	
+## Personal Protective Equipment (PPE)
+Equipment that protects you against hazards in the workplace.
