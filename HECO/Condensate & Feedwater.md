@@ -96,6 +96,26 @@ a measure of the effectiveness of heat transfer between the steam and feedwater 
 
 TTD = (saturation temperature of the steam in the heater's condensing section) - (feedwater outlet temperature)
 
+As the TTD goes down, the efficiency goes up. TTD should be as small as possible
+
+### Checks
+Pump Checks:
+-	pressures
+-	temperatures
+-	lubrication (through sight glass)
+
+Bearings:
+-	overheating (by touch or with pyrometer)
+-	excessive viration (by touch or with vibration meter)
+-	contaminated lubricant (abnormal color through sight glass)
+-	low lubricant level
+-	temperature of lubricant is within normal range (temp gauge)
+
+Cooling water:
+-	valves should be open
+
+Seal water:
+-	greater than normal flow
 
 ## Operating Problems
 
