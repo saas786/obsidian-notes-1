@@ -3,4 +3,4 @@
 - post amplitude modulation
 - quantization
 - joint PMF, marginals, conditionals
-- match filters
+- matched filters, binary digital communications
