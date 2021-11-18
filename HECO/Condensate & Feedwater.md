@@ -98,6 +98,17 @@ TTD = (saturation temperature of the steam in the heater's condensing section) -
 
 As the TTD goes down, the efficiency goes up. TTD should be as small as possible
 
+### Checks
+Pump Checks:
+-	pressures
+-	temperatures
+-	lubrication
+
+Bearings:
+-	overheating (by touch or with pyrometer)
+-	excessive viration (by touch 
+-	contaminated lubricant
+-	low lubricant level
 
 ## Operating Problems
 
