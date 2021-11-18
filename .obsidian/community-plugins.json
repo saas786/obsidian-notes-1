@@ -5,10 +5,9 @@
   "obsidian-excalidraw-plugin",
   "obsidian-nomnoml-diagram",
   "obsidian-git",
-  "sliding-panes-obsidian",
   "obsidian-dynamic-toc",
-  "obsidian-admonition",
   "format-hotkeys-obsidian",
   "obsidian-style-settings",
-  "quick-latex"
+  "quick-latex",
+  "sliding-panes-obsidian"
 ]
