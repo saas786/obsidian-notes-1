@@ -102,13 +102,20 @@ As the TTD goes down, the efficiency goes up. TTD should be as small as possible
 Pump Checks:
 -	pressures
 -	temperatures
--	lubrication
+-	lubrication (through sight glass)
 
 Bearings:
 -	overheating (by touch or with pyrometer)
--	excessive viration (by touch 
--	contaminated lubricant
+-	excessive viration (by touch or with vibration meter)
+-	contaminated lubricant (abnormal color through sight glass)
 -	low lubricant level
+-	temperature of lubricant is within normal range (temp gauge)
+
+Cooling water:
+-	valves should be open
+
+Seal water:
+-	greater than normal flow
 
 ## Operating Problems
 
