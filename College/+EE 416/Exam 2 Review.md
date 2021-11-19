@@ -2,6 +2,12 @@
 ---
 Sections:
 -	Chapter 4 - Resolution conversion
+	-	4.1 Image decimation
+		-	Decimation in 1D
+		-	Decimation for images
+	-	4.2 Image interpolation
+		-	Interpolation in 1D
+		-	Interpolation for images
 -	Chapter 5 - Image enhancement and spatial filtering
 	-	5.1 Contrast adjustment
 	-	5.2 Image sharpening
