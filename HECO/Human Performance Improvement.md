@@ -21,9 +21,12 @@ EPRI - Electric Power Research Institute
 
 ## Human Performance Toolbox
 
+### Two Minute Drill
+Take two minutes to review for safe, error-free tasks.
+
 ==The first step to safe and error-free operations is recognizing the Error Precursors that exist in the work environment.==
 
-### ==SAFER==
+### Pre-Job Brief (==SAFER==)
 -	summarize critical steps
 -	anticipate error-likely situations
 -	foresee consequences
@@ -37,7 +40,7 @@ EPRI - Electric Power Research Institute
 -	to ensure that the intended message is received and understood
 -	to minimize the potential for making errors because of poor communication
 
-### ==STAR==
+### Self-Checking (==STAR==):
 -	stop
 -	think
 -	act
