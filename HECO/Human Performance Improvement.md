@@ -1,7 +1,7 @@
 # Human Performance Improvement
 ---
 
-EPRI
+EPRI - Electric Power Research Institute
 
 ## Common Error Precursors
 
@@ -59,3 +59,10 @@ Used in conjunction with self-checking (STAR).
 ### Procedure Use & Adherence: Placekeeping
 
 __placekeeping__ -- the act of marking steps in a procecedure as they are completed or marking the steps that are not applicable
+-	circle current step
+-	when step is completed, cross it
+
+Use levels:
+-	Continuous use
+-	Reference use
+-	Information use
