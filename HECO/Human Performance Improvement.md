@@ -50,3 +50,8 @@ when to use:
 -	during task interruptions
 -	during distractions
 -	before critical or risk-significant steps identified during a pre-job brief
+
+### Peer-Checking
+Used in conjunction with self-checking (STAR).
+
+### Questioning Attitude
