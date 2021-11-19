@@ -38,6 +38,7 @@ EPRI
 -	to minimize the potential for making errors because of poor communication
 
 ### ==STAR==
+
 -	stop
 -	think
 -	act
