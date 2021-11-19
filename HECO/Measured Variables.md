@@ -2,7 +2,9 @@
 ---
 
 ## Pressure
-Units
+Units: PSI (pounds per square inch)
+
+The force that is being exerted on an area
 
 ## Temperature
 
