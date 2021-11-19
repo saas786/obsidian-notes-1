@@ -16,4 +16,5 @@ Sections:
 		-	[[Formulation of MMSE linear filter]]
 		-	[[Least squares linear filter]]
 	-	6.3 Minimum weighted mean square error filtering for human visual system
-		-	
+	-	6.4 Performance measures
+	
