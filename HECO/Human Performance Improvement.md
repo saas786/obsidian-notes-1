@@ -55,3 +55,7 @@ when to use:
 Used in conjunction with self-checking (STAR).
 
 ### Questioning Attitude
+
+### Procedure Use & Adherence: Placekeeping
+
+__placekeeping__ -- the act of marking steps in a procecedure as they are completed or marking the steps that are not applicable
