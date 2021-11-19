@@ -47,4 +47,6 @@ when to use:
 - ==before and during manipulation of any plant equipment==
 -	during time pressures (for example, employee feeling rushed)
 -	when identifiying components (for locating tags, reading prints, and so on)
--	
+-	during task interruptions
+-	during distractions
+-	before critical or risk-significant steps identified during a pre-job brief
