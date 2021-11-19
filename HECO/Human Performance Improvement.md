@@ -95,6 +95,8 @@ RCA - Roots Cause Analysis
 ## Leading Error Reduction
 
 ### Human Error
-- skill based
-- knowledge based
+- skill based (less likely of error)
 - rule based
+- knowledge based (most likely of error)
+
+__voilations__ -- intentional errors or "deliberately doing the wrong thing"
