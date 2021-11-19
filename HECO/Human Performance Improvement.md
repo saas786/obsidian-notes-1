@@ -26,7 +26,14 @@ Take two minutes to review for safe, error-free tasks.
 
 ==The first step to safe and error-free operations is recognizing the Error Precursors that exist in the work environment.==
 
-### Pre-Job Brief (==SAFER==)
+### Pre-Job Brief
+
+When to use:
+-	Prior to performing a task or activity that is non-routine
+-	Prior to performing a task or activity that is considered routine, but for which an improper outcome cannot be tolerated
+-	After shift or individual turnover or after significant time lapses while the task or activity is in progress
+
+#### SAFER
 -	summarize critical steps
 -	anticipate error-likely situations
 -	foresee consequences
@@ -84,3 +91,10 @@ When to use:
 RCA - Roots Cause Analysis
 
 ### Post Job Review - Task Debrief
+
+## Leading Error Reduction
+
+### Human Error
+- skill based
+- knowledge based
+- rule based
