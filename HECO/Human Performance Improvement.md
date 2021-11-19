@@ -37,7 +37,7 @@ EPRI
 -	to ensure that the intended message is received and understood
 -	to minimize the potential for making errors because of poor communication
 
-### STAR
+### ==STAR==
 -	stop
 -	think
 -	act
