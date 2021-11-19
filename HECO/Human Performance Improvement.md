@@ -68,3 +68,11 @@ __placekeeping__ -- the act of marking steps in a procecedure as they are comple
 -	Information use
 
 ### Do Not Disturb
+
+### Time Out
+Used by an individual or team to take a brief moment to assess the situation and discuss specific conditions and assumptions. This is to verify that the most accurate information is avaliable before proceeding.
+
+When to use:
+-	When a task, activity or plant condition changes
+-	When there is uncertainty with regards to intended actions
+-	When results from actions taken are not as expected
