@@ -38,8 +38,13 @@ EPRI
 -	to minimize the potential for making errors because of poor communication
 
 ### ==STAR==
-
 -	stop
 -	think
 -	act
 -	review
+
+when to use:
+- ==before and during manipulation of any plant equipment==
+-	during time pressures (for example, employee feeling rushed)
+-	when identifiying components (for locating tags, reading prints, and so on)
+-	
