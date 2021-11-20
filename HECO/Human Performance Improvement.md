@@ -70,12 +70,12 @@ Used in conjunction with self-checking (STAR).
 
 __placekeeping__ -- the act of marking steps in a procecedure as they are completed or marking the steps that are not applicable
 -	circle current step
--	when step is completed, cross it
+-	when step is completed, cross it out with a line
 
 ==Use levels:==
--	Continuous use
+-	Continuous use (most critical)
 -	Reference use
--	Information use
+-	Information use (least critical)
 
 ### Do Not Disturb
 
@@ -100,3 +100,4 @@ RCA - Roots Cause Analysis
 - knowledge based (most likely of error)
 
 __voilations__ -- intentional errors or "deliberately doing the wrong thing"
+
