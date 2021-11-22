@@ -41,5 +41,4 @@ Units: RPM (revolutions per minute)
 ### Viscosity
 Units: SSU (Saybolt Universeal Second Units)
 
-Measures viscosity of a liquid.
-The higher the SSU, the less 
+Measures viscosity of a liquid. The higher the SSU, the less thick it is.
