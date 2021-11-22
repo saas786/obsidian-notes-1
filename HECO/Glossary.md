@@ -2,7 +2,7 @@
 ```
 
 ### Atomization
-The process of dispersing fuel oil into the furnace as a mist, so that a larger surface area of the oil is exposed to the combustion air.
+The process of dispersing fuel oil into the furnace as a mist (break apart oil into smaller particles), so that a larger surface area of the oil is exposed to the combustion air.
 
 #### Mechanical Atomization
 -	shearing of fuel oil into smaller droplets

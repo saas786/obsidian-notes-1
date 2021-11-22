@@ -42,4 +42,4 @@ Units: RPM (revolutions per minute)
 Units: SSU (Saybolt Universeal Second Units)
 
 Measures viscosity of a liquid. The higher the SSU, the less thick it is.
-Usually used to measure viscosity of fuel oil. This is done by testing a sample 
+Usually used to measure viscosity of fuel oil. This is done by testing a sample of the oil in a lab, which the results are then matched to a certain SSU using a SSU table.
