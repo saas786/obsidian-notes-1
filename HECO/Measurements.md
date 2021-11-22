@@ -39,3 +39,7 @@ Units: RPM (revolutions per minute)
 ## Other Variables
 
 ### Viscosity
+Units: SSU (Saybolt Universeal Second Units)
+
+Measures viscosity of a liquid.
+The higher the SSU, the less 
