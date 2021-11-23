@@ -9,3 +9,6 @@ F_{s} \geq 2B_{m}
 \quad\text{or}\quad
 T \leq \frac{1}{2B_{m}}
 $$
+
+Note:
+$F_{s} = 2\pi\ \Omega_{s}$
