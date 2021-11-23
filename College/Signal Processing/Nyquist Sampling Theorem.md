@@ -1,9 +1,11 @@
 # Nyquist Sampling Theorem
 ---
 
-Let $x_c(t)$ be a continuous-time bandlimited ($\Omega_{H}T < 2\pi$) with Fourier transform $X_{C}(j\Omega)$.
+Let $x_c(t)$ be a continuous-time bandlimited signal with bandwidth $B_{m}$ with Fourier transform $X_{C}(j\Omega)$.
 
-$x_c(t)$ can be uniquely determined by its samples $x[n] = x_{c}(nT)$ if the sampling frequency $\Omega_{s}$ satisfies the condition:
+$x_c(t)$ can be uniquely determined by its samples $x[n] = x_{c}(nT)$ if the sampling frequency $F_{s} = \frac{1}{T}$ satisfies the condition:
 $$
-\Omega_{s} \geq 2\Omega_{H}
+F_{s} \geq 2B_{m}
+\quad\text{or}\quad
+T \leq \frac{1}{2B_{m}}
 $$
