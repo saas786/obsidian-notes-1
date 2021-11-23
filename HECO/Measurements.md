@@ -7,7 +7,8 @@ All variables measured typically in a power plant.
 ### Pressure
 Units: PSI (pounds per square inch)
 
-The force that is being exerted on an area
+The force that is being exerted on an area.
+Areas of high pressure will want to move to areas of lower pressure.
 
 ### Temperature
 
