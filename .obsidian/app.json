@@ -6,5 +6,6 @@
   "newFileLocation": "current",
   "spellcheck": false,
   "showLineNumber": false,
-  "lineWrap": true
+  "lineWrap": true,
+  "foldHeading": true
 }
