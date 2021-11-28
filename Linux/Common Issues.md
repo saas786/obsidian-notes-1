@@ -1,3 +1,15 @@
+
+## Boot / Startup
+
+#### Changing GRUB kernal boot parameters
+
+```cmd
+sudo gedit /etc/default/grub
+sudo upgrade-grub
+```
+
+## Terminal setup
+
 #### Fix TTY Screen Resolution
 
 Install `fbset`.
@@ -8,17 +20,9 @@ Install `fbset`.
 
 `setfont /usr/share/kbd/consolefonts/drdos8x16.psfu.gz`
 
-#### Changing GRUB kernal boot parameters
-
-```cmd
-sudo gedit /etc/default/grub
-sudo upgrade-grub
-```
-
-
 ## Graphics setup
 
-##### Disabling Nouveau
+##### Disabling Nouveau (default NVIDIA driver)
 
 This is necessary when installing the official NVIDIA graphic drivers.
 
