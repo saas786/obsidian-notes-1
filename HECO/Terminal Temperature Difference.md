@@ -1,8 +1,6 @@
-# Thermal Temperature Difference (TTD)
+### Thermal Temperature Difference (TTD)
 
-^c6c520
-
-The measure of the effectiveness of heat transfer between the steam and feedwater in the feedwater heater. ^9d08b9
+The measure of the effectiveness of heat transfer between the steam and feedwater in the feedwater heater.
 
 TTD = (saturation temperature of the steam in the heater's condensing section) - (feedwater outlet temperature)
 
