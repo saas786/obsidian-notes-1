@@ -1,1 +1,7 @@
-Given an input of any value, an **activation function** outputs a number in between$[0, 1]$.
+Given an input of any value, an **activation function** $\phi(x)$ outputs a number in the range $[0, 1]$.
+
+$$
+\phi(x) = y, x \in \Bbb{R}, y \in [0, 1]
+$$
+
+Types of ac
