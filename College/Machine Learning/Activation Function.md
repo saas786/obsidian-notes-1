@@ -1,0 +1,1 @@
+Given an input of any value, an **activation function** outputs a number in between$[0, 1]$.

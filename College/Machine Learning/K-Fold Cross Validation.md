@@ -8,4 +8,5 @@ The process is:
 3.	For each individual subsets $n$ from $1 ... k$:
 	-	Use subset $n$ as the test set
 	-	Use the remaining subsets as the training set
-	-	Train the model on the test 
+	-	Train the model on the training set and use the test set to obtain a model accuracy
+4.	Average the obtained accuracies to get the final estimated accuracy
