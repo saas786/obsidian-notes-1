@@ -4,5 +4,8 @@ Given an integer $k$, this process is known as a $k$-fold cross-validation. For 
 
 The process is:
 1.	Shuffle the dataset
-2.	Split the dataset into $k$ groups
-3.	For each individual group
+2.	Split the dataset into $k$ subsets
+3.	For each individual subsets $n$ from $1 ... k$:
+	-	Use subset $n$ as the test set
+	-	Use the remaining subsets as the training set
+	-	Train the model on the test 
