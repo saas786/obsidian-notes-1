@@ -5,4 +5,5 @@ $$
 $$
 
 Types of activation functions:
--	
+-	[[Linear Activation]]
+-	[[ReLU Activation]]
