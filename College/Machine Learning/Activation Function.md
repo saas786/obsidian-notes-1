@@ -4,4 +4,5 @@ $$
 \phi(x) = y, x \in \Bbb{R}, y \in [0, 1]
 $$
 
-Types of ac
+Types of activation functions:
+-	
