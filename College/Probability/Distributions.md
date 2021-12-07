@@ -20,6 +20,9 @@ $\sigma^{2}$: variance
 
 PDF:
 $$
-f_{X}(x) = \frac{}
+f_{X}(x) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{1}{2}(\frac{x - \mu}{\sigma})^{2})
 $$
+
+## Poisson Distribution
+https://en.wikipedia.org/wiki/Poisson_distribution
 
