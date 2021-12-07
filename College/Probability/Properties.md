@@ -21,7 +21,10 @@ P(A \cap B) = P(A|B)P(B)
 $$
 
 ## Total Probability Theorem
-Given an event $B$ that intersects 
+Given an event $B$ that completely intersect $n$ events $A_{n}$, then:
+$$
+P(B) = P(A_{1} \cap B) + P(A_{2} \cap B) + ... + P(A_{n} \cap B)
+$$
 
 ## Bayes' Rule
 Let $A_{1}, A_{2}, ..., A_{n}$ be disjoint events that partition a sample space $\Omega$. Then:
