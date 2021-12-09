@@ -48,6 +48,12 @@ Install `yay` using the manual method, then:
 yay -S <package>
 ```
 
+One-liner (updates yay):
+```cmd
+cd /tmp && git clone 'https://aur.archlinux.org/yay.git' && cd /tmp/yay && makepkg -si && cd ~ && rm -rf /tmp/yay/
+```
+
+
 #### Deleting orphaned packages
 
 ```
