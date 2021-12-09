@@ -3,10 +3,22 @@ The term **ricing** originates from the term RICE in cars (Race Inspired Cosmeti
 ## Display Manager (DM)
 Provides a login screen and can automatically start the GUI on boot.
 
-### LightDM | `lightdm`
+### LightDM (`lightdm`)
 
 ## Window Manager (WM)
 Controls the placement and appearance of windows within a desktop.
+
+Types:
+-	stacking/floating - Windows-like behavior
+-	tiling - tiles the windows so that none are overlapping; can rely heavily on keyboard bindings
+-	dynamic - can switch between stacking and tiling
+
+### Openbox (`openbox`)
+A WM with a customizable appearance and icons (limited to pixel icons).
+
+GUI config - install ObConf (`obconf`)
+
+
 
 ## Wallpaper Manager
 Manages custom wallpapers.
