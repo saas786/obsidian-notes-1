@@ -1,11 +1,17 @@
-The term **ricing** originates from the term RICE in cars (Race Inspired Cosmetic Enhancement). Ricing in Linux represents the practice of customizing your desktop UI.
+The term **ricing** originates from the term RICE in cars (Race Inspired Cosmetic Enhancement). Ricing in Linux represents the practice of customizing your desktop UI, usually with no performance benefit.
 
-## Display Manager
-Display managers automatically start the GUI on boot and handle the display of a login screen.
+## Display Manager (DM)
+Provides a login screen and can automatically start the GUI on boot.
 
-## Wallpapers
+### LightDM | `lightdm`
 
-Install `feh`.
+## Window Manager (WM)
+Controls the placement and appearance of windows within a desktop.
+
+## Wallpaper Manager
+Manages custom wallpapers.
+
+### feh | `feh`
 
 Commonly used like:
 
