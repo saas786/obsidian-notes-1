@@ -26,7 +26,7 @@ This terminal emulator supports custom line heights and window padding.
 
 ## Automatic Palettes
 
-Install Wal (`pywal`). Ge
+Install Wal (`pywal`). Generates color palettes based on a wallpaper that can be used in the terminal and various other apps.
 
 Commonly used like:
 
