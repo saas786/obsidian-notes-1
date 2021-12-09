@@ -58,6 +58,13 @@ sudo pacman -Rns $(pacman -Qtdq)
 The `d` flag filters it to only packages installed as dependencies.
 The `q` flag outputs simpler text (to send to `pacman -Rns`).
 
+#### `invalid or corrupted package` or other PGP issues
+
+Update the `archlinux-keyring` package:
+```
+sudo pacman -S archlinux-keyring
+```
+
 ## Storage partition setup
 
 #### Finding the UUID of a partition
