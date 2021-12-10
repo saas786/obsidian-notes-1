@@ -1,4 +1,3 @@
-## Listing storage devices / partitions
 ```bash
 # lists storage devices / partitions
 fdisk -l
@@ -9,6 +8,12 @@ df -h  # displays sizes as MB, GB, etc.
 # open process viewer (similar to task manager in Windows)
 htop
 
-# immediately shutdown PC
+# kill a process by program name (similar to stopping a task in Windows)
+pkill <name>
 
+# immediately shutdown PC
+poweroff
+
+# put PC to sleep
+suspend
 ```
