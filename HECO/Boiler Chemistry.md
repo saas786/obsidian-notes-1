@@ -9,4 +9,5 @@ Feeding chemicals to the boiler water keeps the water pure and reduces corrosion
 -	ACTION LEVEL 1
 -	ACTION LEVEL 2
 -	ACTION LEVEL 3
+-	IMMEDIATE SHUTDOWN
 
