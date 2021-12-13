@@ -29,9 +29,10 @@ If an energy-isolating device cannot be physically locked out, it must be tagged
 1.	Prepare for shutdown
 2.	Shutdown the machine/equipment
 3.	Isolate the machine/equipment
-	-	All energy-isolating devices needed to control the equipment must be physically located and put
--	Apply the LOTO device
+	-	All energy-isolating devices needed to control the equipment must be physically located and put into a "safe" or "off" or "closed" position
+4.	Apply the LOTO device
+	-	Each lockout device needs to be affixed so that it holds the energy-isolating device in a "safe" or "off" position
 5.	Release the stored energy
 6.	Verify the isolation
 
-## 
+## Remove Lockout
