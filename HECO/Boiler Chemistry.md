@@ -12,6 +12,7 @@ Feeding chemicals to the boiler water keeps the water pure and reduces corrosion
 -	IMMEDIATE SHUTDOWN
 
 
-Personal Safety
-Environmental Issues
-Equipment Safety & Preservation
+Priorities:
+1.	Personal Safety
+2.	Environmental Issues
+3.	Equipment Safety & Preservation
