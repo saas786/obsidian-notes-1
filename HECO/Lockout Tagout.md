@@ -36,3 +36,4 @@ If an energy-isolating device cannot be physically locked out, it must be tagged
 6.	Verify the isolation
 
 ## Remove Lockout
+-	Reverse of applying lockout process
