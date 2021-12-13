@@ -2,4 +2,5 @@ Feeding chemicals to the boiler water keeps the water pure and reduces corrosion
 
 -	protecting the turbine
 	-	by producing clean steam
-		-	
+		-	by keeping water chemistry within parameters
+	
