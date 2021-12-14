@@ -50,11 +50,15 @@ Equipment:
 		-	want to maintain oil level about center of tank
 	-	provides oil seal barrier between hydrogen and air side drains
 -	Cuno Filter
+	-	filters high pressure oil going to the turbine oil system
 -	AC Pump
 	-	normal seal oil supply
 	-	regulated to 12psi greater than gas pressure at the seals
 -	Seal Oil Cooler
 -	Defoaming Tank
+	-	assists in removing any entrained hydrogen in the oil
+	-	foam layer floats on oil, keeps foam in defoaming tank allowing foam time to break down
+	-	level in tank is maintained by the overflow connections
 -	DC Pump (Emergency)
 	-	does not maintain purity of hydrogen as well as AC pump
 	-	last supply of seal oil designed to maintain hydrogen in the generator during a loss of all AC power
@@ -64,7 +68,8 @@ Equipment:
 	-	main regulator maintains seal oil at 12psi above generator gas pressure
 	-	backup regulator maintains seal oil at 8psi above generator gas pressure
 	-	spring bias is used to set the pressure control point
-	-	
+-	Generator Loop Seal
+	-	prevents a release of hydrogen from the generator to the lube oil reservoir in the event of a seal failure, or when the vacuum tank is not in service
 -	Seal Oil Return Tank
 -	Back Up Regulator
 -	ACW Line to Seal Oil Cooler
