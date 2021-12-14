@@ -34,6 +34,23 @@ Helium vs. Hydrogen
 -	lubricate seal rings
 -	minimize air, moisture, oil, and other contaminants that get in the generator so the hydrogen purity can be maintained
 
+## Seal Oil System
+Equipment:
+-	Vacuum Tank
+	-	removes gases & water vapor entrained in oil
+	-	provides oil storage
+-	Vacuum Pump
+	-	maintain vacuum in the vacuum tank to facilitate removal of any entrained air, gas, and moisture
+-	Cuno Filter
+-	AC Pump
+-	Seal Oil Cooler
+-	Defoaming Tank
+-	DC Pump
+-	Seal Oil Return Tank
+-	Back Up Regulator
+-	ACW Line to Seal Oil Cooler
+-	Vacuum Pump
+
 
 
 ---
