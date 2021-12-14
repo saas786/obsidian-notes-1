@@ -86,31 +86,64 @@ Backup Mode:
 
 Emergency Mode:
 -	If seal oil pressure drops to 5psi greater than generator gas pressure
+	-	DC seal oil pump starts
+	-	Main regulator maintains 12psi over gas pressure
+	-	Short term - no other backup if DC trips or fails
 
+When must system be in operation:
+-	prior to placing the turbine on turning gear
+-	prior to any gases being admitted into the generator enclosure
 
+Alarms:
+-	defoaming tank high level alarm
+-	drain regulator H2 side low level alarm
+-	seal oil low pressure alarm - 5 psid
+-	emergency seal oil pump starts with seal oil pressure drops to 5psi over gas pressure
+-	seal oil pump off - when seal oil pump discharge drops to 5psig
 
 ---
 
 >1. The major limit to generator capability is the ability of the design to cool which material?
 
+copper
+
 >2. What are the advantages of hydrogen over air with respect to generator cooling?
+
+-	high thermal conductivity and heat transfer coefficients
+-	pure -> free of dirt and moisture
+	-	increases life of insulation of stator winding
+-	reduced windage noise
 
 >3. Cooling active conductors internally has allowed for an increase in the capacities of generators. True \ False
 
+true
+
 >4. Liquid has better heat transfer characteristics as compared with gas. True \ False
 
+false
+
 >5. An explosion could occur if hydrogen is mixed with ________ .
+
+oxygen
 
 >6. The pumps that maintain stator cooling water circulation may be started ________ .
 >a. automatically.
 >b. manually.
 >c. both of the above.
 
+both of the above
+
 >7. The pressure of oil maintained on the seal at all times must be higher than hydrogen pressure to provide adequate sealing. True \ False
+
+true
 
 >8. Oil will absorb moisture and gas. True \ False 
 
+true
+
 >9. How does absorption of moisture and gas affect the hydrogen system?
+
+lowers the purity of the hydrogen system
 
 >10. What system provides seal oil backup?
 
