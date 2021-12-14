@@ -158,21 +158,34 @@ blue to grayish-pink
 
 >12. Hydrogen gas systems are all provided with some means of reading machine gas purity. Two of these are:
 
--	purity meter
--	density me
--	changes in thermal conductivity
+1.	purity meter (changes thermal conductivity)
+2.	density meter
 
 >13. What is used as an intermediate gas when changing either from air to hydrogen or hydrogen to air in a generator? Why is this gas used?
 
+carbon dioxide; CO2 is an inert gas that doesn't react with hydrogen
+
 >14. Under normal operating conditions, the hydrogen purity in a vacuum system is maintained at a value of 94-96%. True \ False
+
+false; 98-99%
 
 >15. Describe the difference(s) in the oil supplied to the seals with the vacuum system in service and without the vacuum system in service.
 
+-	no vacuum system
+	-	less clean gas
+	-	lower purity gas
+
 >16. Why do we have a seal oil system?
+
+prevents the hydrogen from escaping the generator
 
 >17. To prevent the escape of gas along the shaft of a hydrogen cooled turbine generator, ________ seals supplied with oil under pressure are used. 
 
+shaft or glands
+
 >18. Discuss, briefly, the purpose of the defoaming tanks.
+
+removes the foam th
 
 >19. What is the purpose of the vacuum tank? How does the vacuum tank work?
 
