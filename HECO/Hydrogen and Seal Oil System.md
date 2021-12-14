@@ -1,6 +1,21 @@
 # Hydrogen and Seal Oil System
 Section 21
 
+Hydrogen is used to cool the generator.
+
+Helium vs. Hydrogen
+-	Helium
+	-	scarce
+	-	high cost
+-	Hydrogen
+	-	abundant, available
+	-	relatively low cost
+	-	lower density
+	-	better thermal characteristics
+	-	pure -> free of dirt and moisture
+	-	increased life of insulation of stator winding
+	-	reduced windage noise
+
 ---
 
 >1. The major limit to generator capability is the ability of the design to cool which material?
