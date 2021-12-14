@@ -185,9 +185,13 @@ shaft or glands
 
 >18. Discuss, briefly, the purpose of the defoaming tanks.
 
-removes the foam th
+removes the foam from the oil; the foam contains hydrogen
 
 >19. What is the purpose of the vacuum tank? How does the vacuum tank work?
+
+-	removes gas & water vapor from the oil
+-	
+
 
 >20. Draw a diagram of the seal oil system. Include all major equipment and label each piece of equipment. Show flow, including direction of flow of oil from the generator seals through the seal oil system.
 
