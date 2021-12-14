@@ -109,6 +109,7 @@ copper
 
 >2. What are the advantages of hydrogen over air with respect to generator cooling?
 
+-	low density
 -	high thermal conductivity and heat transfer coefficients
 -	pure -> free of dirt and moisture
 	-	increases life of insulation of stator winding
@@ -124,7 +125,7 @@ false
 
 >5. An explosion could occur if hydrogen is mixed with ________ .
 
-oxygen
+air
 
 >6. The pumps that maintain stator cooling water circulation may be started ________ .
 >a. automatically.
@@ -143,13 +144,23 @@ true
 
 >9. How does absorption of moisture and gas affect the hydrogen system?
 
-lowers the purity of the hydrogen system
+-	lowers the purity of the hydrogen
+-	increases windage
+-	decreases efficiency
 
 >10. What system provides seal oil backup?
 
+turbine lube oil system
+
 >11. In some gas dryers, the colored activated alumina is a ________ color when dry and changing to ________ when moist.
 
+blue to grayish-pink
+
 >12. Hydrogen gas systems are all provided with some means of reading machine gas purity. Two of these are:
+
+-	purity meter
+-	density me
+-	changes in thermal conductivity
 
 >13. What is used as an intermediate gas when changing either from air to hydrogen or hydrogen to air in a generator? Why is this gas used?
 
