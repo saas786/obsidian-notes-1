@@ -11,10 +11,20 @@ Helium vs. Hydrogen
 	-	abundant, available
 	-	relatively low cost
 	-	lower density
-	-	better thermal characteristics
+	-	high thermal conductivity and heat transfer coefficients
 	-	pure -> free of dirt and moisture
-	-	increased life of insulation of stator winding
+		-	increases life of insulation of stator winding
 	-	reduced windage noise
+	
+## Enclosed Systems
+-	gas circulated by fans on the rotor
+-	flows through machine, picks up heat
+-	flows through finned tube coolers (ACW in tubeside)
+-	cooled gas circles back through fans
+
+## Hydrogen Gas System
+-	provide means for safely putting hydrogen in or taking it out
+-	maintain gas pressu
 
 ---
 
