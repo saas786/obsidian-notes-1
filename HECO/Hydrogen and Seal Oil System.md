@@ -41,11 +41,30 @@ Equipment:
 	-	provides oil storage
 -	Vacuum Pump
 	-	maintain vacuum in the vacuum tank to facilitate removal of any entrained air, gas, and moisture
+-	Separator Tank
+	-	condenses exhausts from the vacuum pump and vents the gases to atmosphere
+	-	collects water - water settles to the bottom and must be drained
+	-	tracks volume of water drained to use as a problem indicator
+-	Drain Regulator
+	-	regulates oil coming from the hydrogen side drain of the defoaming tank
+		-	want to maintain oil level about center of tank
+	-	provides oil seal barrier between hydrogen and air side drains
 -	Cuno Filter
 -	AC Pump
+	-	normal seal oil supply
+	-	regulated to 12psi greater than gas pressure at the seals
 -	Seal Oil Cooler
 -	Defoaming Tank
--	DC Pump
+-	DC Pump (Emergency)
+	-	does not maintain purity of hydrogen as well as AC pump
+	-	last supply of seal oil designed to maintain hydrogen in the generator during a loss of all AC power
+	-	maintains a seal oil pressure at 12psi greater than gas pressure
+-	Seal Oil Pressure Regulators
+	-	balanced disc valves
+	-	main regulator maintains seal oil at 12psi above generator gas pressure
+	-	backup regulator maintains seal oil at 8psi above generator gas pressure
+	-	spring bias is used to set the pressure control point
+	-	
 -	Seal Oil Return Tank
 -	Back Up Regulator
 -	ACW Line to Seal Oil Cooler
