@@ -24,7 +24,12 @@ Helium vs. Hydrogen
 
 ## Hydrogen Gas System
 -	provide means for safely putting hydrogen in or taking it out
--	maintain gas pressu
+-	maintain gas pressure at desired value (30 psi @ K2)
+-	indicate to operator condition of machine with regards to gas pressure, temperature, and purity (>98%)
+-	indicate presence of water in machine
+-	dry gas and remove water vapor
+
+
 
 ---
 
