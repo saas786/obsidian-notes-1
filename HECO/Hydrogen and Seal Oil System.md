@@ -29,6 +29,11 @@ Helium vs. Hydrogen
 -	indicate presence of water in machine
 -	dry gas and remove water vapor
 
+## Hydrogen Seal Oil System
+-	prevent hydrogen from escaping
+-	lubricate seal rings
+-	minimize air, moisture, oil, and other contaminants that get in the generator so the hydrogen purity can be maintained
+
 
 
 ---
