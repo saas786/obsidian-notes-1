@@ -75,6 +75,18 @@ Equipment:
 -	ACW Line to Seal Oil Cooler
 -	Vacuum Pump
 
+Backup Mode:
+-	Seal oil pressure at seal drops to 8 psi greater than generator gas pressure
+	-	Backup regulator opens to maintain 8psi over gas
+	-	Backup supply from turbine lube oil system
+-	Hydrogen purity degrades
+	-	Vacuum tank bypassed
+	-	contaminants present in seal oil
+	-	additional hydrogen needed daily to maintain purity
+
+Emergency Mode:
+-	If seal oil pressure drops to 5psi greater than generator gas pressure
+
 
 
 ---
