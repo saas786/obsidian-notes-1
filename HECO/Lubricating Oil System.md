@@ -12,7 +12,27 @@ Desired Properties:
 Causes of Oil Deterioration
 -	Changes within itself -	composition breakdown (e.g. temperature transients, age)
 -	Outside contamination
-	-	water - 
+	-	water (e.g. turbine shaft steam & water seals, oil cooler leaks, airborne moisture in piping & reservoir)
+	-	air ($\text{O}_2$ in air causes oxidation, creates sludge)
+	
+## Pall Purifier
+Removes moisture and dissolved gas/water in oil using a process called **vacuum dehydration**.
+-	Removes 100% of free water and entrained air
+-	Removes up to 80% of dissolved gas/water
+
+Gases:
+-	expand in size
+-	decrease in relative humidity
+
+Oils:
+-	release moisture to air via mass transfer
+-	dissolved air in oil released
+
+Components:
+-	heater
+-	vacuum tower
+	-	vacuum pump & motor
+-	outlet filter
 
 ---
 
@@ -23,7 +43,7 @@ Causes of Oil Deterioration
 
 both of the above
 
->2. What are some of the desired properties of turbine lube oil? (list at least 3)
+>2. What are some of the desired properties of turbine lube oil? (list 3)
 
 -	Low viscosity
 -	Good demulsibility
@@ -31,9 +51,16 @@ both of the above
 
 >3. List two (2) causes of oil deterioration.
 
+-	changes within itself
+-	outside contamination
+
 >4. Demulsibility is a measure of oil's ability to separate from water. True \ False
 
+true
+
 >5. High performance in oil is attained by adding various chemicals or additives. True \ False
+
+
 
 >6. When lube oil is subjected to pressure, it increases its viscosity. True \ False
 
