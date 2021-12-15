@@ -60,3 +60,5 @@ Oil Analysis & DGA (Dissolved Gas Analysis) -> Identifies transformer and machin
 IR Thermography -> Identifies Electrical and Mechanical Faults using heat
 Gas Imaging -> Identifies steam and flue gas leaks using CO2 detection
 Ultrasound -> Identifies hydrualic and mechanical faults
+Vibration Analysis -> Identifies mechanical and electrical faults
+Motion Amplification Camera -> Amplifies motion normally too small for the human eye to see
