@@ -168,13 +168,15 @@ true
 
 >7. The clean oil tank holds clean oil and the used oil tank holds used oil that has been centrifuged and filtered. True \ False
 
-true
+false (according to text)
 
 >8. What is a Bowser?
 
-an oil filtration unit
+an oil conditioner
 
 >9. Name the compartments in a Bowser and list the function of each.
+
+-	precipitation compartment - remove
 
 
 
