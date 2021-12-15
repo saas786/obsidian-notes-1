@@ -98,6 +98,14 @@ Components:
 
 ### PALL Alarms
 -	High Tower Alarm
+	-	sometimes caused by high rate of low viscosity oil flowing into PALL when Lexair valve opens
+	-	check rise and fall times of floats
+-	Low Tower Alarm
+	-	trigger when HVP can't being enough fluid to tower
+	-	check tower vacuum
+	-	check inlet vacuum gauge
+	-	check oil temperature & viscosity
+	-	check inlet strainer
 
 ---
 
