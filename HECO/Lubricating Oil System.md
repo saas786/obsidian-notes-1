@@ -81,14 +81,14 @@ Components:
 Can be serviced from the LO tanks or drained back to the tanks.
 
 ## DeLaval Lube Oil Purifier
-Removes free water in oil.
+Removes entrained water in oil.
 -	routine centrifuging of oil
 -	removes moisture and debris from the lube oil
 -	normally in service to the used lube oil tank
 -	prime before using
 
 ## Pall Lube Oil Purifier
-Removes moisture and dissolved gas/water in oil using a process called **vacuum dehydration**.
+Removes moisture and dissolved gas/emulsified water in oil using a process called **vacuum dehydration**.
 -	Removes 100% of free water and entrained air
 -	Removes up to 80% of dissolved gas/water
 
@@ -199,12 +199,20 @@ to maintain a flow going into the turbine bearing
 >14. An agitating action removes impurities which differ in specific gravity from the oil. 
 >True \ False
 
-
+false
 
 >15. List and provide a brief description of the methods used to remove impurities from the turbine lube oil
 
+-	Bowser
+-	Centrifuge filter
+-	PALL filter
+
 >16. List three (3) alarms associated with the Turbine Lube Oil System
 
+1.	reservoir high or low
+
 >17. List and briefly describe the major components of the Turbine Lube Oil system.
+
+
 
 >18. Diagram the flow of lube oil. Include and label all major components and indicate flow direction.
