@@ -128,3 +128,11 @@ BMP
 -	if it can be swept up, sweep it up
 -	if you cannot the impact of your activity, at least minimize it
 -	doing something is better than nothing, just do it right
+
+BMPs for Waste Storage Areas
+-	Close dumpster lids when not in use
+-	Periodically inspect the condition of the dumpster
+-	Sweep area surrounding the bins
+-	Store under overhangs
+-	Construct berms around area
+-	
