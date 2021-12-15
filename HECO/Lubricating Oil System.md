@@ -26,6 +26,27 @@ Causes of Oil Deterioration
 	-	water (e.g. turbine shaft steam & water seals, oil cooler leaks, airborne moisture in piping & reservoir)
 	-	air ($\text{O}_2$ in air causes oxidation, creates sludge)
 	
+## Turbine Lube Oil Reservoir
+Function:
+-	Supply Tank
+-	Return Tank
+-	Storage Tank
+-	Settling Tank to drop out sediment
+
+## Lube Oil Pumps
+-	AC Auxiliary Lube Oil Pump
+-	Turning Gear Lube Oil Pump
+	-	services 
+-	DC Lube Oil Pump
+
+## Bowser
+An oil conditioner that filters the oil.
+
+Components:
+-	precipitation or settling compartment
+-	filter bag compartment
+-	polishing cartridge-type filter (some models)
+
 ## Pall Purifier
 Removes moisture and dissolved gas/water in oil using a process called **vacuum dehydration**.
 -	Removes 100% of free water and entrained air
@@ -82,6 +103,7 @@ true
 true
 
 >8. What is a Bowser?
+
 
 >9. Name the compartments in a Bowser and list the function of each.
 
