@@ -69,3 +69,33 @@ Exempt Items
 	-	The oil and gas "tanks" permanently fixed to a vehicle for the purpose of powering the vehicle are exempt from the rule
 -	Oil/Water Separators
 	-	If oil is pumped out of the separator into another tank, that tank is considered bulk storage
+
+Vehicle Fueling
+-	Must be present during fueling. Do not lock dispenser
+-	No "topping off"
+-	Report suspect equipment. (Cracked hoses, faulty dispenser, etc.)
+
+Inspections
+-	Tanks, Drums, Barrels, Transformers
+-	Dike or Berm System
+	-	Level of Precipitation
+	-	Percent Available Capacity
+	-	Operational Status of Drain Valves
+	-	Dike or Berm Permeability
+	-	Debris
+	-	Erosion
+-	Secondary Containment
+-	Conducted monthly
+-	Maintained for at least 5 years
+-	Periodic integrity testing (API or STI)
+	-	American Petrolum Institute
+	-	Steel I
+	
+-	Leaks
+-	Drip marks
+-	Discoloration
+-	Puddles
+-	Corrosion
+-	Cracks
+-	Localized Dead Vegitation
+-	
