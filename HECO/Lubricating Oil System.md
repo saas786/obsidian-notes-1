@@ -53,18 +53,22 @@ Removes air and oil vapors that accumulate inside the reservoir between the oil 
 -	If hydrogen is inside the generator make sure the vapor extractor is in service
 
 ## Bowser
-An oil conditioner that filters out debris in the oil.
+An oil conditioner that filters out debris and moisture in the oil.
 Oil is supplied from the LO reservoir.
+Oil that goes through the Bowser can be pumped back to the reservoir for reuse.
 
 Components:
 -	precipitation or settling compartment
-	-	removes moisture in lube oil
+	-	removes moisture entrained in lube oil
 -	filter bag compartment
 	-	removes large foreign particulates
 	-	operator replaces filter bags
 -	polishing cartridge-type filter
-	-	rremoves smaller particulates
+	-	removes smaller particulates
 	-	operator replaces filters
+	
+## BFP Lube Oil Reservoir
+Can be serviced from the LO tanks or drained back to the tanks.
 
 ## Pall Purifier
 Removes moisture and dissolved gas/water in oil using a process called **vacuum dehydration**.
