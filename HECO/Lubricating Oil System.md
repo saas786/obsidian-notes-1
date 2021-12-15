@@ -213,6 +213,13 @@ false
 
 >17. List and briefly describe the major components of the Turbine Lube Oil system.
 
-
+Lube Oil Reservoir
+Storage Tanks (New and Used)
+Bowser (Oil Conditioners) (filters particles and water/gas)
+AC Aux Pump 
+DC Pump
+Turning Pump
+Vapor Extractor
+Coolers
 
 >18. Diagram the flow of lube oil. Include and label all major components and indicate flow direction.
