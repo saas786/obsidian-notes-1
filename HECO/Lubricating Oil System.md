@@ -28,6 +28,7 @@ Desired Properties:
 	-	demulsibility - ability to readily separate from water
 -	High durability
 	-	durability - characteristics of chemical stability; how resistant it is to air, water, particulates, or other impurities
+-	Temperature -> 110 F (both Lube Oil and Seal Oil)
 
 Causes of Oil Deterioration
 -	Changes within itself -	composition breakdown (e.g. temperature transients, age)
@@ -124,7 +125,12 @@ Components:
 -	Auto Stop Oil - provides for turbine trip devices (trip block) to be reset (latch turbine)
 
 ### Turbine Lube Oil Alarms
--	Re
+-	Reservoir high or low level
+-	AC Aux LO Pump running
+-	Turning Gear LO Pump running
+-	DC LO Pump Running
+-	Bearing Oil Pressure Low
+-	Lube Oil Temperature from Cooler High
 
 
 
@@ -154,7 +160,7 @@ true
 
 >5. High performance in oil is attained by adding various chemicals or additives. True \ False
 
-false
+true
 
 >6. When lube oil is subjected to pressure, it increases its viscosity. True \ False
 
@@ -166,8 +172,11 @@ true
 
 >8. What is a Bowser?
 
+an oil filtration unit
 
 >9. Name the compartments in a Bowser and list the function of each.
+
+
 
 >10. When the oil level in the filtering system rises above the normal operating level, it indicates that the screened trays should be removed and cleaned. True \ False
 
