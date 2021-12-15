@@ -99,3 +99,19 @@ Inspections
 -	Cracks
 -	Localized Dead Vegitation
 -	
+
+Spill Response equipment
+-	Spill kits
+-	Absorbent Pads
+-	Booms
+-	Occasionally swap out material in the spill kit with new material from storeroom
+
+Spill Response
+1.	Source control - stop the leak
+2.	Notification
+3.	Containment
+	-	Stop/slow the flow
+	-	Block discharge routes (storm drains)
+4.	Zone Control
+	-	Hot Zone, decon, PPE
+5.	Recovery
