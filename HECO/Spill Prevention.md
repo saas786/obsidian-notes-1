@@ -115,3 +115,16 @@ Spill Response
 4.	Zone Control
 	-	Hot Zone, decon, PPE
 5.	Recovery
+
+---
+
+Stormwater Pollution Prevention Plan (SWPPP)
+-	ensures the water quality of the facility's runoff
+-	identifies potential sources of pollution
+-	includes Best Management Practices (BMP)
+
+BMP
+-	if it can be picked up and thrown away, do so
+-	if it can be swept up, sweep it up
+-	if you cannot the impact of your activity, at least minimize it
+-	doing something is better than nothing, just do it right
