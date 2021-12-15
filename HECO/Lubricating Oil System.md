@@ -73,7 +73,7 @@ Components:
 -	filter bag compartment
 	-	removes large foreign particulates
 	-	operator replaces filter bags
--	polishing cartridge-type filter
+-	cartridge filter compartment (polisher)
 	-	removes smaller particulates
 	-	operator replaces filters
 	
@@ -176,20 +176,30 @@ an oil conditioner
 
 >9. Name the compartments in a Bowser and list the function of each.
 
--	precipitation compartment - remove
-
-
+-	precipitation compartment - removes moisture entrained in lube oil
+-	filter bag compartment - filters out large particulates
+-	cartridge filter compartment - filters small particulates
 
 >10. When the oil level in the filtering system rises above the normal operating level, it indicates that the screened trays should be removed and cleaned. True \ False
 
+true
+
 >11. Why is it important that the vapor extractor be in service whenever there is hydrogen in the generator?
+
+the air in the lube oil can cause an explosion
 
 >12. What is the purpose of the bearing oil coolers? 
 
+cools the lube oil before going back into the turbine bearing
+
 >13. Why is it important that a bearing oil cooler be checked for oil flow before transferring coolers? 
+
+to maintain a flow going into the turbine bearing
 
 >14. An agitating action removes impurities which differ in specific gravity from the oil. 
 >True \ False
+
+
 
 >15. List and provide a brief description of the methods used to remove impurities from the turbine lube oil
 
