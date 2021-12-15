@@ -209,7 +209,30 @@ Prohibited Discharges
 	-	closed loop system compounds (e.g. ACW)
 	
 Cooling Water Limits
+
 | Parameter   | Discharge Limit                                     | Monitoring Frequency |
 | ----------- | --------------------------------------------------- | -------------------- |
 | Flow        | Based on capacity of cooling water pumps            | Continuous           |
-| Temperature | Waiau - 102 F, Kahe - $\Delta$ 15 F, Kahului - 90 F | Continuous           |
+| Temperature | Waiau - 102 F, Kahe - $\Delta$ 15 F (15 F higher than intake), Kahului - 90 F | Continuous           |
+
+Low Volume Waste Limits
+
+| Paramter                     | Discharge Limit                                          | Monitoring Frequency |
+| ---------------------------- | -------------------------------------------------------- | -------------------- |
+| Flow                         | Waiau - 0.350 MGD, Kahe - 0.270 MGD, Kahului - 0.040 MGD | Continuous           |
+| Total Suspended Solids (TSS) | 30 mg/L Monthly average, 100 mg/L - Daily max            | Once/Month           |
+| Oil & Grease (O&G)           | 15 mg/L - Monthly average, 20 mg/L - Daily max           | Once/Month           |
+| Total Copper & Total Iron    | 1.0 mg/L - Daily Max                                     | Once/Month           |
+| pH                           | Between 6.0 and 9.0 SU                                   | Once/Month           |
+
+LVW/MCW Sampling
+-	Sample must be "representative" of the tank or pond
+-	Must sample every month there is a discharge
+-	Sample should be collected in the first week of each month in case there are any issues, there is time to re-sample or make adjustments
+
+Condensate (Hotwell) Discharges
+-	Condensate is considered LVW
+-	Discharges straight to cooling water tunnels, not the wastewater treatment
+-	Typically discharged during start-ups and salt leaks
+-	Condensate must be monitored during every discharge
+-	If
