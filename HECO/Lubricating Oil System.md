@@ -43,17 +43,28 @@ Function:
 	-	used as a backup for the turning gear LO pump
 
 ## Lube Oil Coolers
-A heat exchanger that cools the oil before returning the oil to the turbine bearings
+A heat exchanger that cools the oil (using ACW) before returning the oil to the turbine bearings.
 
 ## Lube Oil Vapor Extractor
+Removes air and oil vapors that accumulate inside the reservoir between the oil level and the top of the reservoir
+
+### Checks
+-	Monitor vacuum
+-	If hydrogen is inside the generator make sure the vapor extractor is in service
 
 ## Bowser
-An oil conditioner that filters the oil.
+An oil conditioner that filters out debris in the oil.
+Oil is supplied from the LO reservoir.
 
 Components:
 -	precipitation or settling compartment
+	-	removes moisture in lube oil
 -	filter bag compartment
--	polishing cartridge-type filter (some models)
+	-	removes large foreign particulates
+	-	operator replaces filter bags
+-	polishing cartridge-type filter
+	-	rremoves smaller particulates
+	-	operator replaces filters
 
 ## Pall Purifier
 Removes moisture and dissolved gas/water in oil using a process called **vacuum dehydration**.
