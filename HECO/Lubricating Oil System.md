@@ -18,7 +18,7 @@ Desired Properties:
 -	High demulsibility
 	-	demulsibility - ability to readily separate from water
 -	High durability
-	-	durability - characteristics of chemical stability
+	-	durability - characteristics of chemical stability; how resistant it is to air, water, particulates, or other impurities
 
 Causes of Oil Deterioration
 -	Changes within itself -	composition breakdown (e.g. temperature transients, age)
@@ -71,11 +71,15 @@ true
 
 >5. High performance in oil is attained by adding various chemicals or additives. True \ False
 
-
+false
 
 >6. When lube oil is subjected to pressure, it increases its viscosity. True \ False
 
+true
+
 >7. The clean oil tank holds clean oil and the used oil tank holds used oil that has been centrifuged and filtered. True \ False
+
+true
 
 >8. What is a Bowser?
 
