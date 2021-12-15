@@ -371,7 +371,7 @@ Maintenance and Inspections
 -	Check for leaks
 
 Recordkeeping - An annual summary report is due to the DOH (March 1 of the following year)
--	Maintain the Recycled Water Monthly Log to faci
+-	Maintain the Recycled Water Monthly Log to facilitate the completion of the annual report
 
 -	
 
