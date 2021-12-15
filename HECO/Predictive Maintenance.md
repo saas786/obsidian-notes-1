@@ -27,4 +27,30 @@ PdM detects problems in equipment early, hopefully allowing them to be fixed bef
 -	Participate on Root Cause Analysis Teams
 -	Tri-Company support
 
-## 
+## PdM Process
+```mermaid
+stateDiagram-v2
+Data: Data Acquired
+Condition: Condition-Based Assessment, Recommendations
+Maintenance: Maintenance Actions
+Post: Post Maintenance Testing
+Doc: Documentation & Reporting
+Data --> Condition
+Condition --> Maintenance
+Maintenance --> Post
+Post --> Doc
+```
+
+Data Acquired:
+-	Maintenance History
+-	Operator Observations
+-	Design Information
+-	Process Data
+-	Past Failures
+-	Visual Inspection
+-	PdM Technologies
+
+Documentation:
+-	PlantView
+-	Case History
+-	Cost Benefit
