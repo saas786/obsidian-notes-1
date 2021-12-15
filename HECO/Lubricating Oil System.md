@@ -96,6 +96,9 @@ Components:
 	-	vacuum pump & motor
 -	outlet filter
 
+### PALL Alarms
+-	High Tower Alarm
+
 ---
 
 >1. An important function of lubricating oil is to ________ .
