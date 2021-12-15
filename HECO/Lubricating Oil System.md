@@ -1,5 +1,18 @@
 # Lubricating Oil System
 Section 22
+Speaker: Laurie
+
+
+
+Desired Properties:
+-	Low viscosity
+-	High demulsibility
+-	High durability
+
+Causes of Oil Deterioration
+-	Changes within itself -	composition breakdown (e.g. temperature transients, age)
+-	Outside contamination
+	-	water - 
 
 ---
 
@@ -11,6 +24,10 @@ Section 22
 both of the above
 
 >2. What are some of the desired properties of turbine lube oil? (list at least 3)
+
+-	Low viscosity
+-	Good demulsibility
+-	Good durability
 
 >3. List two (2) causes of oil deterioration.
 

@@ -1,3 +1,5 @@
+Speaker: Kirk Tomita
+
 >How could oil get into the water?
 
 Facility Drainage
