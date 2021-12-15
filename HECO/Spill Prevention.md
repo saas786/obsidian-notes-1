@@ -157,3 +157,12 @@ Metals
 -	Any amount of metal on the ground is too much
 -	Building and structures also can contribute to stormwater
 
+Reduce Runoff
+-	Allow storm water to infiltrate into the ground
+-	Create buffers
+-	Slow down the flow
+
+Inspections and Monitoring
+-	Facility inspections are required quarterly
+	-	Inspection forms ce
+
