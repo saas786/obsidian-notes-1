@@ -136,4 +136,9 @@ BMPs for Waste Storage Areas
 -	Store under overhangs
 -	Construct berms around area
 
-BMPs for 
+BMPs for Painting, Sandblasting, or Grinding
+-	Use tarps to cover ground
+-	Sweep up dust, sand, and paint chips daily, at a minimum
+-	Enclose blast area with tarps or plastic sheeting
+-	Leaving waste material on the ground is unacceptable
+
