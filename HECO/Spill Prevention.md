@@ -235,4 +235,36 @@ Condensate (Hotwell) Discharges
 -	Discharges straight to cooling water tunnels, not the wastewater treatment
 -	Typically discharged during start-ups and salt leaks
 -	Condensate must be monitored during every discharge
--	If
+-	If hotwell is re-routed to waste water treatment system, monitoring is not necessary
+
+Chlorine Dioxide System
+-	Minimize biofouling of the cooling water system
+-	Only permitted at Waiau and Kahe
+-	CLO2 systems can only operate:
+	-	Two hours per unit per day
+	-	One unit dosing at any given time
+	-	System rinse cycle not included
+
+Cooling Water System Requirements
+-	2019 requirement to inspect and operate the cooling water system
+-	Weekly inspection of:
+	-	Intake bar racks
+	-	Traveling screens
+	-	Cooling water tunnels
+-	Properly maintain equipment (heat exhangers, pumps, piping)
+-	Only operate unit necessary for power generation
+
+Monitoring
+-	Effluent Monitoring - end of pipe
+-	Zone of Mixing (ZOM)
+	-	Samples are collected from the recveing water to determine the impact of the discharge on the ocean
+-	Whole Effluent Toxicity Test (WETT)
+	-	Live animals (shrimp or sea urchins) are used to test the toxicity of the discharge
+	
+Recordkeeping
+-	Discharge Monitoring Reports
+-	ZOM and WETT reports
+-	Equipment Calibration Logs
+	-	pH Meters
+	-	Temperature Probes
+	-	Flow Meters
