@@ -42,3 +42,7 @@ Alternative Overfill Prevention
 	-	ex. few times per year
 -	Must be fully attended
 -	Must gauge tank or visually check level of container prior to transfer
+
+Mobile Storage
+-	Tanker Trucks, Totes, Drums
+-	Becomes a Bulk Storage Container once they become immobile
