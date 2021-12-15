@@ -164,5 +164,21 @@ Reduce Runoff
 
 Inspections and Monitoring
 -	Facility inspections are required quarterly
-	-	Inspection forms ce
+	-	Inspection forms certified by Operations Manager
+-	Stormwater Monitoring is required quarterly
+	-	Rain Gauge, daily rainfall log
+	-	Sample within 30 minutes of a discharge
 
+Corrective Actions, <14 days
+-	Immediately (i.e. same day) minimize or prevent discharge of pollutant
+	-	Something must be done
+-	Complete subsequent actions within 14 days if immediate actions are insufficient
+	-	Install new BMPs
+	-	Repair equipment
+	-	Modify BMP
+	
+Non-Stormwater Discharge
+-	Only stormwater runoff is allowed in the facility stormdrains
+-	Washing cars is not allowed
+-	It doesn't matter how clean the water is either
+-	Washwater must be collected
