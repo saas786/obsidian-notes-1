@@ -35,9 +35,17 @@ Function:
 
 ## Lube Oil Pumps
 -	AC Auxiliary Lube Oil Pump
+	-	used during unit start-ups and shutdowns
 -	Turning Gear Lube Oil Pump
-	-	services 
+	-	services turning gear bearing on turbine
 -	DC Lube Oil Pump
+	-	used for emergencies when no AC power is available
+	-	used as a backup for the turning gear LO pump
+
+## Lube Oil Coolers
+A heat exchanger that cools the oil before returning the oil to the turbine bearings
+
+## Lube Oil Vapor Extractor
 
 ## Bowser
 An oil conditioner that filters the oil.
