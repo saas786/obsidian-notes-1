@@ -17,5 +17,8 @@ Bulk Storage Container
 	-	Compatibility
 -	Secondary Containment
 	-	Containment sized for the entire volume of the largest container plus freeboard for rainwater
+	-	Ex: Berms, Spill Pallets
 -	Drainage of Rainwater
 	-	Closed and locked valve and/or secured pumps
+-	Examples: Tanks, Drums
+-	Generators with internal 
