@@ -57,3 +57,6 @@ Documentation:
 
 Motor Analysis -> Identifies stator and rotor faults
 Oil Analysis & DGA (Dissolved Gas Analysis) -> Identifies transformer and machine faults & lubrication/fluid issues
+IR Thermography -> Identifies Electrical and Mechanical Faults using heat
+Gas Imaging -> Identifies steam and flue gas leaks using CO2 detection
+Ultrasound -> Identifies hydrualic and mechanical faults
