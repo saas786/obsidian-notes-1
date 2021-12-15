@@ -268,3 +268,35 @@ Recordkeeping
 	-	pH Meters
 	-	Temperature Probes
 	-	Flow Meters
+	
+Calibration
+-	pH Meters (+- 0.05 SU)
+	-	Tabletop, daily (when used)
+	-	Inline, quarterly
+	-	pH Buffers must be current
+-	Temperature Probes (+- 1F)
+	-	Quarterly
+	-	Meter used for calibration must be certified
+-	Flow Meters (+- 10%)
+	-	Every 180 days
+	-	Internal practice (HECO) is to change out meters quarterly
+
+DOH/EPA Enforcement
+-	Each violation of the permit is subject to a maximum fine of $37,500 per day
+-	Sample things such as not calibrating a pH meter as required can add up to thousands of dollars in fines
+-	Honolulu and Waiau paid fines totalling $200,000 for what was thought to be minor violations
+
+Typical DOH/EPA Findings
+-	Poor Housekeeping (sediment, metal shavings, trash & debris)
+-	Active oil leaks from vehicles and equipment
+-	Storm water exceedance (copper and pH)
+
+---
+
+# Underground Injection Control (UIC)
+
+UIC Wells
+-	permit to discharge sanitary waste to injection wells
+-	Only sources specifically listed in the permit may be discharged
+-	No discharges of hazardous was
+-	A daily record of the discharge quantity must be kept
