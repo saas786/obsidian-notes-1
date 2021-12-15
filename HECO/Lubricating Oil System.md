@@ -70,7 +70,14 @@ Components:
 ## BFP Lube Oil Reservoir
 Can be serviced from the LO tanks or drained back to the tanks.
 
-## Pall Purifier
+## DeLaval Lube Oil Purifier
+Removes free water in oil.
+-	routine centrifuging of oil
+-	removes moisture and debris from the lube oil
+-	normally in service to the used lube oil tank
+-	prime before using
+
+## Pall Lube Oil Purifier
 Removes moisture and dissolved gas/water in oil using a process called **vacuum dehydration**.
 -	Removes 100% of free water and entrained air
 -	Removes up to 80% of dissolved gas/water
