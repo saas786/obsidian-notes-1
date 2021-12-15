@@ -54,3 +54,6 @@ Documentation:
 -	PlantView
 -	Case History
 -	Cost Benefit
+
+Motor Analysis -> Identifies stator and rotor faults
+Oil Analysis & DGA (Dissolved Gas Analysis) -> Identifies transformer and machine faults & lubrication/fluid issues
