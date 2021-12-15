@@ -63,3 +63,9 @@ Mobile Refuelers
 -	Bulk storage container onboard a cehicle or towed used solely to transfer oil into other sotrage containers
 -	Spill Prevention requirement same as oil filled equipment
 -	Inspections and drip pans
+
+Exempt Items
+-	Vehicles (Trucks, crains, bulldozers, etc.)
+	-	The oil and gas "tanks" permanently fixed to a vehicle for the purpose of powering the vehicle are exempt from the rule
+-	Oil/Water Separators
+	-	If oil is pumped out of the separator into another tank, that tank is considered bulk storage
