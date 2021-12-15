@@ -317,4 +317,30 @@ Inspections
 -	Impairment of the injection well
 -	Unsafe condition resulting from the operation of the well
 
+---
+
+# Recycled Water Use
+
+AKA:
+-	Reclaimed Water
+-	RO Water
+-	Reused Water
+-	Grey Water
+-	R-2 Water
+
+Health Issues:
+-	RO water is currently used at many other sites in Hawaii
+-	No cases of illness related to recycled water use have been reported
+-	RO water is not suitable for drinking
+
+Ingestion of Recycle Water
+-	If ingestion occurs, inform the SS and environmental department
+-	If it was due to a cross connection contamination, an incident report must be submitted DOH
+
+Hygiene
+-	Wash hands before eating, drinking or smoking
+-	Wear gloves if contact with recycled water could occur
+-	Cover cuts or breaks in the skin
+-	Be aware that clothing or tools can transport pathogenic organisms
+
 
