@@ -200,3 +200,16 @@ These discharges are limited to:
 -	Chlorine (Kahe and Waiau only)
 -	Stormwater Runoff
 All other discharges are prohibited
+
+Prohibited Discharges
+-	Wastestreams generated at other facilities
+	-	Ex. Cannot discharge Kahe's wastewater at Waiau or vice versa
+-	Wastestreams specifically prohibited:
+	-	PCB transformer fluid
+	-	closed loop system compounds (e.g. ACW)
+	
+Cooling Water Limits
+| Parameter   | Discharge Limit                                     | Monitoring Frequency |
+| ----------- | --------------------------------------------------- | -------------------- |
+| Flow        | Based on capacity of cooling water pumps            | Continuous           |
+| Temperature | Waiau - 102 F, Kahe - $\Delta$ 15 F, Kahului - 90 F | Continuous           |
