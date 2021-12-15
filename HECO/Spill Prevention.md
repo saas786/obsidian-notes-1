@@ -143,3 +143,17 @@ BMPs for Painting, Sandblasting, or Grinding
 -	Leaving waste material on the ground is unacceptable
 -	Paint on asphalt -> use asphalt coating
 
+Storm Water Accumulated in Berms
+-	Obtain supervisor approval to discharge
+-	Only discharge clean storm water
+-	Record draining activity on log sheet
+-	Close and lock drain after draining activity
+	-	or isolate pumps
+-	The clean storm water can be discharged to the ground or storm drains
+
+Metals
+-	All metal subject to significant corrosion must be stored under cover or indoors
+-	Rust scale on the ground is unacceptable
+-	Any amount of metal on the ground is too much
+-	Building and structures also can contribute to stormwater
+
