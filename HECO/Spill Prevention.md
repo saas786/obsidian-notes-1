@@ -118,7 +118,7 @@ Spill Response
 
 ---
 
-Stormwater Pollution Prevention Plan (SWPPP)
+# Stormwater Pollution Prevention Plan (SWPPP)
 -	ensures the water quality of the facility's runoff
 -	identifies potential sources of pollution
 -	includes Best Management Practices (BMP)
@@ -182,3 +182,21 @@ Non-Stormwater Discharge
 -	Washing cars is not allowed
 -	It doesn't matter how clean the water is either
 -	Washwater must be collected
+
+---
+
+# National Pollutant Discharge Elimination System (NPDES)
+Industrial Waste Water Discharge Permit
+
+NPDES Program
+-	The Clean water act prohibits anybody from discharging pollutants via a point source (i.e. pip, ditch, container, tunnel) into waters of the US without a permit
+-	The NPDES program address water pollution by regulating point sources that discharge pollutants
+
+Only discharges listed in the facility's permit are allowed
+These discharges are limited to:
+-	Condenser cooling water
+-	Low volume waste
+-	Metal cleaning waste
+-	Chlorine (Kahe and Waiau only)
+-	Stormwater Runoff
+All other discharges are prohibited
