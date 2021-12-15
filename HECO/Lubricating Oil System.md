@@ -11,6 +11,15 @@ Function:
 	-	Oil removes heat from bearings
 -	Lube oil -> high quality refined petrolum
 
+Goals:
+-	Maintain Lubricating Oil Cleanliness
+	-	Remove and Keep Out water/moisture, air particulates, dust, and dirt
+-	Proper Handling of Lubricating Oils
+	-	Wear PPE (gloves, glasses or face shield)
+	-	Clean up spills immediately
+	-	Inform SS of spills
+	-	Properly dispose of oil, oil soaked materials
+
 Desired Properties:
 -	Low viscosity
 	-	viscosity - measurement to describe oil's relative resistance to flow
@@ -106,6 +115,18 @@ Components:
 	-	check inlet vacuum gauge
 	-	check oil temperature & viscosity
 	-	check inlet strainer
+	
+## Turbine Lube Oil Subsystems
+-	Lubricating Oil - keeps turbine bearings cool
+-	High Pressure Oil - to main and auxiliary governors, supplies high pressure oil to allow the turbine to be latched
+-	Governer Control Oil - position the turbine valves (governer valves, RH stop, intercept valves)
+-	Gonverner Seal Oil Back Up - provide high pressure oil to seal oil back up regulator
+-	Auto Stop Oil - provides for turbine trip devices (trip block) to be reset (latch turbine)
+
+### Turbine Lube Oil Alarms
+-	Re
+
+
 
 ---
 
