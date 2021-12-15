@@ -46,3 +46,20 @@ Alternative Overfill Prevention
 Mobile Storage
 -	Tanker Trucks, Totes, Drums
 -	Becomes a Bulk Storage Container once they become immobile
+
+Oil-Filled Equipment
+-	Equipment that requires oil to operate (motors, pumps, transformers)
+-	Spill Prevention System
+-	Transformers -> gravel around equipment
+	-	Out of Service Transformers (manned facilities)
+		-	store indoors or under cover if possible
+		-	only new or reconditioned transfomers should be stored outdoors
+		-	inspect transformers
+	-	inservice transformer
+		-	inspections	
+		-	gravel
+		
+Mobile Refuelers
+-	Bulk storage container onboard a cehicle or towed used solely to transfer oil into other sotrage containers
+-	Spill Prevention requirement same as oil filled equipment
+-	Inspections and drip pans
