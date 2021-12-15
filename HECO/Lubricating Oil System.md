@@ -2,12 +2,23 @@
 Section 22
 Speaker: Laurie
 
-
+Function:
+-	Provides continuous flow of lubricating oil to major equipment
+	-	Turbine
+	-	Larger pumps (ex. BFP)
+-	At correct temperature
+	-	Temperature affects properties
+	-	Oil removes heat from bearings
+-	Lube oil -> high quality refined petrolum
 
 Desired Properties:
 -	Low viscosity
+	-	viscosity - measurement to describe oil's relative resistance to flow
+		-	changes with temperature
 -	High demulsibility
+	-	demulsibility - ability to readily separate from water
 -	High durability
+	-	durability - characteristics of chemical stability
 
 Causes of Oil Deterioration
 -	Changes within itself -	composition breakdown (e.g. temperature transients, age)
