@@ -141,4 +141,5 @@ BMPs for Painting, Sandblasting, or Grinding
 -	Sweep up dust, sand, and paint chips daily, at a minimum
 -	Enclose blast area with tarps or plastic sheeting
 -	Leaving waste material on the ground is unacceptable
+-	Paint on asphalt -> use asphalt coating
 
