@@ -15,9 +15,12 @@ Operation:
 Equipment using ACW:
 -	Air compressors and aftercoolers
 -	Equipment bearings
+	-	FD Fans
+	-	Gas Recirc Fans
 -	Generator hydrogen coolers
 -	Lube oil coolers
 -	Boiler feed pumps stuffing boxes
+-	Boiler doors
 -	Sample coolers (CCI)
 
 Alarms:
