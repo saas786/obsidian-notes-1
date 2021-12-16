@@ -52,6 +52,15 @@ chemically
 
 >9. What are the two sources of service water at our generating stations.
 
+ocean water and city water
+
 >10. What is the purpose of the service water system? 
 
+cool the ACW
+
 >11. List four (4) ways in which the power plant uses domestic water.
+
+1.	drinking
+2.	bathrooms
+3.	fire system
+4.	make-up ACW
