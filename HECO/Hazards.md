@@ -38,3 +38,12 @@ Silica
 		-	3 types: quartz, cristobalite, tridymite
 	-	Non-Crystalline
 		-	Amorphous
+-	Health effects
+	-	Primary route of exposure -> inhalation
+	-	Respirable silica particles -> 100x smaller than sand
+-	Silica-Related Deseases
+	-	Silicosis
+	-	Lung Cancer
+-	Exposure Limit
+	-	Permissible -> 50 ug/m3
+	-	Action Level -> 25 ug/m3
