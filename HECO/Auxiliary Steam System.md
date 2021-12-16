@@ -38,4 +38,31 @@ Recipients:
 -	Steam for turbine driven or reciprocating pumps
 -	Sealing steam (turbine)
 	
-	
+### Miscellanous Drip Collection
+
+Equipment producing drips:
+-	reboilers in FO heater steam
+-	air ejector - inter and after condensers
+-	steam air heaters
+-	feedwater and steam sampling stations
+-	steam traps
+
+Drips are collected in drip pot or drain tank
+
+### Gland Seal Water
+Function:
+-	seals pumps' shafts to prevent air leakage into the pump
+-	lubricates and cools the pump packing
+
+Water supply:
+-	Demineralized/distilled or condensate
+-	Stored in Gland Seal Head tank
+
+Seal Head Tanks
+-	Usually located on higher floors
+-	nitrogen blanket - keeps tanks free of air
+-	gravity flows to pumps
+
+Used water is returned to condensor hotwell
+
+###
