@@ -30,4 +30,11 @@ Lead:
 		-	Bones
 		-	Nervous system
 		-	Reproductive systems
-		-
+		
+Silica
+-	A common mineral
+	-	Crystalline
+		-	Most hazardous
+		-	3 types: quartz, cristobalite, tridymite
+	-	Non-Crystalline
+		-	Amorphous
