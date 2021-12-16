@@ -24,16 +24,20 @@
 >-	Why are these chemicals added?
 >-	What safety precautions must be taken when handling these chemicals
 
->10. What is the risk level assigned when a header drip pump is out of service?
+>10.	What is the risk level assigned when a header drip pump is out of service?
 >-	What risk level is assigned when a condensate pump is placed out of service?
 
-11. What actions should be taken when high hotwell conductivity alarm shows up on the conventional cells and on the condensate pump discharge?
-12.	What is the condensate cross-feed line?
-	1.	When is it used?
-13.	Describe the heater drip pump. (Type of pump, number of stages, etc.)
-	1.	Where does the power supply come from for the motor?
-	2.	Are there any warm-up requirements for the heater drip pump?
-14.	Describe the condensate pump. (Type of pump, number of stages, etc.)
-	1.	Where does the power supply come from for the motor?
-	2.	Are there any warm-up requirements for the condensate pump?
-15.	Describe how to bypass & isolate the tube side of the feedwater heaters package.
+>11.	What actions should be taken when high hotwell conductivity alarm shows up on the conventional cells and on the condensate pump discharge?
+
+>12.	What is the condensate cross-feed line?
+>-	When is it used?
+	
+>13.	Describe the heater drip pump. (Type of pump, number of stages, etc.)
+>-	Where does the power supply come from for the motor?
+>-	Are there any warm-up requirements for the heater drip pump?
+	
+>14.	Describe the condensate pump. (Type of pump, number of stages, etc.)
+>-	Where does the power supply come from for the motor?
+>-	Are there any warm-up requirements for the condensate pump?
+	
+>15.	Describe how to bypass & isolate the tube side of the feedwater heaters package.
