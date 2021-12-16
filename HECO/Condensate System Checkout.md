@@ -1,6 +1,6 @@
 >1.	What is the purpose of the condensate system?
 
-The purpose of the condensate system is to condense the steam from the turbine in the condenser. The condensate is stored in the hotwell which is
+The purpose of the condensate system is to condense the steam from the turbine in the condenser. The condensate is stored in the hotwell which is pumped out by the condensate pumps through a series of feedwater heaters to raise its temperature and pressure and provide net positive suction head to the boiler feed pumps
 
 >2.	Draw a functional condensate system.
 >-	What are the inter-phasing systems?
