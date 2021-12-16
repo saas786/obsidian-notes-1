@@ -6,6 +6,8 @@
 
 ![[Auxiliary Cooling Water System]]
 
+![[Fire Water System]]
+
 ---
 
 >1. The demands of plant systems requiring low pressure steam are met by ________ .
