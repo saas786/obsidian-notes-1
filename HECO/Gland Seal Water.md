@@ -1,5 +1,5 @@
 Function:
--	seals pumps' shafts to prevent air leakage into the pump
+-	seals pumps' shafts to prevent air in-leakage into the pump
 -	lubricates and cools the pump packing
 
 Water supply:
