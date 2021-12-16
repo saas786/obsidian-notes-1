@@ -1,9 +1,4 @@
 Function:
--	Provides clean water for various plant operations
-
-Sources:
--	city water
--	reclaimed water
--	wells on plant property
+-	emergency use in case of fires
 
 Flows through **red** pipes.
