@@ -1,4 +1,3 @@
-## Auxiliary Cooling Water System
 Function:
 -	Cools various equipment in the plant
 -	Closed loop system
@@ -13,3 +12,17 @@ Operation:
 -	ACW exits from the chiller (cooled water) and enters the plant and branches off to the various equipment requiring cooling
 -	Upon exiting the equipment being cooled, the ACW then flows into a return header that discharges back to the ACW return tank
 
+Equipment using ACW:
+-	Air compressors and aftercoolers
+-	Equipment bearings
+-	Generator hydrogen coolers
+-	Lube oil coolers
+-	Boiler feed pumps stuffing boxes
+-	Sample coolers (CCI)
+
+Alarms:
+-	ACW return tank high/low level
+-	ACW cooling water low header pressure
+-	ACW heat exchanger high temperature
+-	ACW pump motor overcurrent trip
+-	ACW pump standby start
