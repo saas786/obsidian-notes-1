@@ -20,7 +20,7 @@ Equipment using ACW:
 -	Generator hydrogen coolers
 -	Lube oil coolers
 -	Boiler feed pumps stuffing boxes
--	Boiler doors
+-	Boiler/Furnace doors
 -	Sample coolers (CCI)
 
 Alarms:
