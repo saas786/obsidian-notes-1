@@ -44,6 +44,7 @@ Silica
 -	Silica-Related Deseases
 	-	Silicosis
 	-	Lung Cancer
+	-	COPD
 -	Exposure Limit
 	-	Permissible -> 50 ug/m3
 	-	Action Level -> 25 ug/m3
