@@ -24,4 +24,18 @@ From main steam:
 	-	station heating
 	-	turbine driven or reciprocating pumps
 	
+Properties:
+-	Pressure -> about 330 psig at K12, 200 psig at W34
+
+Recipients:
+-	Steam air heaters (combustion air)
+-	Scavenging steam for oil burner gun purge
+-	Fuel oil burners
+	-	atomizing steam
+	-	cooling steam for burner guns
+-	Reboiler steam coils
+-	Fuel oil heating (steam tracers)
+-	Steam for turbine driven or reciprocating pumps
+-	Sealing steam (turbine)
+	
 	
