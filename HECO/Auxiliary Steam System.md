@@ -65,4 +65,15 @@ Seal Head Tanks
 
 Used water is returned to condensor hotwell
 
-###
+Seals turbine shaft from casing
+-	steam, water, or a combination
+-	low pressure turbine glands
+
+Equipment using seal water:
+-	Condensate pumps
+-	#3 or #4 heater drip pump
+-	Reboiler feed pumps
+-	Water-sealed valves
+
+Location -> Upper floors at K12
+Water Pressure -> 20 psig
