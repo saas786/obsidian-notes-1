@@ -18,3 +18,15 @@ Lead:
 	-	Manual scraping and sanding
 	-	Demolition
 	-	Spray painting/coating with lead based products
+-	Health Effects
+	-	Routes of exposure
+		-	Inhalation - breathing lead fumes or dust
+		-	Ingestion - lead dust settle on food, water, hands
+		-	Absorption - lead dust on your skin
+	-	During prolong chronic exposure, many body systems can be effected by lead, including:
+		-	Brain
+		-	Kidneys
+		-	Muscles
+		-	Bones
+		-	Nervous system
+		-	Reproductive systems
