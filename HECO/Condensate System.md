@@ -16,6 +16,9 @@ Major Components:
 - condensate pumps
 - gland steam condensers
 - air ejector condensors
+	-	removes air and non-condensable gases from the condenser
+	-	maintains the vacuum created by the volume reduction of the condensing steam
+	-	helps establish the vacuum inside the condensor prior to turbine startup
 - de-aerator
 - hot surge tank
 - boiler feed pumps
