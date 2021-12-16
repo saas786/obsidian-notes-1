@@ -46,8 +46,9 @@ Function:
 ## Lube Oil Pumps
 -	AC Auxiliary Lube Oil Pump
 	-	used during unit start-ups and shutdowns
+	-	used as an emergency back-up to the main bearing 
 -	[[Turning Gear]] Lube Oil Pump
-	-	services turning gear bearing on turbine
+	-	services turbine bearing when turbine is on turning gear (shutting down)
 -	DC Lube Oil Pump
 	-	used for emergencies when no AC power is available
 	-	used as a backup for the turning gear LO pump
