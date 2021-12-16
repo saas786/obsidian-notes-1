@@ -1,0 +1,20 @@
+Lead:
+-	Heavy metal (at room temperature)
+-	Corrosion resistant
+-	Found in:
+	-	batteries
+	-	paints and coatings
+	-	pipes
+	-	metals
+	-	ceramics
+	-	auto manufacturing
+	-	printing
+	-	ammunition
+	-	gasoline
+-	Highest risk of lead exposure
+	-	Abrasive blasting
+	-	Welding, Cutting, and Burning on steel structures
+	-	Grinding
+	-	Manual scraping and sanding
+	-	Demolition
+	-	Spray painting/coating with lead based products
