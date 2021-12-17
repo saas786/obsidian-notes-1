@@ -22,8 +22,22 @@ HECO complies 100% with any and all environmental laws
 -	Bottom Line -- IT IS A PART OF DOING BUSINESS
 
 Plant Waste Management at HECO:
--	HECO was required to classify all its waste streams
+-	HECO was required to classify all its waste streams in order to obtain a permit
+	-	The Code of Federal Regulations
+-	Requirements of Permit
+	-	Includes daily, weekly, monthly, quarterly, semi-annual, and annual testing and/or inspections
+	-	Permit renewals
 
+Plant Waste Permit Requirements
+
+| Period        | Test                                                          |
+| ------------- | ------------------------------------------------------------- |
+| Daily         | continuous temp & flow monitoring                             |
+| Weekly        | total risidual oxidants                                       |
+| Monthly       | discharge monitoring                                          |
+| Quarterly     | Whole Effluent Toxicity Testing (WETT) & Zone of Mixing (ZOM) |
+| Semi-Annually | calibration of monitoring equipment                           |
+| Annually      | marine bottom community, stormwater, review & revision of plans and best practices, chemical usage                                                              |
 
 ---
 
