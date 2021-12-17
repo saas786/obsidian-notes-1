@@ -104,8 +104,12 @@ Atmospheric Blowoff Tank
 -	discharges steam to atmosphere
 -	used during startup to control pressure
 
-Oily water separator (Oily Sump)
+Oil Interceptor (Oily Sump)
 -	wait for oil to settle on top, then clean out with absorbant pads
+
+Oil-Water Separator
+-	prevents contamination of bodies of water adjacent to the power plant
+-	oil contaminated runoff collected in floor drains throughout plant and drains to a sump equipped with an oil-water separator
 
 ---
 
