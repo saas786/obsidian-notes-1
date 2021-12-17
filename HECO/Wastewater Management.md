@@ -111,6 +111,14 @@ Oil-Water Separator
 -	prevents contamination of bodies of water adjacent to the power plant
 -	oil contaminated runoff collected in floor drains throughout plant and drains to a sump equipped with an oil-water separator
 
+Alarms:
+-	High temperature discharge
+-	High/Low pH Levels
+-	Low Flow
+-	Low air pressure
+-	No carrier water
+-	High tank level
+
 ---
 
 >1. NPDES permits set limits on ________ .
@@ -143,21 +151,34 @@ metal cleaning waste
 
 >7. Where are the wastewater streams treated?
 
-
+batch tanks and lower ponds
 
 >8. How are wastewater streams treated?
 
+by added polymer, caustics, and acid
+
 >9. List two (2) chemicals which are injected into the wastewater treatment stream.
+
+NaOh (caustic) and H2SO4 (acid)
 
 >10. What method is used to mix the chemicals with the wastewater in the treatment tank?
 
+Funnels and recirculation pipes
+
 >11. Hazardous wastes must be shipped to landfills. True \ False
+
+false
 
 >12. Contaminated drains throughout the plant areas are collected in ________ and then pumped to an ________ .
 
->13. Where is the oil-water separator(s) or oil interceptor(s) located at Waiau?
+oil interceptors; boiler wash sump
+
+>13. Where is the oil-water separator(s) or oil interceptor(s) located at Waiau
+>
 
 >14. Where is the oil-water separator(s) or oil interceptor(s) located at Kahe?
+
+???
 
 >15. Wastewater is treated by ________ and ________ before being over boarded.
 
