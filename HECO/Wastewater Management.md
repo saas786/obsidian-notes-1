@@ -173,15 +173,17 @@ boiler wash sumps; wastewater facilities
 
 >13. Where is the oil-water separator(s) or oil interceptor(s) located at Waiau
 
-???
+W7
 
 >14. Where is the oil-water separator(s) or oil interceptor(s) located at Kahe?
 
-???
+all oil interceptor end up at the oily sump at K1
 
 >15. Wastewater is treated by ________ and ________ before being over boarded.
 
-acid and caustic
+neutralization and chemical precipitation
 
 >16. When the wastewater is determined to be in compliance with the discharge requirements, it is injected into the ________ as it exits the condenser and returns to the ________ or ________ .
+
+cooling water; ocean or harbor
 
