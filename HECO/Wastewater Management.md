@@ -149,11 +149,11 @@ metal cleaning waste
 
 >7. Where are the wastewater streams treated?
 
-batch tanks and lower ponds
+wastewater treatment facilities
 
 >8. How are wastewater streams treated?
 
-by added polymer, caustics, and acid
+neutralization and precipitation
 
 >9. List two (2) chemicals which are injected into the wastewater treatment stream.
 
@@ -161,7 +161,7 @@ NaOh (caustic) and H2SO4 (acid)
 
 >10. What method is used to mix the chemicals with the wastewater in the treatment tank?
 
-Funnels and recirculation pipes
+agitation (air injection)
 
 >11. Hazardous wastes must be shipped to landfills. True \ False
 
@@ -169,7 +169,7 @@ false
 
 >12. Contaminated drains throughout the plant areas are collected in ________ and then pumped to an ________ .
 
-oil interceptors; boiler wash sump
+boiler wash sumps; wastewater facilities
 
 >13. Where is the oil-water separator(s) or oil interceptor(s) located at Waiau
 
