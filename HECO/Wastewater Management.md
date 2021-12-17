@@ -21,23 +21,39 @@ HECO complies 100% with any and all environmental laws
 -	It may take longer to complete tasks, but HECO is 100% commited
 -	Bottom Line -- IT IS A PART OF DOING BUSINESS
 
-Plant Waste Management at HECO:
+## Plant Waste Management at HECO:
 -	HECO was required to classify all its waste streams in order to obtain a permit
 	-	The Code of Federal Regulations
 -	Requirements of Permit
 	-	Includes daily, weekly, monthly, quarterly, semi-annual, and annual testing and/or inspections
 	-	Permit renewals
 
-Plant Waste Permit Requirements
+## Plant Waste Permit Requirements
 
 | Period        | Test                                                          |
 | ------------- | ------------------------------------------------------------- |
-| Daily         | continuous temp & flow monitoring                             |
+| Daily         | continuous temp & flow monitoring <br> (Kahe: intermittent monitoring)                            |
 | Weekly        | total risidual oxidants                                       |
 | Monthly       | discharge monitoring                                          |
-| Quarterly     | Whole Effluent Toxicity Testing (WETT) & Zone of Mixing (ZOM) |
+| Quarterly     | Whole Effluent Toxicity Testing (WETT) <br> Zone of Mixing (ZOM) |
 | Semi-Annually | calibration of monitoring equipment                           |
 | Annually      | marine bottom community, stormwater, review & revision of plans and best practices, chemical usage                                                              |
+
+## Plant Solid Waste
+Hazardous Waste
+-	arrange for proper handling, storage and disposal
+-	expensive
+-	e.g. halogenated and cleaning solvents, aerosol cans
+
+Non-hazardous Waste
+-	arrange for disposal at a local landfill
+-	e.g. MCW sludge, boiler fireside ash, stack ash, air preheater washing
+
+## Wastewater Classifications
+1.	Low Volume Waste (LVW)
+Does not exceed limits of NPDES permit.
+2.	Metal Cleaning Waste (MCW)
+Contains item in quantities that exceeds limits of NPDES permit or items found in the Code of Federal Regulations.
 
 ---
 
@@ -51,7 +67,7 @@ all of the above
 
 >2. There are three types of industrial wastewater produced during our normal plant operations. True \ False
 
-true
+false
 
 >3. The more common wastewater produced by normal plant operations are ________ waste.
 
@@ -62,6 +78,8 @@ low volume waste
 low volume waste
 
 >5. Wastewater produced by boiler fireside washes is referred to as ________ waste.
+
+metal cleaning waste
 
 metal cleaning waste
 
