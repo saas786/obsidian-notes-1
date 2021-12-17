@@ -21,7 +21,8 @@ HECO complies 100% with any and all environmental laws
 -	It may take longer to complete tasks, but HECO is 100% commited
 -	Bottom Line -- IT IS A PART OF DOING BUSINESS
 
-
+Plant Waste Management at HECO:
+-	HECO was required to classify all its waste streams
 
 
 ---
