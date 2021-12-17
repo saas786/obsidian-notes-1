@@ -78,7 +78,26 @@ Limitations: ![[National Pollutant Discharge Elimination System#^lvw-limits]]
 -	Checked for specs (pH)
 
 ### LVW Handling and Treatment
-
+-	Align LVW to proper area or tank
+	-	check and adjust pH to specifications
+	-	discharge from plant
+-	Waiau - pH adjustment tank
+	-	continuous reading via pH probe
+-	Kahe - holding ponds
+	-	test pH, adjust by mixing chemicals
+	
+### MCW Handling and Treatment
+-	Designate a tank for collection
+-	Flocculation and settling of solids
+	-	adjust pH using Caustic (NaOH)
+		-	pH = 10.5 - 11.0
+	-	add polymer (powder) - sediments attract to each other and form clumps, shorten settling time
+	-	Waiau - remove the sludge, neutralize liquid in tank using acid ($H_2SO_4$) [6.0-9.0 pH]
+	-	Kahe - transfer to pond
+	-	Sample for Verification or Lab Approval
+		-	discharge if OK
+		-	allow to settle longer
+		-	retreat if necessary
 
 ---
 
