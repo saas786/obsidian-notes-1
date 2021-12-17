@@ -50,9 +50,9 @@ Non-hazardous Waste
 -	e.g. MCW sludge, boiler fireside ash, stack ash, air preheater washing
 
 ## Wastewater Classifications
-1.	Low Volume Waste (LVW)
+1.	**Low Volume Waste (LVW)**
 Does not exceed limits of NPDES permit.
-2.	Metal Cleaning Waste (MCW)
+2.	**Metal Cleaning Waste (MCW)**
 Contains item in quantities that exceeds limits of NPDES permit or items found in the Code of Federal Regulations.
 
 ---
@@ -81,9 +81,9 @@ low volume waste
 
 metal cleaning waste
 
-metal cleaning waste
-
 >6. Under the NPDES program, the pH of the wastewater must be adjusted between ________ and ________ .
+
+7 and 9
 
 >7. Where are the wastewater streams treated?
 

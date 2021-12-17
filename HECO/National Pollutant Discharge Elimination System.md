@@ -36,21 +36,21 @@ Prohibited Discharges
 	-	PCB transformer fluid
 	-	closed loop system compounds (e.g. ACW)
 	
-Cooling Water Limits
+## Cooling Water Limits
 
 | Parameter   | Discharge Limit                                     | Monitoring Frequency |
 | ----------- | --------------------------------------------------- | -------------------- |
 | Flow        | Based on capacity of cooling water pumps            | Continuous           |
 | Temperature | Waiau - 102 F, Kahe - $\Delta$ 15 F (15 F higher than intake), Kahului - 90 F | Continuous           |
 
-Low Volume Waste Limits
+## Low Volume Waste Limits
 
-| Paramter                     | Discharge Limit                                          | Monitoring Frequency |
+| Parameter                     | Discharge Limit                                          | Monitoring<br>Frequency |
 | ---------------------------- | -------------------------------------------------------- | -------------------- |
-| Flow                         | Waiau - 0.350 MGD, Kahe - 0.270 MGD, Kahului - 0.040 MGD | Continuous           |
-| Total Suspended Solids (TSS) | 30 mg/L Monthly average, 100 mg/L - Daily max            | Once/Month           |
-| Oil & Grease (O&G)           | 15 mg/L - Monthly average, 20 mg/L - Daily max           | Once/Month           |
-| Total Copper & Total Iron    | 1.0 mg/L - Daily Max                                     | Once/Month           |
+| Flow                         | Waiau - 0.350 MGD <br> Kahe - 0.270 MGD <br> Kahului - 0.040 MGD | Continuous           |
+| Total Suspended<br>Solids (TSS) | 30 mg/L Monthly average <br> 100 mg/L - Daily max            | Once/Month           |
+| Oil & Grease (O&G)           | 15 mg/L - Monthly average <br> 20 mg/L - Daily max           | Once/Month           |
+| Total Copper &<br>Total Iron    | 1.0 mg/L - Daily Max                                     | Once/Month           |
 | pH                           | Between 6.0 and 9.0 SU                                   | Once/Month           |
 
 LVW/MCW Sampling
