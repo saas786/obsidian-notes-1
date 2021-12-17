@@ -55,6 +55,15 @@ Does not exceed limits of NPDES permit.
 2.	**Metal Cleaning Waste (MCW)**
 Contains item in quantities that exceeds limits of NPDES permit or items found in the Code of Federal Regulations.
 
+### Low Volume Waste
+-	Waste that has been previously classified as LVW
+-	Does not exceed the limits as established on NPDES permit
+-	Does not contain items found in the Code of Federal Regulations
+-	Most common type found in our plants
+-	Examples: boiler blowdown, condensate reject water, RO reject water, laboratory and sampling streams, floor drains
+
+Limitations: ![[National Pollutant Discharge Elimination System#Low Volume Waste Limits]]
+
 ---
 
 >1. NPDES permits set limits on ________ .
@@ -83,9 +92,11 @@ metal cleaning waste
 
 >6. Under the NPDES program, the pH of the wastewater must be adjusted between ________ and ________ .
 
-7 and 9
+6 and 9
 
 >7. Where are the wastewater streams treated?
+
+
 
 >8. How are wastewater streams treated?
 

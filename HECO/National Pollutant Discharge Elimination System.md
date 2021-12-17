@@ -45,13 +45,13 @@ Prohibited Discharges
 
 ## Low Volume Waste Limits
 
-| Parameter                     | Discharge Limit                                          | Monitoring<br>Frequency |
-| ---------------------------- | -------------------------------------------------------- | -------------------- |
-| Flow                         | Waiau - 0.350 MGD <br> Kahe - 0.270 MGD <br> Kahului - 0.040 MGD | Continuous           |
-| Total Suspended<br>Solids (TSS) | 30 mg/L Monthly average <br> 100 mg/L - Daily max            | Once/Month           |
-| Oil & Grease (O&G)           | 15 mg/L - Monthly average <br> 20 mg/L - Daily max           | Once/Month           |
-| Total Copper &<br>Total Iron    | 1.0 mg/L - Daily Max                                     | Once/Month           |
-| pH                           | Between 6.0 and 9.0 SU                                   | Once/Month           |
+| Parameter                       | Discharge Limit                                                  | Monitoring<br>Frequency |
+| ------------------------------- | ---------------------------------------------------------------- | ----------------------- |
+| Flow                            | Waiau - 0.350 MGD <br> Kahe - 0.270 MGD <br> Kahului - 0.040 MGD | Continuous              |
+| Total Suspended<br>Solids (TSS) | <100 ppm<br>30 mg/L Monthly average <br> 100 mg/L - Daily max                | Once/Month              |
+| Oil & Grease (O&G)              | <20 ppm<br>15 mg/L - Monthly average <br> 20 mg/L - Daily max               | Once/Month              |
+| Total Copper &<br>Total Iron    | 1.0 mg/L - Daily Max                                             | Once/Month              |
+| pH                              | Between 6.0 and 9.0 SU                                           | Once/Month              |
 
 LVW/MCW Sampling
 -	Sample must be "representative" of the tank or pond
