@@ -104,6 +104,9 @@ Atmospheric Blowoff Tank
 -	discharges steam to atmosphere
 -	used during startup to control pressure
 
+Oily water separator (Oily Sump)
+-	wait for oil to settle on top, then clean out with absorbant pads
+
 ---
 
 >1. NPDES permits set limits on ________ .
