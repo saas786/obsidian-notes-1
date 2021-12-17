@@ -1,4 +1,3 @@
-# National Pollutant Discharge Elimination System (NPDES)
 Industrial Waste Water Discharge Permit
 
 NPDES Program

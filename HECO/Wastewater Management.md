@@ -3,6 +3,8 @@ Speaker: Laurie Oishi
 
 ---
 
+![[National Pollutant Discharge Elimination System]]
+
 ---
 
 >1. NPDES permits set limits on ________ .
@@ -23,9 +25,11 @@ low volume waste
 
 >4. Wastewater produced by boiler blowdown is referred to as ________ waste.
 
+low volume waste
+
 >5. Wastewater produced by boiler fireside washes is referred to as ________ waste.
 
-hea
+metal cleaning waste
 
 >6. Under the NPDES program, the pH of the wastewater must be adjusted between ________ and ________ .
 
