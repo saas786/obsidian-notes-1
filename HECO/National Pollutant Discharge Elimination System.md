@@ -52,6 +52,15 @@ Prohibited Discharges
 | Oil & Grease (O&G)              | <20 ppm<br>15 mg/L - Monthly average <br> 20 mg/L - Daily max               | Once/Month              |
 | Total Copper &<br>Total Iron    | 1.0 mg/L - Daily Max                                             | Once/Month              |
 | pH                              | Between 6.0 and 9.0 SU                                           | Once/Month              |
+^lvw-limits
+
+## Metal Cleaning Waste Limits
+| Parameter                       | Discharge Limit                                                  | Monitoring<br>Frequency |
+| ------------------------------- | ---------------------------------------------------------------- | ----------------------- |
+| Total Suspended<br>Solids (TSS) | <100 ppm<br>30 mg/L Monthly average <br> 100 mg/L - Daily max                | Once/Month              |
+| Oil & Grease (O&G)              | <20 ppm<br>15 mg/L - Monthly average <br> 20 mg/L - Daily max               | Once/Month              |
+| Total Copper &<br>Total Iron    | <1 ppm - Daily Max                                             | Once/Month              |
+| pH                              | Between 6.0 and 9.0 SU                                           | Once/Month              |
 
 LVW/MCW Sampling
 -	Sample must be "representative" of the tank or pond

@@ -62,7 +62,23 @@ Contains item in quantities that exceeds limits of NPDES permit or items found i
 -	Most common type found in our plants
 -	Examples: boiler blowdown, condensate reject water, RO reject water, laboratory and sampling streams, floor drains
 
-Limitations: ![[National Pollutant Discharge Elimination System#Low Volume Waste Limits]]
+Limitations: ![[National Pollutant Discharge Elimination System#^lvw-limits]]
+
+### Metal Cleaning Waste
+-	Waste that has been previously classified as MCW
+-	Contains item(s) either exceeding the limits of our NPDES permit or is listed on Code of Federal Regulatoins
+-	Waste cannot be discharged from the plant unless it receives further treatment to render it below NPDES limits
+-	Examples: boiler fireside washings, boiler chemical cleanings, air preheater cleanings
+
+## Wastewater Treatment Process
+-	Wastewater channeled to sump or pit
+-	Pumped to
+	-	mixing tank (Waiau)
+	-	batch tank (Kahe)
+-	Checked for specs (pH)
+
+### LVW Handling and Treatment
+
 
 ---
 
