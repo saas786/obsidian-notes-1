@@ -5,29 +5,41 @@ Speaker: Laurie Oishi
 
 ---
 
->1. NPDES permits set limits on ___ _ a. copper b. grease c. pH d. all of the above
+>1. NPDES permits set limits on ________ .
+>a. copper
+>b. grease
+>c. pH
+>d. all of the above
+
+all of the above
 
 >2. There are three types of industrial wastewater produced during our normal plant operations. True \ False
 
->3. The more common wastewater produced by normal plant operations are waste. -------------
+true
 
->4. Wastewater produced by boiler blowdown is referred to as _________ _ waste.
+>3. The more common wastewater produced by normal plant operations are ________ waste.
 
->5. Wastewater produced by boiler fireside washes is referred to as _______ _ waste.
+low volume waste
 
->6. Under the NPDES program, the pH of the wastewater must be adjusted between and ----- -----
+>4. Wastewater produced by boiler blowdown is referred to as ________ waste.
+
+>5. Wastewater produced by boiler fireside washes is referred to as ________ waste.
+
+hea
+
+>6. Under the NPDES program, the pH of the wastewater must be adjusted between ________ and ________ .
 
 >7. Where are the wastewater streams treated?
 
 >8. How are wastewater streams treated?
 
->9. List two (2) chemicals which are injected into the wastewater treatment stream. a. --------- b. ---------
+>9. List two (2) chemicals which are injected into the wastewater treatment stream.
 
 >10. What method is used to mix the chemicals with the wastewater in the treatment tank?
 
 >11. Hazardous wastes must be shipped to landfills. True \ False
 
->12. Contaminated drains throughout the plant areas are collected in ______ and then pumped to an _______________ _
+>12. Contaminated drains throughout the plant areas are collected in ________ and then pumped to an ________ .
 
 >13. Where is the oil-water separator(s) or oil interceptor(s) located at Waiau?
 
