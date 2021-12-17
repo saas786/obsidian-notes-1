@@ -3,7 +3,26 @@ Speaker: Laurie Oishi
 
 ---
 
-![[National Pollutant Discharge Elimination System]]
+Clean Water Act (1972):
+-	[[National Pollutant Discharge Elimination System]] (NPDES)
+-	[[Spill Prevention]] (SPCC)
+-	[[Storm Water Discharge]]
+-	Oil Pollution Act (OPA)
+
+Resource Conservation Recovery Act (RCRA) (1976):
+-	Provides guidelines on how to handle, transport, store and dispose of hazardous wastes
+-	Waste minimization
+
+Comprehensive Environmental Response, Compensation and Liability Act (Superfund Act):
+-	Tells us how to handle the actual clean up and disposal of hazardous waste
+
+HECO complies 100% with any and all environmental laws
+-	It can be very costly to comply with these laws, but HECO is 100% commited
+-	It may take longer to complete tasks, but HECO is 100% commited
+-	Bottom Line -- IT IS A PART OF DOING BUSINESS
+
+
+
 
 ---
 

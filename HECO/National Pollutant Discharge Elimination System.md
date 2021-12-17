@@ -4,6 +4,8 @@ NPDES Program
 -	The Clean water act prohibits anybody from discharging pollutants via a point source (i.e. pip, ditch, container, tunnel) into waters of the US without a permit
 -	The NPDES program address water pollution by regulating point sources that discharge pollutants
 
+NPDES
+
 Only discharges listed in the facility's permit are allowed
 These discharges are limited to:
 -	Condenser cooling water
