@@ -198,7 +198,9 @@ Only discharges listed in the facility's permit are allowed
 These discharges are limited to:
 -	Condenser cooling water
 -	Low volume waste
+	-	ex. boiler water (distilled water w/ chemicals)
 -	Metal cleaning waste
+	-	ex. chemically treated water used to clean furnace walls
 -	Chlorine (Kahe and Waiau only)
 -	Stormwater Runoff
 All other discharges are prohibited
