@@ -98,6 +98,11 @@ Limitations: ![[National Pollutant Discharge Elimination System#^lvw-limits]]
 		-	discharge if OK
 		-	allow to settle longer
 		-	retreat if necessary
+		
+Atmospheric Blowoff Tank
+-	vessel that stores blowdowns from boiler or heat exchangers
+-	discharges steam to atmosphere
+-	used during startup to control pressure
 
 ---
 
