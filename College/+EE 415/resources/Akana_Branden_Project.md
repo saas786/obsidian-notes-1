@@ -12,12 +12,18 @@ The first issue was the matter of playing audio from a file. Playing an array co
 
 By default, playing audio through Python is very loud. This was resolved by simply multiplying the signal by a factor of 0.5 before playing.
 
-## Filters, Decimation, and Interpolation
-To implement the CQF, 
+## CQF Design
+The
 
 
 ## Saving Files and Differences Between Precisions
-Python does not seem to have a direct equivalent to MATLAB's `fwrite()` and `fread()` functions in a way that also supports modifying precision. The closest method to achieve the same effect was using a combination of NumPy's `ndarray.astype()` and `save()` functions. As the 
+Python does not seem to have a direct equivalent to MATLAB's `fwrite()` and `fread()` functions in a way that also supports modifying precision. The closest method to achieve the same effect was using a combination of NumPy's `ndarray.astype()` and `save()` functions.
+
+As the audio is represented by a list of floats, converting them to an int32, int16, or int8 results in an extreme loss of information (this could possibly work with quantization, but that was not implemented here). The next closest thing was converting them to different precisions of floats: float16, float32, and float64.
+
+There was no noticable difference between the sound quality of the audio when converting to the different precisions, however the filesize of the saved signals are 
+
+
 
 | file | float16 | float32 | float64 |
 |------|---------|---------|---------|
