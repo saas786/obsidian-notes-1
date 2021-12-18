@@ -15,7 +15,6 @@ By default, playing audio through Python is very loud. This was resolved by simp
 ## CQF Design
 The CQF was implemented using a class. The functions for the FIR filters, downsampler and upsampler was provided by the SciPy library. The window method was used to design the FIR filter using the `firwin()` function and the downsampler and upsampler was done using the `resample()` function.
 
-
 ## Saving Files and Differences Between Precisions
 Python does not seem to have a direct equivalent to MATLAB's `fwrite()` and `fread()` functions in a way that also supports modifying precision. The closest method to achieve the same effect was using a combination of NumPy's `ndarray.astype()` and `save()` functions.
 
@@ -23,9 +22,15 @@ As the audio is represented by a list of floats, converting them to an int32, in
 
 There was no noticable difference between the sound quality of the audio when converting to the different precisions, however the filesize of the saved signals are 
 
-
-
 | file | float16 | float32 | float64 |
 |------|---------|---------|---------|
 | v0   | 414 KB  | 828 KB  | 1655 KB |
 | v1   | 414 KB  | 828 KB  | 1655 KB |
+
+## Signal FFTs
+
+![[signal.png|Original Signal (english.wav)]]
+
+![[single_cqf.png|Output of Single CQF]]
+
+![[multi_cqf.png|Output of Multi CQF]]
