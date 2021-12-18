@@ -13,7 +13,7 @@ The first issue was the matter of playing audio from a file. Playing an array co
 By default, playing audio through Python is very loud. This was resolved by simply multiplying the signal by a factor of 0.5 before playing.
 
 ## CQF Design
-The CQF was implemented using a class. The functions for the FIR filters, downsampler and upsampler was provided by the SciPy library. The window method was used to design the FIR filter using the 
+The CQF was implemented using a class. The functions for the FIR filters, downsampler and upsampler was provided by the SciPy library. The window method was used to design the FIR filter using the `firwin()` function and the downsampler and upsampler was done using the `resample()` function.
 
 
 ## Saving Files and Differences Between Precisions
