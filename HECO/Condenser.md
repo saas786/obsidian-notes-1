@@ -1,4 +1,3 @@
-### Condenser
 ==Two (2) main functions:==
 -	Creates a vacuum or low absolute pressure at turbine exhaust
 -	Reclaims and collects high purity condensate for reuse in the cycle

@@ -1,0 +1,50 @@
+Lead:
+-	Heavy metal (at room temperature)
+-	Corrosion resistant
+-	Found in:
+	-	batteries
+	-	paints and coatings
+	-	pipes
+	-	metals
+	-	ceramics
+	-	auto manufacturing
+	-	printing
+	-	ammunition
+	-	gasoline
+-	Highest risk of lead exposure
+	-	Abrasive blasting
+	-	Welding, Cutting, and Burning on steel structures
+	-	Grinding
+	-	Manual scraping and sanding
+	-	Demolition
+	-	Spray painting/coating with lead based products
+-	Health Effects
+	-	Routes of exposure
+		-	Inhalation - breathing lead fumes or dust
+		-	Ingestion - lead dust settle on food, water, hands
+		-	Absorption - lead dust on your skin
+	-	During prolong chronic exposure, many body systems can be effected by lead, including:
+		-	Brain
+		-	Kidneys
+		-	Muscles
+		-	Bones
+		-	Nervous system
+		-	Reproductive systems
+		
+Silica
+-	A common mineral
+	-	Crystalline
+		-	Most hazardous
+		-	3 types: quartz, cristobalite, tridymite
+	-	Non-Crystalline
+		-	Amorphous
+-	Health effects
+	-	Primary route of exposure -> inhalation
+	-	Respirable silica particles -> 100x smaller than sand
+-	Silica-Related Deseases
+	-	Silicosis
+	-	Lung Cancer
+	-	COPD
+-	Exposure Limit
+	-	Permissible -> 50 ug/m3
+	-	Action Level -> 25 ug/m3
