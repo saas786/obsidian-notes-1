@@ -1,4 +1,5 @@
-# 19. Circulating Water
+Section 19
+Speaker: Laurie Oishi
 
 Functions:
 -	provides cooling water to the main condenser
@@ -48,7 +49,7 @@ Function:
 -	rated at 23,650 gallons per minute (GMP)
 
 ## Condenser
-[[18. Condensate & Feedwater#Condenser]]
+[[Condensate & Feedwater System#Condenser]]
 
 The circulating water flows through the condenser on the tube side.
 
