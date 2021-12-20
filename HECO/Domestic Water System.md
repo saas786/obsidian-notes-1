@@ -3,7 +3,7 @@ Function:
 
 Sources:
 -	city water
--	reclaimed water
+-	reclaimed (RO) water
 -	wells on plant property
 
 Uses:

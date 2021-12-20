@@ -1,7 +1,7 @@
 Function:
 -	Cools various equipment in the plant
--	Closed loop system
--	Uses chemically treated demineralized water to combat corrosion
+-	==Closed== loop system
+-	Uses ==chemically treated demineralized== water to combat corrosion
 -	ACW pumped to equipment
 -	Make-up water is supplied from the demineralized water tanks or the condensate system.
 
