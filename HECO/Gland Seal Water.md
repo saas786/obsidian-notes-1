@@ -17,7 +17,7 @@ Seals turbine shaft from casing
 -	steam, water, or a combination
 -	low pressure turbine glands
 
-Equipment using seal water:
+==Equipment using seal water==:
 -	Condensate pumps
 -	#3 or #4 heater drip pump
 -	Reboiler feed pumps
