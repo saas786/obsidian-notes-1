@@ -3,6 +3,13 @@ Section 21
 
 Hydrogen is used to cool the generator.
 
+Functions of the hydrogen system:
+-	Provide hydrogen to the generator to cool it
+-	Provide a means of filling the hydrogen to maintain a certain pressure (30 psi) and a certain purity (98-99%)
+-	Provide a means of removing any water
+
+Functions of the seal oil
+
 Helium vs. Hydrogen
 -	Helium
 	-	scarce
