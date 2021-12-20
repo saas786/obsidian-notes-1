@@ -2,7 +2,7 @@
 Section 20
 
 Function:
--	Deliver reliable supply ot clean, dry, compressed air at a stable pressure to every end user
+-	Deliver reliable supply of clean, dry, compressed air at a stable pressure to every end user
 
 Considerations:
 -	Air Flow - supply must be adequate to meet demand
