@@ -2,7 +2,7 @@ Function:
 -	Provides low pressure saturated steam for heating, cleaning, cooling, sealing, and atomizing
 -	Provides backup steam supply for other systems
 -	Sources:
-	-	boiler drum/steam drum
+	-	boiler drum/steam drum (only this is actually used)
 	-	main steam
 	
 From boiler drum:
