@@ -69,11 +69,10 @@ Oil is supplied from the LO reservoir.
 Oil that goes through the Bowser can be pumped back to the reservoir for reuse.
 
 Components:
--	precipitation or settling compartment
+-	**precipitation** or settling compartment
 	-	removes moisture entrained in lube oil
 -	filter bag compartment
 	-	removes large foreign particulates
-	-	operator replaces filter bags
 -	cartridge filter compartment (polisher)
 	-	removes smaller particulates
 	-	operator replaces filters
