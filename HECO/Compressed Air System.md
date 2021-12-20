@@ -87,6 +87,8 @@ Can be air cooled or water cooled (using ACW).
 ## Air Reciever
 Collects moisture and oil that enters the air system. Should be drained frequently as excess 
 
+-	Also used as a storage tank for compressed air
+
 ### Moisture Trap
 
 ## "Big Joe"
