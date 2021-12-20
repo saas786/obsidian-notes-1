@@ -22,6 +22,7 @@ HECO complies 100% with any and all environmental laws
 -	Bottom Line -- IT IS A PART OF DOING BUSINESS
 
 ## Plant Waste Management at HECO:
+-	Treated in the Waste Water Treatment Facility (WWTF)
 -	HECO was required to classify all its waste streams in order to obtain a permit
 	-	The Code of Federal Regulations
 -	Requirements of Permit
