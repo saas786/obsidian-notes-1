@@ -8,5 +8,11 @@
   "showLineNumber": false,
   "lineWrap": true,
   "foldHeading": true,
-  "foldIndent": false
+  "foldIndent": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
