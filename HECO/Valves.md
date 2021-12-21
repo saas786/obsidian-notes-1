@@ -1,9 +1,11 @@
-Three (3) functions:
+Three (3) categories:
 - stop (on-off)
 - throttle/control (control flow rate)
 - check (prevent flow reversal)
 
 ### Stop Valves
+
+Stop valves either allow or disallow flow in either direction. Usually not designed for throttling which can damage the valve.
 
 -	**Gate Valve**
 	-	corrosion can damage it if partially open
@@ -12,7 +14,9 @@ Three (3) functions:
 -	**Ball Valve**
 	-	valve seat may be damaged when used partially open
 
-### Throttle Valves
+### Throttle/Control Valves
+
+Throttle or Control valves control the flow rate through them.
 
 -	**Globe Valve**
 	-	less damage to the valve seat / valve plug
