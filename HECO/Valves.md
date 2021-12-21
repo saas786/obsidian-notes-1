@@ -49,10 +49,11 @@ Two (2) types:
 Actuators automatically control valves.
 
 -	Diaphragm Actuator
-	-	operates
--	Solenoid Actuator
-	[[Solenoid]]
-	-	opens/closes a valve
+	-	throttles a valve by applying air pressure to a diaphragm in response to a signal from a controller
+-	[[Solenoid]] Actuator
+	-	opens/closes a valve with an electrical current
+-	Hydraulic Actuator
+	-	
 ### Fail Open/Closed
 Some control valves contain actuators (ex. diaphragm, hydraulic, or piston actuators) which operate on pressure setpoints that can either "fail open" or "fail closed" by design.
 
