@@ -57,27 +57,36 @@ In case of a tube leak:
 -	a barrel of sawdust is provided
 -	by dumping the sawdust into the circulating water inlet, the leak is hopefully plugged by the pieces of wood or slows it down
 
-## Lube Water Pumps
+## Lube Water Pumps (LWP)
 Function:
 -	provides lubrication to the spinning rotors in the circulating water pumps
 -	takes suction from the stilling basin
 
-## Screen Wash Pumps
+Supply: stilling basin (well water)
+Backup supply: city water
+
+## Screen Wash Pumps (SWP)
 Function:
 -	provides water under pressure to clean the traveling screens
--	takes suction from circulating water after the traveling screens
 
-## Service Water Pumps
+Supply: circulating water at inlet side after traveling screens
+
+## Station Service Water Pumps (SSWP)
 Function:
--	provides auxiliary cooling water to various plant equipment, such as hydrogen coolers and lube oil coolers
--	takes suction from a supply of circulating water located downstream from the traveling screen
--	the water is chemically treated to reduce corrosion and contamination
+-	provides cooling water to the chillers to cool auxiliary cooling water
 
-Prior to the use of service water pumps, circulating water was used as auxiliary cooling water which caused excessive corrosion and contamination.
+Supply: circulating water at inlet side
+
+Prior to the use of chemically treated auxiliary cooling water, circulating water was used as auxiliary cooling water which caused excessive corrosion and contamination.
 
 ## Chillers
 Function:
--	heat exchangers used to cool auxiliary cooling water
+-	cools auxiliary cooling water before sending it out to equipment that require cooling
+
+Kahe 1&2 -> A horizontal 2-pass shell-and-tube heat exchanger.
+
+Tube side: Station Service Water (SSW)
+Shell side: Auxiliary Cooling Water (ACW)
 
 ## Chlorine Dioxide
 Function:
