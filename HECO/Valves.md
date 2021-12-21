@@ -51,11 +51,7 @@ Actuators automatically control valves.
 -	Diaphragm Actuator
 	-	operates
 -	Solenoid Actuator
-	-	a **solenoid** is an electronically powered:
-		-	a wire coil
-		-	a spring
-		-	an armature or core
-		-	a stem
+	[[Solenoid]]
 	-	opens/closes a valve
 ### Fail Open/Closed
 Some control valves contain actuators (ex. diaphragm, hydraulic, or piston actuators) which operate on pressure setpoints that can either "fail open" or "fail closed" by design.
