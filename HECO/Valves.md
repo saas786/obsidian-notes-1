@@ -63,21 +63,24 @@ Similarly, there are air traps that collect liquid in air lines.
 ### Automatic Operation
 Some control valves are operated automatically or remotely using different actuators.
 
+**actuator**: a mechanism used to move or control a valve, usually 
+
 -	Diaphragm operated control valves (VPC)
-	-	two types:
-		-	*single seated valve*: used where tight shutoff is required
-		-	*double seated valve*: used where tight shutoff is not required
 	-	open/closes based on line pressure setpoints
 	-	normally powered by air
 	-	fails either open or closed
+	-	two types:
+		-	*single seated valve*: used where tight shutoff is required
+		-	*double seated valve*: used where tight shutoff is not required
 -	Motor operated valves (MOV)
-	-	controlled remotely
+	-	operated electronically or remotely
 	-	local valve provided in case of motor failure
 -	Pneumatic/hydraulic operated valves (PS)
 	-	operates based on the pressure within the line
 	-	pressure setpoints
+	-	hydraulic actuators are usually stronger than pnumatic actuators of the same size
 -	Solenoid operated valves (SV)
-	-	operated electronically
+	-	operated electronically or remotely
 -	Float operated valves (LV)
 	-	operates based on the level of fluid within a vessel
 	-	level setpoints
