@@ -67,7 +67,14 @@ Some control valves are operated automatically.
 
 -	Diaphragm operated control valves
 	-	open/closes based on line pressure setpoints
-	-	
+	-	normally powered by air
+	-	fails either open or closed
+-	Motor operated valves (MOV)
+	-	controlled remotely
+	-	local valve provided in case of motor failure
+-	Pneumatic/hydraulic operated valves (PS)
+	-	operated pneumatically or hydraulically at a set point
+-	Solenoid operated valve (SV)
 
 	
 ### Fail Open/Closed
