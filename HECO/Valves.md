@@ -34,9 +34,9 @@ Check valves are typically placed only at the discharge end of pumps, which can 
 
 ### Steam Traps
 Prevents steam from flowing while allowing condensate to flow.
-- operates by difference in temperature
-- closes when hot steam is detected in pipe
-- used to collect condensate
+-	operates by difference in temperature
+-	closes when hot steam is detected in pipe
+-	used to collect condensate
 
 [[11. Steam Traps]]
 
@@ -45,6 +45,7 @@ Two (2) types:
 -	single seated valve
 -	double seated valve
 	
+### Actuators
 ### Fail Open/Closed
 Some control valves contain actuators (ex. diaphragm, hydraulic, or piston actuators) which operate on pressure setpoints that can either "fail open" or "fail closed" by design.
 
