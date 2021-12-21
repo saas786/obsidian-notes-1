@@ -65,7 +65,7 @@ Two (2) types:
 ### Automatic Operation
 Some control valves are operated automatically.
 
--	Diaphragm operated control valves
+-	Diaphragm operated control valves (VPC)
 	-	open/closes based on line pressure setpoints
 	-	normally powered by air
 	-	fails either open or closed
@@ -73,8 +73,13 @@ Some control valves are operated automatically.
 	-	controlled remotely
 	-	local valve provided in case of motor failure
 -	Pneumatic/hydraulic operated valves (PS)
-	-	operated pneumatically or hydraulically at a set point
--	Solenoid operated valve (SV)
+	-	operates based on the pressure within the line
+	-	pressure setpoints
+-	Solenoid operated valves (SV)
+	-	operated electronically
+-	Float operated valves (LV)
+	-	operates based on the level of fluid within a vessel
+	-	level setpoints
 
 	
 ### Fail Open/Closed
