@@ -4,6 +4,8 @@ Speaker: Laurie Oishi
 ---
 
 ![[Hydrogen System]]
+![[Hydrogen Seal Oil System]]
+
 ---
 
 >1. The major limit to generator capability is the ability of the design to cool which material?
