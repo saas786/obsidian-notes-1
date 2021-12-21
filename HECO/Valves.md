@@ -56,17 +56,17 @@ Usually placed at the lower sections of a steam line. Steam traps collect conden
 -	closes when hot steam is detected in pipe
 -	used to collect condensate
 
+Similarly, there are air traps that collect liquid in air lines.
+
 [[11. Steam Traps]]
 
-### Diaphragm Operated Control Valves
-Two (2) types:
--	single seated valve
--	double seated valve
-	
 ### Automatic Operation
-Some control valves are operated automatically.
+Some control valves are operated automatically or remotely using different actuators.
 
 -	Diaphragm operated control valves (VPC)
+	-	two types:
+		-	*single seated valve*: used where tight shutoff is required
+		-	*double seated valve*: used where tight shutoff is not required
 	-	open/closes based on line pressure setpoints
 	-	normally powered by air
 	-	fails either open or closed
