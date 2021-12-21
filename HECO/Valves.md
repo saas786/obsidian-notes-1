@@ -37,11 +37,17 @@ Check valves are typically placed only at the discharge end of pumps, which can 
 ### Throttle Valve
 Controls steam flow to the turbine during start-up periods
 
+Used on Westinghouse turbines.
+
 ### Emergency Stop Valve
 Warms and pressurizes the steam chest which accommodates the control or governing valves
 
+Used on General Electric turbines.
+
 ### Governing valves
-Controls steam flow to the turbine to meet changing loads
+Controls steam flow to the turbine during operation to meet changing loads. Located inside the steam chest.
+
+Also referred to as *admission valves* or *control valves*.
 
 ### Steam Traps
 Prevents steam from flowing while allowing condensate to flow.
