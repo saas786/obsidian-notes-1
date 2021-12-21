@@ -62,21 +62,14 @@ Two (2) types:
 -	single seated valve
 -	double seated valve
 	
-### Actuators
-Actuators automatically control valves.
+### Automatic Operation
+Some control valves are operated automatically.
 
--	Diaphragm Actuator
-	-	throttles a valve by applying air pressure to a diaphragm in response to a signal from a controller
-	-	fails open or closed based on design
--	[[Solenoid]] Actuator
-	-	opens/closes a valve with an electrical current
-	-	fails open or closed based on design
--	Hydraulic Actuator
-	-	opens/closes a valve when enough pressure pushes against a piston inside the valve
-	-	fails closed
--	Piston Actuator
-	-	opens/closes a valve when enough air pressure (controlled by a controller) pushes against against a piston inside the valve
-	-	fails closed
+-	Diaphragm operated control valves
+	-	open/closes based on line pressure setpoints
+	-	
+
+	
 ### Fail Open/Closed
 Some control valves contain actuators (ex. diaphragm, hydraulic, or piston actuators) which operate on pressure setpoints that can either "fail open" or "fail closed" by design.
 
