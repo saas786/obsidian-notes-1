@@ -50,7 +50,8 @@ Controls steam flow to the turbine during operation to meet changing loads. Loca
 Also referred to as *admission valves* or *control valves*.
 
 ### Steam Traps
-Prevents steam from flowing while allowing condensate to flow.
+Usually placed at the lower sections of a steam line. Steam traps collect condensate and sends it through a different line while preventing steam from entering.
+
 -	operates by difference in temperature
 -	closes when hot steam is detected in pipe
 -	used to collect condensate
