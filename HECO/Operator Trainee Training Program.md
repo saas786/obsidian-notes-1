@@ -1,19 +1,26 @@
-# 1. Operator Trainee Training Program
+Section 1: Operator Trainee Training Program (OTTP)
+Speaker: Laurie Oishi
+
+---
 
 ## ITS
 S drive --> resources
 U drive -> documents / photos
 
 ## CATS Timesheet
-Rec. Order -> 10108
+Rec. Order -> 10107 (Kahe), 10108 (Waiau)
 Oper. Activity -> 0015
-Attendence Code -> 2000
-Att. Type -> 4035 (Holiday Off)
+
+| Attendance Code/Type | Description        |
+| -------------------- | ------------------ |
+| 2000                 | Regular Attendance |
+| 4035                 | Holiday Off        |
+
 Input hours only 8.00
 
----
+## Sections
 
-2. [[2. Introduction to the Steam Power Plant]]
+2. [[Introduction to the Steam Power Plant]]
 3. [[3. Power Plant Physics]]
 4. [[4. Power Plant Chemistry]]
 5. [[5. Basic Electricity]]
@@ -28,7 +35,7 @@ Input hours only 8.00
 14.	[[14. Generators]]
 15.	[[15. Reading Piping and Instrumentation Diagrams]]
 16.	[[Fuel Oil System]]
-17.	[[17. Make-up Water System]]
+17.	[[Make-up Water System]]
 18.	[[Condensate & Feedwater System]]
 19.	[[Circulating Water System]]
 20.	[[Compressed Air System]]

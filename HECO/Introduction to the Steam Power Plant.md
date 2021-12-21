@@ -1,10 +1,8 @@
-# 2. Introduction to the Steam Power Plant
+Section 2: Introduction to the Steam Power Plant
+Speaker: Laurie Oishi
 #steam #power-plant
 
 ---
-
-```toc
-```
 
 Boiling point $\rightarrow 212\degree F$ at normal ATM, sea level
 

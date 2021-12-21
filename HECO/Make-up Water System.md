@@ -14,7 +14,7 @@ Objectives:
 Purpose:
 -	produce and store high purity water for use in the condensate & feedwater system
 
-A level control valve (VLC) is placed on the come & go line between the distilled water tank and the hotwell in order to c
+A level control valve (VLC) is placed on the come & go line between the distilled water tank and the condenser hotwell in order to make up water level in the hotwell as needed.
 
 High purity water is essential to (1) ==prevent corrosion== and (2) ==control scale== to ensure continued operation of a steam plant.
 
