@@ -63,7 +63,7 @@ Similarly, there are air traps that collect liquid in air lines.
 ### Automatic Operation
 Some control valves are operated automatically or remotely using different actuators.
 
-**actuator**: a mechanism used to move or control a valve, usually 
+**actuator**: a mechanism used to move or control a valve, usually powered pneumatically, hydraulically, or electronically
 
 -	Diaphragm operated control valves (VPC)
 	-	open/closes based on line pressure setpoints
