@@ -32,6 +32,17 @@ Throttle or Control valves control the flow rate through them.
 	
 Check valves are typically placed only at the discharge end of pumps, which can be used to identify which sides are the discharge and suction.
 
+---
+
+### Throttle Valve
+Controls steam flow to the turbine during start-up periods
+
+### Emergency Stop Valve
+Warms and pressurizes the steam chest which accommodates the control or governing valves
+
+### Governing valves
+Controls steam flow to the turbine to meet changing loads
+
 ### Steam Traps
 Prevents steam from flowing while allowing condensate to flow.
 -	operates by difference in temperature
