@@ -1,4 +1,6 @@
-# 13. Steam Turbines
+Section 13: Steam Turbines
+Speaker: Lane Hiramoto
+
 ---
 
 Process of how steam drives the turbine (enthalpy -> kinetic energy):
@@ -114,6 +116,9 @@ In a non-reheat unit, the HP thrusts in one direction, so a dummy (balance) pist
 (p.21)
 
 #### Lubricating Oil
+
+[[Lubricating Oil System]]
+
 Lubricating oil is needed to minimize the friction in the main bearings, thrust bearings, and reduction gears (if used). The bearings and journals pick up heat due to friction and by the shaft conducting heat from the hot parts of the turbine. Lube oil carries the heat away and keeps bearing emperatures at a safe operating level.
 
 ### Turbine Control System
