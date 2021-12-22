@@ -77,6 +77,7 @@ Classes:
 Impeller Types:
 -	Open
 	-	ideal for fluids containing solids and abrasives
+	-	ex. end suction pump w/ open impeller can pump slurries
 -	Semi-open (plate covering one side)
 -	Closed (plates covering both sides)
 	-	more efficient
