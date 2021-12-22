@@ -1,12 +1,19 @@
 Section 9: Pumps
 Speaker: Laurie Oshi
 
+---
+
 __Pumps__ add energy to a liquid to raise its pressure. Converts mechanical energy to kinetic energy.
 
-Types:
+Classes:
 -	Positive displacement
+	-	Rotary
+	-	Reciprocating
 -	Jet pumps
--	Centrifugul
+-	Centrifugul (Dynamic)
+	-	Radial flow
+	-	Axial flow
+	-	Mixed flow
 
 ## Positive Displacement Pumps
 A positive displacement pump moves or displacement a constant positive volume of liquid
