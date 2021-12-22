@@ -1,5 +1,5 @@
-# 9. Pumps
----
+Section 9: Pumps
+Speaker: Laurie Oshi
 
 __Pumps__ add energy to a liquid to raise its pressure. Converts mechanical energy to kinetic energy.
 

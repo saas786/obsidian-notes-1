@@ -27,7 +27,7 @@ Input hours only 8.00
 6. [[6. Valves and Piping Systems]]
 7. [[7. Basic Instrumentation]]
 8. [[8. Heat Exchangers]]
-9. [[9. Pumps]]
+9. [[Pumps]]
 10. [[10. Boiler Fundamentals]]
 11. [[11. Steam Traps]]
 12. [[12. Boilers and Accessories]]
