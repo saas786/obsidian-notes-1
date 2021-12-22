@@ -5,6 +5,11 @@ Speaker: Laurie Oshi
 
 __Pumps__ add energy to a liquid to raise its pressure. Converts mechanical energy to kinetic energy.
 
+Functions:
+-	Moving a fluid from one location to another
+-	Recirculating a fluid in a closed system, or
+-	Providing pressure, such as in hydraulic systems
+
 Classes:
 -	Positive displacement
 	-	Rotary
