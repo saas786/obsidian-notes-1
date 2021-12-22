@@ -74,9 +74,12 @@ Classes:
 2.	diffuser type
 
 ### Radial flow vs. Axial flow
-__radial flow__ -- flow along the rotation of the impeller
-__axial flow__ -- flow parallel to the shaft and around the axis of rotation
-__mixed flow__ -- a combination of radial and axial flow
+__radial flow__: fluid enters axially and exiting radially
+-	end suction: suction flange at center of impeller, and discharge at 90 degrees
+	-	s
+
+__axial flow__: fluid enters and exits axially
+__mixed flow__: fluid enters axially and exits at an angle more or less than radial
 
 The impeller is driven by an electric motor, steam turbine, or internal combustion engine.
 
