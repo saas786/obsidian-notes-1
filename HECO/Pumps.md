@@ -73,15 +73,23 @@ Classes:
 1.	volute type
 2.	diffuser type
 
+### Impeller
+Types:
+	
+
 ### Radial flow vs. Axial flow
 __radial flow__: fluid enters axially and exiting radially
--	end suction: suction flange at center of impeller, and discharge at 90 degrees
--	inline pumps
--	axially split pumps
--	multistaged pumps
+-	*end suction*: suction flange at center of impeller, and discharge at 90 degrees
+-	*inline pumps*
+-	*axially split pumps*
+	-	double suction pumps: fluid feeds both sides of impeller
+-	*multistaged pumps*
 	-	multiple impellers in series to increase pressure
 	-	multiple impellers in parallel to increase flow
--	vertical column pump
+-	*vertical column pump*: vertically oriented, single stage centrifugal pump with long enclosed shaft
+-	*submersible pump*: pump and motor can operate submerged in the liquid being pumped
+-	*vertical turbine pump*: vertically oriented pump with one or more stages of impellers and diffuser "bowls"
+-	*close coupled*: impeller is directly connected to the motor
 
 __axial flow__: fluid enters and exits axially
 __mixed flow__: fluid enters axially and exits at an angle more or less than radial
