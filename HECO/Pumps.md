@@ -14,7 +14,9 @@ Classes:
 -	Positive displacement
 	-	Rotary
 		-	Gear
+			-	used for high viscosity fluid (ex. oil)
 		-	Piston
+			-	
 		-	Vane
 		-	Lobe
 		-	Screw
@@ -22,6 +24,8 @@ Classes:
 		-	Peristaltic
 	-	Reciprocating
 		-	Diaphragm (air or mechanically operated)
+			-	used for high viscosity liquids
+			-	or places where electrical power is impractical
 		-	Bellows
 		-	Piston (single or double acting)
 -	Jet pumps
@@ -31,7 +35,12 @@ Classes:
 	-	Mixed flow
 
 ## Positive Displacement Pumps
-A positive displacement pump moves or displacement a constant positive volume of liquid
+A positive displacement pump moves or displacement a constant positive volume of liquid.
+
+Applications:
+-	high viscosity fluids
+-	low flows at high pressures
+-	shear sensitive fluids
 
 ==Two types==:
 -	Rotary (circular motion; gears)
