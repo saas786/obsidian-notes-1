@@ -74,8 +74,18 @@ Classes:
 2.	diffuser type
 
 ### Impeller
-Types:
+Impeller Types:
+-	Open
+	-	ideal for fluids containing solids and abrasives
+-	Semi-open (plate covering one side)
+-	Closed (plates covering both sides)
+	-	more efficient
 	
+Mounting Types:
+-	Overhung: mounted on end of shaft
+-	Between bearings: mounted on shaft with bearings on both ends
+	
+
 
 ### Radial flow vs. Axial flow
 __radial flow__: fluid enters axially and exiting radially
