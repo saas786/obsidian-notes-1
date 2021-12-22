@@ -13,7 +13,17 @@ Functions:
 Classes:
 -	Positive displacement
 	-	Rotary
+		-	Gear
+		-	Piston
+		-	Vane
+		-	Lobe
+		-	Screw
+		-	Progressive Cavity
+		-	Peristaltic
 	-	Reciprocating
+		-	Diaphragm (air or mechanically operated)
+		-	Bellows
+		-	Piston (single or double acting)
 -	Jet pumps
 -	Centrifugul (Dynamic)
 	-	Radial flow
@@ -110,11 +120,14 @@ The impeller is driven by an electric motor, steam turbine, or internal combusti
 ### Shaft Sealing
 Minimizes leaking of water out the pump or air into the pump. Pumps may allow a certain amount of leaking to extend the lifetime of the shaft sleeves.
 
-#### Magnetic Drive Pumps
-A "seallessImpeller is driven by magnetic flux instead of a shaft. 
+#### "Sealless" Pumps
+"Sealless" pumps are used where the fluid being pumped is too aggressive/corrosive for shaft packing or mechanical seals.
+
+-	**Magnetic Drive Pumps**: the impeller is driven by magnetic flux instead of a shaft
+-	**Canned Motor Pumps**: the motor is close coupled to the pump and sealed inside a shell
 
 Uses:
--	highly corrosive fluids
+-	highly aggressive or corrosive fluids
 -	zero-leak tolerance
 
 #### Stuffing Box
