@@ -76,7 +76,12 @@ Classes:
 ### Radial flow vs. Axial flow
 __radial flow__: fluid enters axially and exiting radially
 -	end suction: suction flange at center of impeller, and discharge at 90 degrees
-	-	s
+-	inline pumps
+-	axially split pumps
+-	multistaged pumps
+	-	multiple impellers in series to increase pressure
+	-	multiple impellers in parallel to increase flow
+-	vertical column pump
 
 __axial flow__: fluid enters and exits axially
 __mixed flow__: fluid enters axially and exits at an angle more or less than radial
