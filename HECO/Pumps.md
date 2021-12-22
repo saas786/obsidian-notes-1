@@ -110,6 +110,13 @@ The impeller is driven by an electric motor, steam turbine, or internal combusti
 ### Shaft Sealing
 Minimizes leaking of water out the pump or air into the pump. Pumps may allow a certain amount of leaking to extend the lifetime of the shaft sleeves.
 
+#### Magnetic Drive Pumps
+A "seallessImpeller is driven by magnetic flux instead of a shaft. 
+
+Uses:
+-	highly corrosive fluids
+-	zero-leak tolerance
+
 #### Stuffing Box
 - packing rings
 - shaft
