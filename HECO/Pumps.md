@@ -20,8 +20,10 @@ Classes:
 		-	Vane
 		-	Lobe
 		-	Screw
+			-	used to transfer fluids with high concentrations of suspended solids
 		-	Progressive Cavity
 		-	Peristaltic
+			-	used for low volume pumping of chemicals and additives
 	-	Reciprocating
 		-	Diaphragm (air or mechanically operated)
 			-	used for high viscosity liquids
