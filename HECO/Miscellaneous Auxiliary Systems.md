@@ -1,4 +1,7 @@
-# Miscellanous Auxiliary Systems
+Section 24
+Speaker: Laurie Oishi
+
+---
 
 ![[Auxiliary Steam System]]
 

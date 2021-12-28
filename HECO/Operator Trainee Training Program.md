@@ -41,3 +41,5 @@ Input hours only 8.00
 20.	[[Compressed Air System]]
 21.	[[Hydrogen and Seal Oil System]]
 22.	[[Lubricating Oil System]]
+23.	[[Miscellaneous Auxiliary Systems]]
+24.	[[Wastewater Management]]
