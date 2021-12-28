@@ -29,7 +29,7 @@ Used to increase the pressure of the condensate from the hotwell. They are usual
 Usually two or more condensate pumps are used in a condensate & feedwater system, and one or more pumps may be operating at any given time. E.g. if the pumps are 100% capacity pumps, only one needs to be running while the others serve as backups.
 
 ### Air Ejector Condensers
-Used to remove non-condensible gases from the condensor and recovers heat from the ejected air. In the shell side, it takes auxillary steam (air-vapor) from the main condensor and discharges it into the atmosphere. It is cooled using condensate in the tube side.
+Used to remove non-condensible gases from the condensor and recovers heat from the ejected air. The shell side is connected to the , it takes auxillary steam is fed through steam jet nozzles(air-vapor) from the main condensor and discharges it into the atmosphere. It is cooled using condensate in the tube side.
 
 ### Gland Steam Condensers
 Used to recover heat from the steam used in the plant's gland steam system. Uses condensate in order to cool the main condenser's air removal system and heat the condensate.
