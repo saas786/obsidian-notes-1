@@ -9,12 +9,11 @@ This heat exchanger operates above atmospheric pressure.
 ### Kahe 1 Steam-jet Air Ejector
 A twin element, two-stage ejector manufactured by Westinghouse.
 
-Design Data:
-
-| ---                                   | --- |
-| ------------------------------------- | --- |
-| Heating Surface, $\text{ft}^2$        | 180 |
-| Passes                                | 1   |
-| Capacity, cubic feet per minute (CFM) | 10  |
-| Minimum Cooling Water Flow, gpm       | 500 |
-| Total Steam Consumption, $\text{lb}_m/\text{hr}$                                      |     |
+| Kahe 1 Steam-jet Air Ejector Design Data                                                 |     | 
+| ------------------------------------------------ | --- |
+| Heating Surface, $\text{ft}^2$                   | 180 |
+| Passes                                           | 1   |
+| Capacity, cubic feet per minute (CFM)            | 10  |
+| Minimum Cooling Water Flow, gpm                  | 500 |
+| Total Steam Consumption, $\text{lb}_m/\text{hr}$ | 600 |
+|                                                  |     |
