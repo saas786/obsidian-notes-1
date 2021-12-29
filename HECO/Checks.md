@@ -19,11 +19,13 @@ always check position by attempting to close the valve first
 -	Check oil levels
 -	Feel for normal vibrations if running
 -	Look for any leaks
--	Check for normal temperatures
--	
+-	Check for normal bearing temperatures
+-	Check if shaft is spinning
 
 ## [[Condensate & Feedwater System#Boiler Feed Pumps|Boiler Feed Pump]]
--	If the pump is off, ensure the auxiliary oil pump is running
+-	Pump is off:
+	-	Check that the auxiliary oil pump is running
+	-	Check that the shaft is not moving
 
 ## Leaks
 
