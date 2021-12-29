@@ -3,6 +3,9 @@ Feeding chemicals to the boiler water keeps the water pure and reduces corrosion
 -	protecting the turbine
 	-	by producing clean steam
 		-	by keeping water chemistry within parameters
+		
+Chemicals:
+-	H
 
 **Action Level** - represents the control parameters at critical sample points. The higher the action level, the greater the need is to perform corrective action to control the chemistry of the water.
 -	NORMAL
