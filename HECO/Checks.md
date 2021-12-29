@@ -16,6 +16,10 @@ always check position by attempting to close the valve first
 -	Ensure there is flow through the sight glass
 
 ## Pumps
+-	Check oil levels
+-	Feel for normal vibrations if running
+-	Look for any leaks
+-	Check for normal temperatures
 -	
 
 ## [[Condensate & Feedwater System#Boiler Feed Pumps|Boiler Feed Pump]]
