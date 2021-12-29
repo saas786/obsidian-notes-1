@@ -5,7 +5,7 @@ Feeding chemicals to the boiler water keeps the water pure and reduces corrosion
 		-	by keeping water chemistry within parameters
 		
 Chemicals:
--	Hydrazine ($\$)
+-	Hydrazine ($\ce{N2H4}$): eliminates any dissolved oxygen in the condensate by reacting with the oxygen to create $\ce{H2O}$ or $\ce{H3O}$
 
 **Action Level** - represents the control parameters at critical sample points. The higher the action level, the greater the need is to perform corrective action to control the chemistry of the water.
 -	NORMAL
