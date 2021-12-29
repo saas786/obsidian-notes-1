@@ -5,11 +5,15 @@ Feeding chemicals to the boiler water keeps the water pure and reduces corrosion
 		-	by keeping water chemistry within parameters
 		
 Chemicals:
--	Hydrazine ($\ce{N2H4}$): eliminates any dissolved oxygen in the condensate by reacting with the oxygen to create $\ce{H2O}$ or $\ce{H3O}$
--	Ammonia: controls pH of condensate in order to reduce corrosion in pipes (10-12 pH)
+-	**Hydrazine** ($\ce{N2H4}$): eliminates any dissolved oxygen in the condensate by reacting with the oxygen to create $\ce{H2O}$ or $\ce{H3O}$
+-	**Ammonia**: controls pH of condensate in order to reduce corrosion in pipes (10-12 pH)
 	-	primarily used in piping systems made of steel
 	-	will corrode brass piping by dissolving the copper
--	Sodium Hydroxide ($\ce{NaOH}$): breaks down sludge in boiler dru
+-	**Sodium Hydroxide** ($\ce{NaOH}$): breaks down sludge in boiler drum that can then be removed during blowdown
+
+Chemicals are fed usually twice per day. The amount of chemicals to feed is decided and posted by the plant chemist.
+
+---
 
 **Action Level** - represents the control parameters at critical sample points. The higher the action level, the greater the need is to perform corrective action to control the chemistry of the water.
 -	NORMAL
